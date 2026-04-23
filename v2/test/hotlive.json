@@ -1,10 +1,10 @@
 {
-  "version_code": 117019,
+  "version_code": 117020,
   "version_name": "1.17",
   "apk_url": "http://128.140.10.254:3100/apks/test/com.hotlive-test.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-04-20T07:44:24.366Z",
+  "published_at": "2026-04-23T20:27:48.111Z",
   "pd": [
     "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
   ],
