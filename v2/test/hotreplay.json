@@ -1,10 +1,10 @@
 {
-  "version_code": 117024,
-  "version_name": "1.17.24",
+  "version_code": 117025,
+  "version_name": "1.17.25",
   "apk_url": "http://128.140.10.254:3100/apks/test/com.hotreplay-test.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-04-29T20:44:34.668Z",
+  "published_at": "2026-04-30T08:44:21.225Z",
   "pd": [
     "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
   ],
