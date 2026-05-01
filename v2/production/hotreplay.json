@@ -1,10 +1,10 @@
 {
-  "version_code": 117026,
-  "version_name": "1.17.26",
+  "version_code": 117027,
+  "version_name": "1.17.27",
   "apk_url": "http://128.140.10.254:3100/apks/production/com.hotreplay-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-01T12:26:58.437Z",
+  "published_at": "2026-05-01T15:38:59.896Z",
   "pd": [
     "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
   ],
