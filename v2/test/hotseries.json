@@ -1,10 +1,10 @@
 {
-  "version_code": 117027,
-  "version_name": "1.17.27",
+  "version_code": 117029,
+  "version_name": "1.17.29",
   "apk_url": "http://128.140.10.254:3100/apks/test/com.hotseries-test.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-01T15:38:45.971Z",
+  "published_at": "2026-05-02T13:54:15.728Z",
   "pd": [
     "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
   ],
