@@ -1,15 +1,15 @@
 {
-  "version_code": 117042,
-  "version_name": "1.17.42",
+  "version_code": 117043,
+  "version_name": "1.17.43",
   "apk_url": "http://128.140.10.254:3100/apks/dev/com.hotseries-dev.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-03T18:58:29.727Z",
+  "published_at": "2026-05-03T19:39:40.273Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "mCpikYQoWbaEB2GZJ7akAOavL8h1PceLRgxq5uqdEKN0igmyBMLpdX+mGMEd8fZbFUFXTyW/LisLSyDbs6cPA3YrNvbdqVdeHIjFm+E6PdpQVsG8+Y6N/StJLFRrvG7kNSZX1z4dwp3mRLZED3v9VVVNZL2BOGH7sf+m5J1/XuD6tvNAda7VivESj9bvA+xZ4TL/MyxFpnsIOCMTC5egXltnpW+bYp+h48tC"
+  "enc": "Vz2p3ecPblmFHc/+B1sBu7TMs+Eb99NHoYdgxDYoCmsnkJJS9TA6lgr9vhWmBaZ1fk12B9UUqJOVHnh70E4DWIdW7rFRk/jI3VRrj2OPZ8lU9dng6MPCI1Zoh142dFVqAqzs9/ZJq6ZyCkKBio2Z76ROSpti7qX7nKrd+bJC6uFmS0SsAtvc86x8GvMLZDYNC6LO/31bsoNxgu32Cqs/jv5yo/9YUPZdcZsO"
 }
