@@ -4,11 +4,12 @@
   "apk_url": "http://128.140.10.254:3100/apks/dev/com.hotlive-dev.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-03T11:52:06.464Z",
+  "published_at": "2026-05-03T12:00:12.583Z",
   "pd": [
-    "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "7V5xch3ay5BRhdY7loj0WoO3ZNwD9wqm7aQrb9ZepmymQAQOU8CW97lz73QH+mhRToj+VJLPbNnMS376sjYJ/chuS10eWANYQX8Ql9TV+wPRvYPeMaMS3XoLuAJIhKw0MO5DVBEsEgfWcVonR6WINA2AOlbarnAQ0FSXQN3nppt3Cib3Z2rGwP7SggAgc3n4eOyINw=="
+  "enc": "dRmedZBrjUgwkYhCEUiLTfdbptaHSu7AEokSS3W7KPMOja/QAZphDn1nq9EmA7kiBBq9G98kAFzBclFwIdcT0veFGHNO6RjuDEmCsA8Qr9HvmuSsc/dwNpc0+iIBHrf21gcExVUFc1SHDUaMvgMdHSpRtTe8iZTy7R1hhKfHkRAk8fPJlX0ds9OFsIq2Aw6cIEw2i4EbnXNF2vionyIoCmq3Vl7AlHoUUzNq"
 }
