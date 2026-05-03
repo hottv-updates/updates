@@ -1,15 +1,15 @@
 {
-  "version_code": 117038,
-  "version_name": "1.17.38",
+  "version_code": 117039,
+  "version_name": "1.17.39",
   "apk_url": "http://128.140.10.254:3100/apks/dev/com.hotiptv-dev.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-03T15:05:58.480Z",
+  "published_at": "2026-05-03T15:18:17.903Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "HDsjAp1HcQue5AwN3azAW8S98GcXOBPpdhBwIbtn8U6Pudw0QRWubFY1WFzpY0M6PB8TvSwTcdLVuAfJnmgHr42Br+eVS749YsQ02P3SsDLu9WG8XatoY+JbdEft1cTNdayjuE/GsNkh8Tuh6BlA/3YeW5oyvLayN3z78CIUSRDOiXZg/si9b/iQIwXOJyQU1/DC5jcPMwpzua43ziIL8mVaPQNQXTwC91bS"
+  "enc": "AonfBKcqgMuoa5X5XxX6Hz92C01IK7nTJmGGhxCDVaB6jk4gAtMkDpf1oA24s6kCgVqbtqbtvqapTGd6qKR/HZYqF0sHDAJ5hKjWQvkhcinhmtSEmgZaD1bnAEAKLSBGIjvlUyoCMipdi7/uM1SCCavWJiDUU2EvKoASqJXXxiMMdDHKJT3XQ56spC8vs9Bbc7I06KTwbdjbAAKRUSHu3Eo6JsNMSThQWzMX"
 }
