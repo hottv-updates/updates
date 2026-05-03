@@ -4,12 +4,12 @@
   "apk_url": "http://128.140.10.254:3100/apks/dev/com.hotiptv-dev.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-03T14:44:54.586Z",
+  "published_at": "2026-05-03T14:54:47.945Z",
   "pd": [
-    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
-    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "0rOGY+QlcWs4KBwmqGA50WrBgMl5Z+dcWRDUp2/SpYYBuCDpx7c0zF/1WuOvIVbP9M0L8pmXKIkHPqXbd0w+ecJiuarGN3Xplts6vhNQgH7nYiOqNbciPcxu9oX+DPSLxLiFnYAINDiCJ7OY3zU2xyoeofblyjfcP8T+fZXqt8rfMIegYnbw07qz8CNidw31HATnpGKvKt7xRsz5rOY1BqQ8T3XiuZ6AyeyE"
+  "enc": "dbI7owk2zKwRy4Xcu37X7Da1M6eZ0hJPdL6pvbS4eUNRrkaX4ciR7X3WzGH8Dex7AxLj46CHj08y/BRLzt6tZdxO/sprYJLWkpCPJbiZUBUy0ggd1eP9khCuf84Pr2ZlVAVVfD0muS97YhhfWSAnnLxyDeVaMxtdfwS6zbm1ct0IlYrRJv39Zft3kSfKASWbmbZqLrCxLZcGmUhXGaij+JztWHhXuh22EkeI"
 }
