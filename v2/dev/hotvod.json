@@ -1,15 +1,15 @@
 {
-  "version_code": 117043,
-  "version_name": "1.17.43",
+  "version_code": 117045,
+  "version_name": "1.17.45",
   "apk_url": "http://128.140.10.254:3100/apks/dev/com.hotvod-dev.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-03T19:39:37.262Z",
+  "published_at": "2026-05-04T09:52:21.336Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "XUvFsyronfGOA21JAwxLHkI0NbOEkiAcCjZM7p5HgSsFMzAVCFbfXBVuNhwys388Ay7PAcXsE63rBjpVbeyLM0biSxtlEIPGNSeJWJ0tiEJSJzU7QvsB2H470qUaLjoSjeIwlkWDZHPQ98OGkhRyVd/0E/IuS/SR/ADCbBGnIC+vli6lCF38nwFVmM1OWeznhLaPw6MSIZwWmZ7nh2vV5xKa4aRtTmXAA9iG"
+  "enc": "/d/INmjwdwtI5BFFajZCQ94jca6QIEQ/mKlJXqRvMZABtnwvXHiftOpTo8E+bZ4QVF06w1cyk9PgIBjeIapBl+NhnYQNH7F/1M0IKSafRtr+BvZCq5xCUfoP2vq6RStIHE/eYM9gb305BO7KGREO19aXeavKhC87nwLGUcmcGAHn6JDmtv7wCOIQzphgRerKTI2mv6Syf5/GeRSBn7ThUcUPl3t6oT2Ikg/G"
 }
