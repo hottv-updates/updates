@@ -1,15 +1,15 @@
 {
-  "version_code": 117043,
-  "version_name": "1.17.43",
+  "version_code": 117045,
+  "version_name": "1.17.45",
   "apk_url": "http://128.140.10.254:3100/apks/dev/com.hotlive-dev.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-03T19:39:34.468Z",
+  "published_at": "2026-05-04T09:52:18.089Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "lbUaWtr2R0KKY3p35vhmp39Lf+Frx0JiSkTGTWNR0m/alofIw929nPBtXA4wCIu7RFBLOF+jim9YV3SG2tazaW60zyfBPaLgy850hERm9jHsWcTu6SBEovGPfaFXHA0LOr4BoKRMyYxhEFkO4me231cdvuQIgldJaYZ31fqs4RYc//97pifd8hBIk5fcYwHgO20R7Mza1rX+lsCpWtdhqBrQ7SwUCY2Hxvaa"
+  "enc": "3k/9RS+s7se3NFzbT7JFr1tciGJsrfRyM1eOrTx/1uLdoQsguw4016WCHXnpzrK1aGhUNWob6bfzSYOr0KNRYAAcoAhoqwddl75r0bMqggrI2KuB4Dkq24/yDH4p08qWs8C5C+WjgxJQu2mhCwXdByaXhIn+oFvOsZu4kgbay+Rh4wx35ZH95OiMVMy2H6i3HiNDho+AR58TCHXlL4GiureDwX5l02b1QKmn"
 }
