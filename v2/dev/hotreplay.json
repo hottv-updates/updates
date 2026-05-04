@@ -1,15 +1,15 @@
 {
-  "version_code": 117043,
-  "version_name": "1.17.43",
+  "version_code": 117045,
+  "version_name": "1.17.45",
   "apk_url": "http://128.140.10.254:3100/apks/dev/com.hotreplay-dev.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-03T19:39:43.251Z",
+  "published_at": "2026-05-04T09:52:27.778Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "U5SzmpNiqGfNWTvNsYCDJpi2XUy9kbQ0MKqGCXzTu7UsFo9WVBbZl4loVoqQoqMfhAKT2le3dWD0u/MPl3xT4Mmly+WIn6/eSW2oTc2g9vOa4FJZFfWtCw+kshX64vl2SIBgNnZ27LEsthp3usW3AevbJWs4mcMH0futLQsDTGyioghJbbNgcL+pokT9GVNocYwHJXRUbb4gBrk0fgi+AG5suKjPUasJWHzH"
+  "enc": "f5YR/JhADsh0Hlhr84SUSdh6jisNshUGX+vaooaU2Mi2+qkmsbBYdqom2h+7tnxXxvgwpAy/uNangnOLBzpE4UVB2g4/4ZEeRVCAyvz/TF6D3uL6JNQ1P2mMXo2B1UMQDeocpRbHrOoVHJQBTldY4uVsKlBjUgTmlHXERuD/HypPxZ59DftAAFKIRPiSSI8SW96bvRYJfyHRyaXebs7W8rRek7Hw/XdGAOYx"
 }
