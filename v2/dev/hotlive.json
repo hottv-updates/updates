@@ -1,15 +1,17 @@
 {
   "version_code": 117045,
   "version_name": "1.17.45",
-  "apk_url": "http://128.140.10.254:3100/apks/dev/com.hotlive-dev.apk",
-  "force_update": true,
+  "apk_url": "https://build.nadaiptv.com/apks/dev/com.hotlive-dev.apk",
+  "force_update": false,
   "release_notes": "",
-  "published_at": "2026-05-04T09:52:18.089Z",
+  "published_at": "2026-05-07T16:49:16.441Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "3k/9RS+s7se3NFzbT7JFr1tciGJsrfRyM1eOrTx/1uLdoQsguw4016WCHXnpzrK1aGhUNWob6bfzSYOr0KNRYAAcoAhoqwddl75r0bMqggrI2KuB4Dkq24/yDH4p08qWs8C5C+WjgxJQu2mhCwXdByaXhIn+oFvOsZu4kgbay+Rh4wx35ZH95OiMVMy2H6i3HiNDho+AR58TCHXlL4GiureDwX5l02b1QKmn"
+  "enc": "y8Ug7831vlmmf/H7LfOyMBayQVIp+He1Uw8XoV2eZwQN4AVHdKv+ut/qfU4tt01XhY1wxVoE6KnZdDBSjcsIm332t4fF2omoMxGLXdB3npRnVnT7ZOkPrYYQWZtHdt9GJSJgSVobBrfgtBabPwQo3klU2rPMfTAJbfKFkO/tPnpy+iuVULpob7iHrqwBQIgRuXSP5AvZ8oBPKtrvTqgR+u40grmbOigSAJZo",
+  "enc2": "D7qYW23yB2eqXB9pKjdI4xz6AZATjIxdt81E6UltcrQjD2okTHqknmW6PT9AaCuFgMtk+Sp5zlwx21F087yFryWmbnsEXefHcXl/fp8Do6dGJzAXwMOiuFmXlYieOHr41YKjvkylKiYz2V8W25RU6ryTikgcyQPBR64KlLqgLkJGX6PuW2rGTYy77Tb5YWJj9WEK6PzrlpoA26D72kprKJq4fIMkq+s+rzbL1HlIkI+Y6L29fP6UEp5TEwT1VVdW5ZywXF2bF1SoAzYo/43c/7VY5B9zSXpTH6C6A5UVW0O9wCX3CtP9xEqqDDwosU4Hu5dREyVG6+FJnBhtPYnXCy2rQPcNzuKCs7sRDHxoSvmEaf9PjLwQxtMukYPT",
+  "sig2": "IQDePk8RNu2kPlORuGynnoLG7RNMaTUY06KNQJdmwgeRwHOFcO6ZdyvP8vXDaVLhPmxXu1dBB0GP0Q8RcudXKg=="
 }
