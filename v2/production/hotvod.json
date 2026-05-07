@@ -1,13 +1,17 @@
 {
   "version_code": 117029,
   "version_name": "1.17.29",
-  "apk_url": "http://128.140.10.254:3100/apks/production/com.hotvod-production.apk",
-  "force_update": true,
+  "apk_url": "https://build.nadaiptv.com/apks/production/com.hotvod-production.apk",
+  "force_update": false,
   "release_notes": "",
-  "published_at": "2026-05-02T13:54:26.080Z",
+  "published_at": "2026-05-07T16:47:51.641Z",
   "pd": [
-    "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
-  "as": "QWNTcE9GdUNQVUpoZjA="
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "rwtMQfVktitydyhF1Mu5D5eWpD9uoKN2U202Jy1TRtkoR1K8Ii/sPz2yZHK+sGJO40xA1fWCUi5wo8YAUwWl37e0UNnns/1Q2btP6Kf47/fNBeGoyfq5tK/tqhKrlO4P77xm/1rr77O5CFV6sAVpCsLFVUcFzqU1ccSBk/H9LhozxJ4nbHA5nYJwHm/un9WaJlWIj81itFETMaG+mf6NfJgXRXEPzAEp8yJb",
+  "enc2": "QE/rPs/lr1tsp5ViKnrfyApBbmKr1SUVY7xvTNj+/VlWoUaaswOlkjsJDhjQUv3Tv4hX0kph13noS0hkYP6Aufl5Tzcb2zQDYBkhsp7tCz4x8Luq50QeIoME3Ffr0MHZMao/Enm5O8nl581U9OULyhaGc2Yazxf0jXEJNnnBVnArloWEuL7+4ACfd12AKGJut8PBqBj66jivScRduGLaTUWFsnPifwrNXqXpP6wIEOVPmbzg60lC+k6p9dz8up7C7sGfMhfwEBulZxxmWWwb2f4UNKpDIQx5U5iwtypmdWfHeje44x/MlEWPB0ZhgOFQakN7exCNosShw+8C+D/hEqLkOmriGFAs7pj4eoXlUCqApu7ubA8KcyD/26FO",
+  "sig2": "KKecAhlnO/lxTdPuip92P0nWoxsNO/h7KcTXmmszgsHC439pUb3AB2RgcPN5JNp1zEGHWqsD6qlax970g9t3+A=="
 }
