@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotiptv-test.apk",
   "force_update": false,
-  "release_notes": "v1.17.57 test — bit 6 with debug log",
-  "published_at": "2026-05-07T20:12:36.689Z",
+  "release_notes": "v1.17.57 test — bit 6 whole-mapping byte compare",
+  "published_at": "2026-05-07T20:24:53.776Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "2U+pIIgnwXFSqwP5eArkwLQhklnBWcqXfQ7roMFtH6ryJgZqnyDlnawQVsGaUn9z+j7sYYfAux5QajamzNGiQXfmUn8vaos6V0yZ49gmRa3AEKJkBcMBYSRMq24p+5YixBwSCzb5ZDYeSretB8/IkTkNctS0rY4569H0FWHQWeMbf8zmPdno4G4ynCZ3pwlb4Ya7eqEeF1Q+d4q6qGH2J+qQ1VzXLT7DHOkr",
-  "enc2": "Q6MwCkHFo+XgJbDhbwtSblPTVoFZMReS16xBBBrxqB+D4zmdpItUkdWG1lIpOwxAqok3xQEQBmWjX+16TnXGuUImH8U9apClJZyfwpCBbzQoM1tk1RlcRlRKFEhuM3YgJZhZoJ6MjJpLHUv1ICA6jX6W1dM/x0XHMBVMunhQ0bWkwohk+DRSQsq3VNLboia5NWeG3RAA/pN25zGoQqzV1LXeH/Krpu+aVzrb7RypGNsZebha1b8aae+SK9nQTfEBAs1U9KGyD9jteVIIcwgmLDfjckV5WcsjlPUW57h6Hw8j/jc9XiINnpLkB4U9PYJbd1S6GuW+IUMylIyFSzql//aIlLzIEFlc9oOuYe0vUYiNzfDGP6sm40kgNj7A",
-  "sig2": "/61n4dIxYzJ8kjtzgdGrpIXU0XQ/4vC/h+roGtcpMSMLqZdkbdWPoi2L9glGKymtqwTWa1/Vwz/1+1fEY96MfA=="
+  "enc": "RxDPi+P3pJcbHkdQ9eJoHUIrtpy8hOsYDLS7AvDEwpvpSKyqwCMTU4ARX8cK9LAkJw7DVVBzqT+d9frq6+k749V28JlAVoUOClyc2B1d3XOInReE8MGcREwCJqg9EvcVXKE78YTXnFe1aTVffmEIfljTkIg3yawsTrrXLsSnAc5Vfh8hmZeeaf4aNNOE2br7xpkL5sx8r5HUHHT/0ZQCf6CbXtRaP+vvx6rM",
+  "enc2": "jRP5LSgKTF4y+BMUZsAgzDlrKLs1GXkzL0xqyZY+qzatIgH1ygDwFOMU96woSW1aAV5CTJbfZqOEGHsw5XwFW8v+Ni5BAUGWlNIfiQkBUASOh6wfug2SVrWfgGHQMdPNmz0bYxeCFzUwAgOp4EEXmxgC7zkhzcUxR8f7CRKPk7giSzdKbHbW6GLwiID9mMpaqdCQCezaJ0u7KWRvaFwiecMQrWi6QRKMekz2pB1bbj8jWS4i5/G1nLz97rrqsmbSAMF1gZyYIn0EkMsWqzkgxzo4qTn6rmtPM0is3n7foxnIjgwqE3zwtfVr/wZdgjQH8saAYQf/yTe7DFgCN8/cW9Kll6rtPkXPkYeKJ5hNkTPCAhM+6rJpjyub9umt",
+  "sig2": "QkqPqQpYOBTiVeAOiDYwfg3Hli+whe0ny070SuqdxTobjF0bd+qLKFDqTLDKuYfNb5h/IJPzws+3U1MSFLHo1Q=="
 }
