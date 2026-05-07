@@ -1,13 +1,17 @@
 {
   "version_code": 117029,
   "version_name": "1.17.29",
-  "apk_url": "http://128.140.10.254:3100/apks/production/com.hotseries-production.apk",
-  "force_update": true,
+  "apk_url": "https://build.nadaiptv.com/apks/production/com.hotseries-production.apk",
+  "force_update": false,
   "release_notes": "",
-  "published_at": "2026-05-02T13:54:28.489Z",
+  "published_at": "2026-05-07T16:47:49.317Z",
   "pd": [
-    "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
-  "as": "QWNTcE9GdUNQVUpoZjA="
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "npsbq1RbbqjXWm8+UuDybxVeVWcyJ5U/ST09z76hM+bQm3637hPsz2dBi1JAz1vwKSkR8TyMn5cdqpklSGMOECAeeFIbqtJ6BgPTduWFXHowCzQCeWlnW3EsuaL/NFA/BMFqgf9tCNkUxK/WQ3O+/bYYe787vo03rdbh4L7s+Qk5wbwR3aoACJFHif8MhRGl+CEadTpxIroXQg11curbu4mnmooJesWuayZO",
+  "enc2": "I/dyk/oeHK8Pd1GBCj8+VIvfSS9YS58iPdaeO9ZzbgyeCb2EMwj3HEIJDoHep0N/rPC8/Gcs+JBi6a2j1mkSWvY+UT677srJPINIC0e6TFMmZ/gVXCiiVjeg6Hfk0ENLmACqErzs2UV5HM09z4B3sVreG/hMD01wBw6htPkW29MA1OJAHtMU6TCd8k2GhdPf9qB9QGACaLW1jphGXkNQkdk2YI/l08o/SM5z5XfrlCW98wfe1fe1rpMy62BpuVGk9b3FBDfsFqrVOKcl6mYUNzv51xPSmQyyM0B8RAwu6R7QvylISABc8WCV/PqdHsWcP5Hu4iy/Z3vBtyRPWhqXjITDlH4Q/d8NQaydlpDcTSYnKFgruAgkm0NZmpSE",
+  "sig2": "OrzaED9MK440NBVk952MKQLseisH4+6vTm5Eeq9rmCWeUgTLE7wUWEFbAtE9+BleH9CRwksD3MFrXMMK6haYaQ=="
 }
