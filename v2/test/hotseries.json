@@ -1,13 +1,17 @@
 {
   "version_code": 117029,
   "version_name": "1.17.29",
-  "apk_url": "http://128.140.10.254:3100/apks/test/com.hotseries-test.apk",
-  "force_update": true,
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.hotseries-test.apk",
+  "force_update": false,
   "release_notes": "",
-  "published_at": "2026-05-02T13:54:15.728Z",
+  "published_at": "2026-05-07T16:47:58.830Z",
   "pd": [
-    "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
-  "as": "QWNTcE9GdUNQVUpoZjA="
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "i5hkAWUDAgguKvcr+5QV7Q6aWqAKeBdsC3IjHLn/IWx1VcGzd8R/FZZMFL/GdIPYF2ElHJjLmrbtUj3gh79qDhA5qg5ZS9PrdwBEFXJiwa29XBjwluCkZFS48pmhZK/hzT80j1YAPsVGcsB751gQey0afjinxRfFxdQrnbihwAZ4opih4CiORsCmS/fv56n2EqpstGYGFgkxqUDdX4u/TCy5aYDMM4upQi9X",
+  "enc2": "LNrbVSJaAeODTqAafO2XP9LRM7zyVBNQz+fjSBha77Kwvyv87hVGj5ncOqEvvV24w5Ie5RTgtQ3EFlsVPuutUYkUu021GKluddasp31bblRtrByThqyP9PKFjYvYzYv0co8OGEYhffzIOlMc8vKc7P46cCC6F5qy8gbgnIHPBs+/euLqS4yjkwBI+0II3B1j5jELELp4n/328xwrXVJrxHvdtb7mO+Ls6RCL4HJZfDIMvszyaMGAatDQXCRROl4rjmNrcIccWoMv4F4ejbo1lruMhwUP+eHhJDva0epyVbjYP6D+vIwBGVidqJOgzT47giqpEZQBXRVAXkjVgv/oJ6+nrlOMXFAtDlpMDPRxkRf0IS8m+ECg4Oh7HX++",
+  "sig2": "Qa10IhPRL5W7VGek/Dmpce+8hspw4344MbXUltY2ewy1dM1cWmbuIKfTjpIk47ewTJr/VHRRjPGLit+Nucpc+Q=="
 }
