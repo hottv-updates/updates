@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotiptv-test.apk",
   "force_update": false,
-  "release_notes": "v1.17.57 test — frida FP fix",
-  "published_at": "2026-05-07T17:02:22.031Z",
+  "release_notes": "v1.17.57 test — cleartext default-allow for 3rd party content",
+  "published_at": "2026-05-07T17:06:45.532Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "K+Z47anVwapYrToUKptsYRdobi6NIn36zNxW2AFOWViXnbuqIdacDq6wrlMFl2F+i9Tv10ffL2sllE8rDznUc9mAuHjyv74WjR+Zk1G2YecEJ/22kgYf+XBFnCtmY19omn5paVYkVKa1oVSWef3lOuFk5/6cH9cRUCEhuKNwVD51e/9klTGUz9goonb7KlwFlI/figLLY+G6tNDiYOmcUSQOR0cklvmRE942",
-  "enc2": "kc3M86fN9D1OaWPLJpGRhagMwLZiLWwgru2yIE7kHq94yC6+dwSiKDh2v6erNfVzdCxREsQeKD5HINMWNHjQePqWl5IeqpXYccdvkeQT1dXhzPoqmVsuJ9mWnZE09684JyoUw01YIZl6saiQFsXUqUNr/wpSGrOPcN29dJ31X2tBsXTphPRcjuAWg8R6brlpr0iiyqX8Sqye6DOweKioc1aFs7V4+enAC+we4GmKIpQm1rsZcFpcOLGT4BY/1MsJ8oJLCZw7VX6yia9p73HWWYlwSMdJGU8uaacS4q3rj6YyMYo/Mh4EVaWg40qafhQttrqILkUqXoukh5K6WPedpAkV4AcyyLfelxtEogUekZS3+ZQFHGWJsZQbVxXi",
-  "sig2": "njT8Q8OFwQCJVGJBHTYjTDHVniyqVX05uEVzvNb1AbN80NXPdJIsMzBz0g7q1b6JpKQMdK5tX677cTDJs74V/Q=="
+  "enc": "U8vq/9mp4Yi01Py5dcfXbWUqcp1eU5yMkvwckPqcTsa09EM54CbELVJIjwbs+k/4kODi27A3EmepP5DAmG78BQ+c99QqKvKXP2yc7Mw8WoXOTiGynLUxzqkbFxUlOmOjhGi/JEW6nKvYI+y6sLkt5sle6CT0CpOhpJcX6IWMTCuF5DFR6li8GswArHXn5ewWre/fGnI+irYdubo0U28gYytd6JtOI+bdl3Eq",
+  "enc2": "Hh10hP2V4z4aD1zecvNnKDUhHtbr/J+224BV3GWmLnpwdsUvGlEn2Mtt79ZXAxkbv73ZfOTsQNR98ZlgYQHy6VHEjJkeycA6Iit23tCMXfGUqreLi1ndOdX6OEyzdgk9tkqXzbsrjlwWcdsNE1pAgzxJocw8RsnM9Qc6Wd5iLp6tDlCA4Y1pr/n+bCIA3khGJbINOHvGmmjTg7F5SFtg9hvcc9RDoQ15phECcdac5pcvxLuJENCm0lt73eeE9yKzlyq275e7hb9M3ZTgpdfEgH0mXAT2y4LSGTOX/DXh+PMeEw/wwxVp3ERbnM5zjKpMPfuBgWP1iLk4wT6YV+rFRufHCem5igYe8Eb23uGZrlclsGhai8us21EMQJQ9",
+  "sig2": "aoPEhkniRirR9QCoxTyx8Az2TmTQBp4Ec4y/6BSbyxnxa3v1dlyPn2OGnWL6nRJZ2T1XJi1gWS63k2FkEsdlig=="
 }
