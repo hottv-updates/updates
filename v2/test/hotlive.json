@@ -1,13 +1,17 @@
 {
   "version_code": 117029,
   "version_name": "1.17.29",
-  "apk_url": "http://128.140.10.254:3100/apks/test/com.hotlive-test.apk",
-  "force_update": true,
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.hotlive-test.apk",
+  "force_update": false,
   "release_notes": "",
-  "published_at": "2026-05-02T13:54:07.233Z",
+  "published_at": "2026-05-07T16:47:54.044Z",
   "pd": [
-    "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
-  "as": "QWNTcE9GdUNQVUpoZjA="
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "I980mLHt4h+5B1w+JYv6gfwa85KJK+9S/Cpbmw42A1YnwEXhXX5ZQCrcpo8jAZfvG617ZHESBcITatDHPB2Hyuj9oMi1bH17yPJKUMZmAT8ZnXSp0sdAb8Z9E7WuiAa9kYqy+zo7OGPLh4477oqjuXjdFsTie9WbH6rKmCuNYrErC60IN4ZajazW9Id4qUGFe+61yppr/zgjDg9ejod1WAuC0tRRdK0xzjEV",
+  "enc2": "vAkf7+RKvTpKwtZu0hBV9iQnuqFap3XvK+ydFoC45a4V1SbLhpMM5FRG/COzo8IDyV65ONbPB3OmkgWIjtTY4agdYZdmx1fcKb07FzQyeIcpXd9vmIdfkSyuuJZaxXjH38/oUdHQIKJSJLJvfcfPgGyg5ebveBlWPHWWzjTaZt+6cbO49yauBAAExL4bKLx7ziwYcccjd+iwpLwtAJ+f6vnPko9oF4ymJWYxmbx26HSfuPwEGTirSukmTpDfzB1yRf0G00LkOpDla8xkqF3hcEtz+6itOZHwm9jsv+gGM15Xu5lPzU4yujCLh0Wc5r2AXhPqOtAZDHBYTxvGzH0tz5aS0LLltU/smh5LyNPwji2heqePa39hc64krpz0",
+  "sig2": "F/mQWB/YBvdDoIxbcG6XaKOOygPm1ue7PkAbeUqgVDUEcq42P8PPENr33ZCHbiS0zzRPJ0Xs8kWmSwVkK8gWww=="
 }
