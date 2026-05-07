@@ -1,13 +1,17 @@
 {
   "version_code": 117029,
   "version_name": "1.17.29",
-  "apk_url": "http://128.140.10.254:3100/apks/test/com.hotreplay-test.apk",
-  "force_update": true,
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.hotreplay-test.apk",
+  "force_update": false,
   "release_notes": "",
-  "published_at": "2026-05-02T13:54:18.551Z",
+  "published_at": "2026-05-07T16:47:56.307Z",
   "pd": [
-    "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
-  "as": "QWNTcE9GdUNQVUpoZjA="
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "jwh572V6ii2g/p5bHYCn+7oEovFJMifUpKNyzKP9qk0QiKXNl7ixEsskALE+oAx30wssrHV3Ndx4ZLDOielEJiIX8nHQkQhUPQkMp3b987TbwZ+X+zoCWVljlBEuPtlFcFfU71SyFdvrghV/xbIyZSynAyFjIrWOS1pEHP/f313DfOYYAZuaVBoGSezjH6E99gzEGDuiSKwmBV7kvu6aVi8On19mQLSiSG/Q",
+  "enc2": "oYk2y3WeNhDaAsQKyKd8KMinWJ5xwJRbHh0lUa993oDYopEp2qZoyy+3wyFDa3kJz0L+dLizsFJdH2TUKcczwCxapSVhepCXkroYNU87VmG/sfAYput6NaHhSKMD0EZu4fFxbxEqXupZAmKiXbMGkgFNsw0ncvpftYJCSnyOKmXyMVQvp+xvfLr7gu/NOePv0p7GD/4kmxxNGBjBqcjwcpy3e5gW3VCIbIz98CWH9hSa6ZNB6XcN/HKQCjpzQC09+0Q+81KxviY9RESz6Z/rrmyZXtJKeseyoJojg9AqoP2RPuXNIfWq1drcN1wz5B/kj+fDNATtmtNsy3lM8ZKEjK54uchRTK2Lelhoz7gDxbR/uHeUK/RLLBM/HPcL",
+  "sig2": "2iW7XYSru+r3JnJRn1DCvI6J4FtMagtIHEm1pbOwIUZV0/3mnX4ZMYFeJzAyK+A07RnoTtCBX7N4RYX8IHoWsA=="
 }
