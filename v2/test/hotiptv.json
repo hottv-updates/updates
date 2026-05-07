@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotiptv-test.apk",
   "force_update": false,
-  "release_notes": "v1.17.57 test — bit 6 multi-sample",
-  "published_at": "2026-05-07T20:09:03.035Z",
+  "release_notes": "v1.17.57 test — bit 6 with debug log",
+  "published_at": "2026-05-07T20:12:36.689Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "tvcSJTNTPb3h0+xaXHBfMupmf2wQ6rlgLjcb1oW87NUv/ceG/KrTGPcTjpT2dpL3V7TMy2RLLIZ5F3f1V6ySJBVpRfby4K1tHb3/mv8+ng6UQol4lJJ04mQE0jUDgJ4XEX7aQB7v8DT8Z4ygZ3WTJr2JvVw57mgNdjSuPHVrvS/p2jLX6uxEB6PHFwFtxj7UBM9q/FYd0RDdOBQqAgpAmPSyp3jCEd7rFgI5",
-  "enc2": "C2qlAk+TFvO3Sqwwv08urSk4DZQvEJDob1LhS+3Dujcn0kyZApE6dScVx2D5HjT+TgyVS6WgFYyc2EMBHtFCoGeJnjnF8jN8RnVsdD7J6d8rPBGC+MPW2UJKbEGa3lhDJH2D1oM5BRsIT8MQG2NwEIhEXOneXHjUKVM/eUxh1EMGIskFqJYSaOBfarabgKJYPH00fQP6h+Yofx7+bxo/sHEc9PdPkgkG3hS66AqTew+wPR61Aa0OfYKlvZzN/nfD/pe7ifxPLFpOfuzdvkV78TlS3gRHePLHrGqY/VeEVKHNXqIkU1GWDVUlLSy7eEFn3SGsg3JSKuvyR0nhh5R9e0xD0s4BCTTO1W7THzWFBZE3Oz9nMO/NuSu34ksY",
-  "sig2": "9TL9NJbtVY3wO2oGd1N49Hrv3kLnpV8ZSg+rTLOPSaduNI7GpsCZUdB3U6lHeD6tRgU6SjLXe00mLAOnIZiowQ=="
+  "enc": "2U+pIIgnwXFSqwP5eArkwLQhklnBWcqXfQ7roMFtH6ryJgZqnyDlnawQVsGaUn9z+j7sYYfAux5QajamzNGiQXfmUn8vaos6V0yZ49gmRa3AEKJkBcMBYSRMq24p+5YixBwSCzb5ZDYeSretB8/IkTkNctS0rY4569H0FWHQWeMbf8zmPdno4G4ynCZ3pwlb4Ya7eqEeF1Q+d4q6qGH2J+qQ1VzXLT7DHOkr",
+  "enc2": "Q6MwCkHFo+XgJbDhbwtSblPTVoFZMReS16xBBBrxqB+D4zmdpItUkdWG1lIpOwxAqok3xQEQBmWjX+16TnXGuUImH8U9apClJZyfwpCBbzQoM1tk1RlcRlRKFEhuM3YgJZhZoJ6MjJpLHUv1ICA6jX6W1dM/x0XHMBVMunhQ0bWkwohk+DRSQsq3VNLboia5NWeG3RAA/pN25zGoQqzV1LXeH/Krpu+aVzrb7RypGNsZebha1b8aae+SK9nQTfEBAs1U9KGyD9jteVIIcwgmLDfjckV5WcsjlPUW57h6Hw8j/jc9XiINnpLkB4U9PYJbd1S6GuW+IUMylIyFSzql//aIlLzIEFlc9oOuYe0vUYiNzfDGP6sm40kgNj7A",
+  "sig2": "/61n4dIxYzJ8kjtzgdGrpIXU0XQ/4vC/h+roGtcpMSMLqZdkbdWPoi2L9glGKymtqwTWa1/Vwz/1+1fEY96MfA=="
 }
