@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotiptv-test.apk",
   "force_update": false,
-  "release_notes": "",
-  "published_at": "2026-05-07T16:45:14.148Z",
+  "release_notes": "v1.17.57 test — HTTPS-only panel URLs",
+  "published_at": "2026-05-07T16:53:53.414Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "H+g/PA11tM07dZnb433xZ/EngFZAND5yrpo0HDNH2vsyICwwPoqHkSjyVx6PN38sUHwNJ0KnuKh0C2ENUnU8U/IzkivQ/RDPwHTmHR7yGm/dWWuXdP8Q1tQmHAStr31+albC6QgJPenDkcWRujZG4jyPvUEsabQpbVHmvCOJyYcEl/YN4g9mmVg6wWoeoOzmS8MYUbIiNi8dARjtS6ZXcvsDl95cjD1edV2b",
-  "enc2": "AZpYqbF+HnLykmPgjfMcOoyyx0apfMw747KZyRyB09fzDqt9Rm/xhIOA991HuDqxHT4uggSAflcy/2TMTbgi3s1DUeZSDe1JNDt1TMR1mbG7rGwUvPzdSXgr+RxpVnpjHFNGnFQ5a51USh8V2E2w4ucL1T1u1RjpeaAPb/BjHac/dwBYO8YwGGpVleGbxNQQf1HmEepkwaj1b0Oa294BXThzGcmLuj37hc2XIqygZ5mSui5cysZh6GjPzbbOTFb1z9lAbC1bhrvy5u4IBuk1QkTEbsYn3fTm8xDobpthL1u/fHlTcU06QGX5kxuHeoSG8Sm8oee4CoaS/vsQWw8NFR76pBqVgrOv8GtALoOWMprwkJwegvpdRNz8F9LN",
-  "sig2": "A4dWA21IRoldYdJrRspPdpqlJgiC5IK/ABujPBk9wV86tUGLaHABWKeZEc6TcDzc4+NybWtYgUNEK5LVGGUsQQ=="
+  "enc": "JS/LUZ4cC4OXKBz7Ck2FSc7J9UoRPR3cTMEwqe2/8ECmMBh77gK3IpGtQ+py+gdEr1bjz0Z9Iwiqq+rS6a5K1l0XqO5Zx66+F0BBafmjujEycsUUOjoKoAoNFOyZ4beJ5i1DpEPgsZABuYJRCZKOSNqmt2BUL0haquXcy8rgvVBVeMj8cHeHTQGJvLgEXVQcp+ktUwRx9Qiy0MPwK4r2AQFwXZNhK/ao90RZ",
+  "enc2": "y1Iesa3JW9KcXccEsohJcQaG9AVh1HfBkrMyhe2F+bSXmzlCVyRPKc5Gc6uOUdUjZxhDZXE19pBZ60D1EMtF+uXvllf5EHNRItDMlVyrBsnwH86aAvcI6pv5iuufMInIE2/HBTTRM81hSsxSQ9mBqNg/5WgnN48dnfbl2LblAa2VwR2OzMQt/t/oyX8FibwVUcGez1ZDPXRyFbA5vGilWAKDa0IPhnQ4tqFpnfdkIwp3mswCFkhlV2eXnRahkhYtC8VcRNoL41SIiGQnoWmejxgg9OdRuPzjCuozkGbRVOuplDM6QS2m/0m+QxxNUeQiyHZOUqBLuLuZqKCygCCyjkj0h4pZokidUCYZKHbTuX3mTdVA9ps4qqOD7az9",
+  "sig2": "cGob8/RLeeUOQx9kMg8D9NNt521RAZ8JeGYJGL5aetxe4me/R3p2j9trJRRngvt8ZLYrG6GnGFxW9pZe+7RJGw=="
 }
