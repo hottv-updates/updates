@@ -1,12 +1,18 @@
 {
   "version_code": 117016,
-  "version_name": "1.17",
-  "apk_url": "http://128.140.10.254:3100/apks/test/com.riviump-test.apk",
-  "force_update": true,
+  "version_name": "1.17.16",
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.riviump-test.apk",
+  "force_update": false,
   "release_notes": "",
-  "published_at": "2026-04-14T12:30:26.424Z",
+  "published_at": "2026-05-07T16:48:06.708Z",
   "pd": [
-    "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA=",
-    "aHR0cDovL3JpdnVtaXAubmFkYWlwdHYuY29tOjMwMDA="
-  ]
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly9yaXZ1bWlwLm5hZGFpcHR2LmNvbQ==",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "pROi0nyWgfTFdzenAGrOr+5k5DT4OHcI3nXE7LRD8997iDIm3vzXeqzRBddJhnS/Cru03CuLElNz7yiIwLi/5kudhLesprg2KP0PaRex8wR+B+1kOSHUCQRgosPHQCQr1aD4H+P6WHF+6qmlbs8tDYJSD7mqkxaYF4+4/wrl8NFHzzxolzwgbWUHeDlDl8L0hRWdP8EeoJHGtbNxN7mq/khWtlpUf/IDEo10oj/YddzUMeHByI+Zkr5riDR/tGi3ozKBETN7gND4Bw==",
+  "enc2": "9qH1O6RnSdaPNE+UQjl7egsvZmqy7fIasZ2KDpYSREFcqg5S/CbrkfcQOaUrhFxg2jDHYHOoMTviscFkeG54zxe/uMC0g9dkR0/+zj85LV0m1oPcw6iHrO+evIju3FeXGXrW1XECpKJ+MfXf0ED/C4cm/mOKAi77Xlamx7qBSavw0l3+5rq10QeuNYxggBAN1+DJBYcVnNZLeQHcaj6qAR2vIGskAC7wHyf3kkc6eVRONYdekZ3F/hSmAWu5nlXtCqu3ggrnIHqAWnBtY1X/Ev5q9FCPAu4dIcQK/iWDJBnk1JYVoGXyP+QFJ4udmwdE1xiD+mCsPR9sE/idIQ+BsInVg7IBKFZazzGiI18izR2NXUoTIfQR48Ijt9XF9Ru2ZkLuBzwsxnkKtPCw4jDIsCqXxbykTJ3PUpsDCw==",
+  "sig2": "96pvz89y30+stIn4d5SrX3pWFNkVud8Hmpagz+45G3Pm4ef4CKGvHUBaYZe/p/Fv+HvGA922/MkDru7aUksFmA=="
 }
