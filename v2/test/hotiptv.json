@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotiptv-test.apk",
   "force_update": false,
-  "release_notes": "v1.17.57 test — bit 6 mem vs disk text integrity",
-  "published_at": "2026-05-07T19:58:51.938Z",
+  "release_notes": "v1.17.57 test — bit 6 multi-sample",
+  "published_at": "2026-05-07T20:09:03.035Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "3mUxhKtsbvs9oYeJoMZWwrY+Gbse9kwGbcImolYRdIpee8sQwKCGYkulq3VMdnvWpK6kl/V813fC5Emp5Bril1GnEksm8hLDF2IGVit0aPtuMkyVt4EOWkD5u09ik3MxvATLPJ2NahUU0I2+DUZM78OIpBYC4DnOseqFzi+gzFKRuxUlOYLwsg+zknwc80fusTue+vS996g32NtXrUFLU5rTWW4N+oTOml9C",
-  "enc2": "+NhrV4hKdo3YFzYw+lHIUBvfN604g1UD4DwIQMiDpXeCtYGsd9pPT5lbAbXBX+sDnKedHBvfYVR4+uRtlyVOB+aQadEBEfgK/BK+m9sqsYXMHuSqjp4d+E6zMo41jB06Y7rA9izFFwdfIxp83sKOCQ01HJ4Z9Qk0lLv1inizxHWQlUjWKQyiN81/rQEmHRUKM2Ko/KdI/KW//SsSB3LLpPR0cZnjhjit/uXEXnBXyoumxwThNB/BO3WthsLWNwrUCveEAMPQr5kmW+8BYAWWvBuCktZbWKFoot0gPppaonEmdsmu0b5v3OQRVvje6he4u/8BjNkpJh17cbxShqtd4U2vHN+Hf8S4DP2a8d24sJvkwfSYC2OsGlCSN39A",
-  "sig2": "q9c8mhkMW2t2cZFCLxwCN48T+/728IBX0BMeHBCi2ZnyiWiAy6WjZ/904OG66VqCwA8Jp0BTqiSbSIBH5h2e+A=="
+  "enc": "tvcSJTNTPb3h0+xaXHBfMupmf2wQ6rlgLjcb1oW87NUv/ceG/KrTGPcTjpT2dpL3V7TMy2RLLIZ5F3f1V6ySJBVpRfby4K1tHb3/mv8+ng6UQol4lJJ04mQE0jUDgJ4XEX7aQB7v8DT8Z4ygZ3WTJr2JvVw57mgNdjSuPHVrvS/p2jLX6uxEB6PHFwFtxj7UBM9q/FYd0RDdOBQqAgpAmPSyp3jCEd7rFgI5",
+  "enc2": "C2qlAk+TFvO3Sqwwv08urSk4DZQvEJDob1LhS+3Dujcn0kyZApE6dScVx2D5HjT+TgyVS6WgFYyc2EMBHtFCoGeJnjnF8jN8RnVsdD7J6d8rPBGC+MPW2UJKbEGa3lhDJH2D1oM5BRsIT8MQG2NwEIhEXOneXHjUKVM/eUxh1EMGIskFqJYSaOBfarabgKJYPH00fQP6h+Yofx7+bxo/sHEc9PdPkgkG3hS66AqTew+wPR61Aa0OfYKlvZzN/nfD/pe7ifxPLFpOfuzdvkV78TlS3gRHePLHrGqY/VeEVKHNXqIkU1GWDVUlLSy7eEFn3SGsg3JSKuvyR0nhh5R9e0xD0s4BCTTO1W7THzWFBZE3Oz9nMO/NuSu34ksY",
+  "sig2": "9TL9NJbtVY3wO2oGd1N49Hrv3kLnpV8ZSg+rTLOPSaduNI7GpsCZUdB3U6lHeD6tRgU6SjLXe00mLAOnIZiowQ=="
 }
