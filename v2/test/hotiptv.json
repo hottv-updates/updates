@@ -1,17 +1,17 @@
 {
   "version_code": 117057,
   "version_name": "1.17.57",
-  "apk_url": "http://128.140.10.254:3100/apks/test/com.hotiptv-test.apk",
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.hotiptv-test.apk",
   "force_update": false,
-  "release_notes": "v1.17.57 test",
-  "published_at": "2026-05-07T16:27:54.840Z",
+  "release_notes": "",
+  "published_at": "2026-05-07T16:45:14.148Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "bPb7QFlfjiIquqIUuIH3r2cuyQ+NYGncR56LPfi5cbzc1qVugNHQzTE/3a8su3wmzk4f6tsv1k3P5+vdmyaKex8WgoFUzwqq+s0RXzubJlB/Yj4sOJpEHfI+GzE/yk/87goGbkOakCg/BTQuU9FoZWrPOyxQRJJhFfIntS023PVYpJPRYpUtk+mX9/R6Ex9wA7JQB0YPCloOlvVyPQqRKF3uN7/xVFccx0cE",
-  "enc2": "RwwZ6iUxsyCo1owEXF+XNgC+vpzoF1vArtwpVBfsdfU+Lw4SEFo7TTQU0AAQ9EjV6BDRugF1YUcPtGMNdFJtpj7KxSpEgmt67CuzXyQX4U+6gZKQicMgwEUgz+GFgUpt6v66PkAHeIFzBsvnxbn/yb6bWOC4B9KiCyKusWFuisELnRLnNbbpDbDxn0WDVLy0giVHVUMIz/sybYW2k9hXCTw+8JvtC8TyCaeTc58Wd1qUkunlAcXCTFox92YS08n2qhe/wemPt+/ci+pvJacR8eGajSehHvHa2m3Z4MVLmmq5LU26yk/aq4R39jm5dyIAPDd+TdKtevdxuUnEJigRuVs/ijLDJkQpbhkqahh1gkFDnzBEs4S0pcEhN5zV",
-  "sig2": "25i+2cPUkDbYnjMP7B6hx071cYBtejNipKpsxItVmdYsIwi8pWHG4BhutiNjPPCUsgRZTFZ9gmDAnnYoIPg/ug=="
+  "enc": "H+g/PA11tM07dZnb433xZ/EngFZAND5yrpo0HDNH2vsyICwwPoqHkSjyVx6PN38sUHwNJ0KnuKh0C2ENUnU8U/IzkivQ/RDPwHTmHR7yGm/dWWuXdP8Q1tQmHAStr31+albC6QgJPenDkcWRujZG4jyPvUEsabQpbVHmvCOJyYcEl/YN4g9mmVg6wWoeoOzmS8MYUbIiNi8dARjtS6ZXcvsDl95cjD1edV2b",
+  "enc2": "AZpYqbF+HnLykmPgjfMcOoyyx0apfMw747KZyRyB09fzDqt9Rm/xhIOA991HuDqxHT4uggSAflcy/2TMTbgi3s1DUeZSDe1JNDt1TMR1mbG7rGwUvPzdSXgr+RxpVnpjHFNGnFQ5a51USh8V2E2w4ucL1T1u1RjpeaAPb/BjHac/dwBYO8YwGGpVleGbxNQQf1HmEepkwaj1b0Oa294BXThzGcmLuj37hc2XIqygZ5mSui5cysZh6GjPzbbOTFb1z9lAbC1bhrvy5u4IBuk1QkTEbsYn3fTm8xDobpthL1u/fHlTcU06QGX5kxuHeoSG8Sm8oee4CoaS/vsQWw8NFR76pBqVgrOv8GtALoOWMprwkJwegvpdRNz8F9LN",
+  "sig2": "A4dWA21IRoldYdJrRspPdpqlJgiC5IK/ABujPBk9wV86tUGLaHABWKeZEc6TcDzc4+NybWtYgUNEK5LVGGUsQQ=="
 }
