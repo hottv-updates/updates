@@ -1,13 +1,17 @@
 {
-  "version_code": 117029,
-  "version_name": "1.17.29",
+  "version_code": 117057,
+  "version_name": "1.17.57",
   "apk_url": "http://128.140.10.254:3100/apks/test/com.hotiptv-test.apk",
-  "force_update": true,
-  "release_notes": "",
-  "published_at": "2026-05-02T13:54:10.649Z",
+  "force_update": false,
+  "release_notes": "v1.17.57 test",
+  "published_at": "2026-05-07T16:27:54.840Z",
   "pd": [
-    "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
-  "as": "QWNTcE9GdUNQVUpoZjA="
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "bPb7QFlfjiIquqIUuIH3r2cuyQ+NYGncR56LPfi5cbzc1qVugNHQzTE/3a8su3wmzk4f6tsv1k3P5+vdmyaKex8WgoFUzwqq+s0RXzubJlB/Yj4sOJpEHfI+GzE/yk/87goGbkOakCg/BTQuU9FoZWrPOyxQRJJhFfIntS023PVYpJPRYpUtk+mX9/R6Ex9wA7JQB0YPCloOlvVyPQqRKF3uN7/xVFccx0cE",
+  "enc2": "RwwZ6iUxsyCo1owEXF+XNgC+vpzoF1vArtwpVBfsdfU+Lw4SEFo7TTQU0AAQ9EjV6BDRugF1YUcPtGMNdFJtpj7KxSpEgmt67CuzXyQX4U+6gZKQicMgwEUgz+GFgUpt6v66PkAHeIFzBsvnxbn/yb6bWOC4B9KiCyKusWFuisELnRLnNbbpDbDxn0WDVLy0giVHVUMIz/sybYW2k9hXCTw+8JvtC8TyCaeTc58Wd1qUkunlAcXCTFox92YS08n2qhe/wemPt+/ci+pvJacR8eGajSehHvHa2m3Z4MVLmmq5LU26yk/aq4R39jm5dyIAPDd+TdKtevdxuUnEJigRuVs/ijLDJkQpbhkqahh1gkFDnzBEs4S0pcEhN5zV",
+  "sig2": "25i+2cPUkDbYnjMP7B6hx071cYBtejNipKpsxItVmdYsIwi8pWHG4BhutiNjPPCUsgRZTFZ9gmDAnnYoIPg/ug=="
 }
