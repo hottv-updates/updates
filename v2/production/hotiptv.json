@@ -1,17 +1,17 @@
 {
   "version_code": 117056,
   "version_name": "1.17.56",
-  "apk_url": "http://128.140.10.254:3100/apks/production/com.hotiptv-production.apk",
+  "apk_url": "https://build.nadaiptv.com/apks/production/com.hotiptv-production.apk",
   "force_update": false,
-  "release_notes": "v1.17.56 — security fixes",
-  "published_at": "2026-05-07T12:06:28.695Z",
+  "release_notes": "",
+  "published_at": "2026-05-07T16:47:42.211Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "dUrh0/hJbTuzXs80grMQM1JTnhevsoSQmj1JwY5mMMDKByxCOAZcWoDcgW39HZLpUpUwsjuSkqJ2Y4m8q1JvOMwsyHv9P2ic0rKkSLmTr+yaWmeYhhYWQ0kdVqnwd3wkPmnVYwjBD1Bc9pen0d/Amnn46Bc51AkcYXmmknZDmXI331KLaIHhJyziOEtknCRO+UvbDknzqZlHKuA6CJnyjAznFXuIqaZ2aM6+",
-  "enc2": "r4AoFJpzhRYd6li+reZPB3vhVFb3yHpZgqhHrZw8ZJ9XNTIx9HIMUP2LKA3qlsFZU36MSStkmKQ2I1VVzzJXmc8Pgu/IbDTqGDcgbiRqGfJe9pkZ1ZtrKi/Id5VxLI97HnVCugjYbvHbTb7KPrNiSNIixSuzInhutrRQ2bdd90bhvexURXm1Y2ow6zVB5qluLo9J7vAJqi/9hlVc4XFKaW9yTANoL1oZYHh67G4eMXqXjJvvHD3blF6GyqiRVFKzpQhY4iLJ8XK/NzX/qE/1z5a+bOz013/DJQ0Ge6vvi0Jk+Be9HvJKc4dRT1plBqHSngX+5meIVwOGL4DzV0AkTsxL+Ggb2IDZ9z5XFVON9Z0A61UqwiNkz8O49ez8",
-  "sig2": "sVbECk24HCGj+544oPY1CfpbhtBBxsDTSK5f78cUnxe9VjDVB03Xc/gbJ2OUIYQl2hcHZQAy8Gh1Rw6IUam2rQ=="
+  "enc": "1dS0RvKBryS6CZQAyJ+c0rqwOaXCziTZJWRo+L2/ssNwB9P+5p5BakgiNZBMmO4BAQGaUYQjwKTzg5hCWr1V0o4M4CQNrCdjrkRCybLxGq+dPDmuxxD/XCM61vdrPt4zJVlIFlK0q/ygIDkaZ8Ugw9UXbXlWCTeoFuQGqJ/w3qXEzHhPJchlgvZB6hWwRwOr3qSISbHs4UbbByTJnp+yEAzAvEglZgF2+L8f",
+  "enc2": "l0iokUVENo+nl/lqGENDLUB0FlFRrdGnm2ln4JhtUd4E44n79PZ6dutAw5lmqpnhygxn3sYYvoYTBMY0U9+V6XUOvr/Nwwyv5VGZGvLi1EKrx0LYcyCl/oCXOXfiKoseduiLM5/jSKfLXdyuroy5zOCWEqOJoV/fcTr1++6UTLabJ7MKF06eOGnv9PCmClHdrv/Y8R4aKCHdiDGE1HnrxDAXOsbHUtn4gfzr7f6aiwKfAHDWSU1m18bTt7ATSC53UKk7NqPp5oEglZXZm5MQ8gA6qWMjd433Q0SZvswDYXBjkxZy+S0vVV/+fjFos1bRJ2dH1NBEm/ZCvK3Uaike7OrtgZ8MiHPKk0+QXK9lutFwGaizY1pfcIRkFH8X",
+  "sig2": "lKu9IhAhtMrAYgFB9JU8rRVe26tn04+OzLd6fUEA/WqnGriUg/fjz4k/7LSfkhe5lGCZ57LOlODIXDkIn6PiQw=="
 }
