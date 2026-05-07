@@ -1,13 +1,17 @@
 {
-  "version_code": 117029,
-  "version_name": "1.17.29",
+  "version_code": 117056,
+  "version_name": "1.17.56",
   "apk_url": "http://128.140.10.254:3100/apks/production/com.hotiptv-production.apk",
-  "force_update": true,
-  "release_notes": "",
-  "published_at": "2026-05-02T13:54:23.637Z",
+  "force_update": false,
+  "release_notes": "v1.17.56 — security fixes",
+  "published_at": "2026-05-07T12:06:28.695Z",
   "pd": [
-    "aHR0cDovLzEyOC4xNDAuMTAuMjU0OjMwMDA="
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
-  "as": "QWNTcE9GdUNQVUpoZjA="
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "dUrh0/hJbTuzXs80grMQM1JTnhevsoSQmj1JwY5mMMDKByxCOAZcWoDcgW39HZLpUpUwsjuSkqJ2Y4m8q1JvOMwsyHv9P2ic0rKkSLmTr+yaWmeYhhYWQ0kdVqnwd3wkPmnVYwjBD1Bc9pen0d/Amnn46Bc51AkcYXmmknZDmXI331KLaIHhJyziOEtknCRO+UvbDknzqZlHKuA6CJnyjAznFXuIqaZ2aM6+",
+  "enc2": "r4AoFJpzhRYd6li+reZPB3vhVFb3yHpZgqhHrZw8ZJ9XNTIx9HIMUP2LKA3qlsFZU36MSStkmKQ2I1VVzzJXmc8Pgu/IbDTqGDcgbiRqGfJe9pkZ1ZtrKi/Id5VxLI97HnVCugjYbvHbTb7KPrNiSNIixSuzInhutrRQ2bdd90bhvexURXm1Y2ow6zVB5qluLo9J7vAJqi/9hlVc4XFKaW9yTANoL1oZYHh67G4eMXqXjJvvHD3blF6GyqiRVFKzpQhY4iLJ8XK/NzX/qE/1z5a+bOz013/DJQ0Ge6vvi0Jk+Be9HvJKc4dRT1plBqHSngX+5meIVwOGL4DzV0AkTsxL+Ggb2IDZ9z5XFVON9Z0A61UqwiNkz8O49ez8",
+  "sig2": "sVbECk24HCGj+544oPY1CfpbhtBBxsDTSK5f78cUnxe9VjDVB03Xc/gbJ2OUIYQl2hcHZQAy8Gh1Rw6IUam2rQ=="
 }
