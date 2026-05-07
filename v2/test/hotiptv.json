@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotiptv-test.apk",
   "force_update": false,
-  "release_notes": "v1.17.57 test — proguard JNI-safe",
-  "published_at": "2026-05-07T18:09:31.039Z",
+  "release_notes": "v1.17.57 test — anti_frida coverage refresh (12-17+)",
+  "published_at": "2026-05-07T19:40:04.625Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "371D+xY62PH7OhQQQBnWEdvW06VDS+xJHX+2t0Cp1bbeD2GokyYszGG6ZQsvVhr0GpkP555BHB8BYmWWGIduoqOYTuCGbfWdnZLEiBUKUgb92c+fiBbj6TLWMw8RPo2kTrFpxyqBZqVDphuvCCa3m3kHbWpcKTHO289SgQqrfi9FzEJeyR+HzB1IKf42Dl+WtcmFuXcpZTMQaTs6tYP/8R366SLMCvrGMJfV",
-  "enc2": "yNq0r8wDKqzHg7m0tZ6uPqMdkauYqfGuXhRw/+QbpTqHuIMtQneziJtxacPrRxUxcxDTnFnrqb7TB+04I1iHmWJ2PbBel/XdFCc/f3x3K/D1nIdImHGk5Lb8f4daWpe3S903/CBom0hP1HqjScHWZ7EjW6FwfeoK9s3l4TOuFpTGOvE2owHiZxfkIB4FQbVgNPsBOtdnzT9E/zcpU4drGW7YETteVVSgMg0SiRygTiQTnlN+P5nVFRdcvpugb5ABrS8jnJavpqLiQI8fX//aRcOYNWVZw518p85OPkowX7DDH1v2Em76M4EkeF7KZIYCQ78g7S1aSaDkEYwE5xAps3zRQkbXqu1UifXgP5lqiN/N6nb4hj58ETWhWfHt",
-  "sig2": "m0Sw5Ag5n+JZqCmQ8j91UQpKZZ1L808MUHA2dI6pKoIlFe1GEpNeTFhhuNv+yXbTxafwwcTrVvEiHenC0nnIPg=="
+  "enc": "cycnF1PR+zfnd49wVevLIfowVbBZCI+giP2EAaOGTlK92iqb6CdE4DUqdz9AKUY6THh6cOqLSYS1WGVh9rThGophOW1liJhMeD0r0mmI6pz04KNlGOUxf3XycJkOvCU0tE1/CSYznQMbwnCrDS61147KfxMj+H77kRJp/PIsI5TcNhfCckFqZ6QAD19J7dRhBeaeMDKVT+r1VcJoZYFmGH5ekaGZgIgvLiLs",
+  "enc2": "NI2U/+DdNwYV37JDaZp3iEaf8t7a4ebslJQq2+uuA71njd9Pi16H7VyC+qd8lm/Ce9JnUr05o1634T5FdWwCb6742my2MRopYNODZxqdvQ6mUSSLDVTUCPjoSMSVPmUnQm1j2LcytXXasN4YlPvW4RQniDGyNkvl+3JfsseJb3qlhlO74T+n+rUQh2PT5zaKaLIM7eey2hCPLBudimwnCG4BJuCSyCoI6o+wCPz4K0qZa1RFhgz59Ynf+sZ0Yg2llXtMli1Uk6uWdwEpZKN5nIKOkHUhCEIF2L3KrMpwP+mOqg6Qfj2AI43taRCpl3sJEPGg1i3KLfxz4OTtVotUlW8Mxoj8i4g99Kkz6T6oxrrA6x1zwOCBw4x0yAfC",
+  "sig2": "pUXkbJ8dAY6WZ8DDtZdlvBAAmVmmftWX+F8haAKcNp6mLW6YQs9eQE7Qt+IszL4CxFYKHPN+1g/gYxIeTlcK1w=="
 }
