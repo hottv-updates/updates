@@ -1,8 +1,17 @@
 {
-  "version_code": 117000,
-  "version_name": "1.17",
-  "apk_url": "http://128.140.10.254:3100/apks/test/com.maga-test.apk",
+  "version_code": 1,
+  "version_name": "0.0.1",
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.maga-test.apk",
   "force_update": false,
-  "release_notes": "test publish",
-  "published_at": "2026-04-01T13:14:29.921Z"
+  "release_notes": "",
+  "published_at": "2026-05-07T16:48:03.947Z",
+  "pd": [
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "8iWVSHnam387oUYtWTT5R46EzPlgjEwfXVg6yQofhaxLNHFe9BZCZ9n1xfOYdlGyz0A//j87Vv93p9WI+oofZDjGsRv+nvsqri4NyIT3Th/VFC6OcDklDi46B9ldr7v/Sxf4LJLgTrxqZTthTbEFy8QaQfx4Vfaf4wtdXs/q8JJQrYkV2LVLPtIVUrNFCd4IAuZIiRFTvIGz0DmQKwOnh3twQwl1S2KTAglt",
+  "enc2": "QIRHLSqoSD+FYpv66+QGzxPXjCvUrA3NqfmNiPpIcAXnoZKSY4VqruZd5bxm+wpNZ9RmFacNxIKnh/dwbiq7e7cSViFr/lO2EleQKNaGbQ1FlYbtrHCNoo1NIzY1EIvOMhu1UxEkpGgCIKq6fnx6Q4Ji5jRVLj22oK++vGXpnBeaEFmBKpczyOrahKFcGsD/h5skNQGNHMVn5NH+MQYGQLTE4eYZ64jRhPusaft/BjF5nQGObkKOPZd4jAbWGicg+7uoLzYj+5b1tA1+o+Gc+i1QQhGwLHFzqNLkJJ8Cwe17DzfYwh0Ca+icRT3UlS+F6BeborJqxWyVAA7MhEQdq0Q1iEcSJo1DnznZj3VdK2Az01jhGhskVNKqtSlp",
+  "sig2": "DdQoN7o6RVDgMmjkswT5mGNXq3BZlkQgLRI01Gwk/OWhxMVGsjDVAxiWjt/OfTw+Ri5QZIcBM5VXxaPsnh36ww=="
 }
