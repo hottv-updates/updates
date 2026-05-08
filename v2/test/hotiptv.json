@@ -1,17 +1,17 @@
 {
-  "version_code": 117057,
-  "version_name": "1.17.57",
+  "version_code": 117058,
+  "version_name": "1.17.58",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotiptv-test.apk",
-  "force_update": false,
-  "release_notes": "v1.17.57 test — TV hygiene preflight bit 6 hook_framework",
-  "published_at": "2026-05-08T09:55:27.570Z",
+  "force_update": true,
+  "release_notes": "",
+  "published_at": "2026-05-08T11:15:41.880Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "kruQkeGv+eLXxdle20qMr6GJpm4bwthznhlL+J0FB+fbzaq1nlduPbfqAJXAaj4gJMfIUw5xyYPyvq99sfFiSpbaEk5o1k78VjjeahKS70Wyf56jUjV3wsL7pNpEKiyAHnyaEqPKVXQrchzRj4N4fNdqjx+uuCejEIcMGwDKpNlNIRRl0CLAbGoK6B7G3YHKLB2TC9k69v9FXekIs4aClxSiMdxG78WQVDcL",
-  "enc2": "+hVJ/Tojp6d9nwQapY2k4O0eqVyjacViRvR/mnkVMAfSg+XWX1ATQvbHl3PKy6kRtZAvNJ82j+mWAutx13Y9UKCsnmXlSR00efvQNw3E91jNrmcR70CkCArmdlboNonLsgmag2pkVhFTjxYbrNv3AFPb0gRvsW3OybglgYvpQ7GEUetqlFnvdqZL+blYn3buxEZhA7Oz9l8K3xhqsuUCckwq8HPDLCuT7DHohwXVx//cTbFvbDPmMLJ8zZVQb8QBLqjN+qiQUIlhZm8gT0VfBC2osH3Q+jRFaQEmBLwX4qkQZIBuUQELPJ/wUx9KIcWhhFtzPldMNnHVmIqprpIl0Zc20B2qp0Jml2vw1W5dZ6kcQnogb4oW6WMxofVC",
-  "sig2": "qR9VjukLa0oAH0o0Mn0S4cbGm63ypo7JH1rdHuAy2PqrzjKpf4Sq7yzF6bgmtx3Ygeyr+YeH2sF2py4DNu89Lw=="
+  "enc": "Yq+a2vbKQ2LDseCglN1ydWm5S+DSEnsK3DcdhchkqJ9D0wbBSQSegyz7aDuw4a6BeEQq4zaQEvZACFJVZ3tEBHCymRtYdkXW4zY+BQtL3+uvZ/AyzZtQZXERSyzMIkYAT6/HDju6eVoqFF8fKrb9Kv3HyP85SeHM147xIM9k+xuiQqwX7dNsQtKkkFS9TWarFYwa4XQVCv6GgIxfJmkzVdHBSo55D+FF1U5j",
+  "enc2": "mBebXGLI8NujHRgrGOQ+Ron1MZHOMXrYjoOuChQIU7IxdqlF7IiQxegDpWq8BOG4sK1s50f/VZuDwlV+E/4ed0GvepOUVzIZ6YkEyLC2zZF0J6TCV1J23cTBuyskgEf59LNHBr5QlSbGyEu5LsLeJwVxCKwy2ltm0hWscWz0obs8b7rQXf2UYYDJwXYBgag2FmtuspCdivR9dICYdpR7M90lmIpSivZPLZ/39hN2WyXPw5UoOeB5NN274DeuJayv6ZfTAwfFehIBU0R3dPoHKKySkFsCpX4HNrSBY+Qpx4s8HDCXT0sMXCHNh3y/kKtsjS1Evp4p7Otcbi/TAyklngMRK7spZF4pxFiJXo3ajUuURuCEEo330ZCt8mMB",
+  "sig2": "7xudXPyud/QkF2PQtK3C6/JD4Yb5Zz0TYwbn7ubwSCbHlr7h26CabLGZyEwLmsSLUlUuceRP4sk0yUuTpkErew=="
 }
