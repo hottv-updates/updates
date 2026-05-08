@@ -1,17 +1,17 @@
 {
-  "version_code": 117029,
-  "version_name": "1.17.29",
+  "version_code": 117057,
+  "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotreplay-test.apk",
   "force_update": false,
-  "release_notes": "",
-  "published_at": "2026-05-07T16:47:56.307Z",
+  "release_notes": "v1.17.57 test — bit 6 + replay-window + ProGuard narrow",
+  "published_at": "2026-05-08T01:45:52.576Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "jwh572V6ii2g/p5bHYCn+7oEovFJMifUpKNyzKP9qk0QiKXNl7ixEsskALE+oAx30wssrHV3Ndx4ZLDOielEJiIX8nHQkQhUPQkMp3b987TbwZ+X+zoCWVljlBEuPtlFcFfU71SyFdvrghV/xbIyZSynAyFjIrWOS1pEHP/f313DfOYYAZuaVBoGSezjH6E99gzEGDuiSKwmBV7kvu6aVi8On19mQLSiSG/Q",
-  "enc2": "oYk2y3WeNhDaAsQKyKd8KMinWJ5xwJRbHh0lUa993oDYopEp2qZoyy+3wyFDa3kJz0L+dLizsFJdH2TUKcczwCxapSVhepCXkroYNU87VmG/sfAYput6NaHhSKMD0EZu4fFxbxEqXupZAmKiXbMGkgFNsw0ncvpftYJCSnyOKmXyMVQvp+xvfLr7gu/NOePv0p7GD/4kmxxNGBjBqcjwcpy3e5gW3VCIbIz98CWH9hSa6ZNB6XcN/HKQCjpzQC09+0Q+81KxviY9RESz6Z/rrmyZXtJKeseyoJojg9AqoP2RPuXNIfWq1drcN1wz5B/kj+fDNATtmtNsy3lM8ZKEjK54uchRTK2Lelhoz7gDxbR/uHeUK/RLLBM/HPcL",
-  "sig2": "2iW7XYSru+r3JnJRn1DCvI6J4FtMagtIHEm1pbOwIUZV0/3mnX4ZMYFeJzAyK+A07RnoTtCBX7N4RYX8IHoWsA=="
+  "enc": "00JrG5R0M0mWO/l9tYlApm/GCN96uC8DQ6YEqfUQZs13cPbJMbZSE5wGpixc8UIEnvOr8woq+Gukw8YpKrW9AQTVpLMIQhdrBVXTjZKGYTWGVdY4bsxUCvKKbTlumkEE8kggYG3J/MlpayFGCkoU3vnVAYgKXK1QvCHYwg09LzeKM4JKgisw3ViWSui218EdgYHs9ovRlimaXbOxifH9zYhv0/9wSEDSXIGm",
+  "enc2": "v6nH1hoqAA8s0KHfi6ykZm2snVJk8iC+2sIEoBrdmjfgqLIPubJWqtdIEGCPsT4mKjdFFBKH1lHR+5LprNX600FGtu/CVFoAbXtdJrZVsk72kh1RLjsQEt7EJz4zQWs9DVph/PJQz0LoYpxmsNWLUssD7HyFoyUWk4Vjh3+Fma4+PELDV6qogrGUIbXXnU8sXpZfmt2dUGFVIV1XAeU+VmPIN93p8J/zT5NzLDRyxjNfit2Uvg7jG0qUnDCy+dOi1lRdmHaIKnX87DRgrwg9vFTVTDPRfUGJpUAOZ/1l+OcFLx+UWMoJo+g4yspTTzSkvnx66CEG5Jng1JYq+xXJgeFV94ff+qRQoKF/weUdq/oXNZ6ctn/fuDVsCvjJ",
+  "sig2": "oonTyewCq4gt5QuAMDck8XXdYzItj0xBWKZ2Ddx5oxJGGJh114Crdgvcsy+24weCzuHXBd9xwhInPmL6CvBeIg=="
 }
