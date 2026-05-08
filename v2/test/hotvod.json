@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotvod-test.apk",
   "force_update": false,
-  "release_notes": "v1.17.57 test — bit 6 + replay-window + ProGuard narrow",
-  "published_at": "2026-05-08T01:45:50.121Z",
+  "release_notes": "v1.17.57 test — TV hygiene preflight + bit 6 + ProGuard narrow",
+  "published_at": "2026-05-08T10:25:49.135Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "hOMp1BMRaBVGnUY8q9ZHZ+CkG2VXqXBEDVTKEJD1NIFW4M2w9KIPna8ehHYKNkktiRktGNZGjuQHcrAXNVw934bK4ec73FDO715E886LdNC+v9Wcu11WsNmzE7JoB7vn0AVXCjURxlcijKHNHvptxdgyzE9FBpEyJQTCKk7NDaYYw5FVOWi2rqLpkgg7eMHUr4lnyfvvEDIEYK9dpUOblnxDyOkTuZi1IEiQ",
-  "enc2": "V4GKaY70TeKnfqnHiySQE/zpleBAlTPHYjjqtarv+vSZV+/xP4AHrvutCFQOodYj98nX+xchZYwLm0TRTuCaRX0MNwCSufZBWu6HMTrVRdZAB9AuDFFTqQ88rbiNj+Af5aMuqKOgNVwKoiEyRmpGYudsLPsEkWng1Zfl6qFWmXQnJe896tqTaN7AQMnAFWk5ZRoSmw7PN2u90eoKUPUrCB1DNzliJ//oFmjXtlWopaJ/kb5lGpsXGWl9mQPQS6tGtwrsXwVB66w+vW4c3ZEHOuLNe/uMk3wPJfXpRN4upomuWylNRDo0QyyZoelENOnHRxieniPWeWgLj+EI75e8XdWgOzMbH85XY2Fx9sNisyBFJbNBB0fUuiiImrkM",
-  "sig2": "LK8cd2+Z52p/ym8mHhMKuRkwCI2xxWqJ4nCRZIm3OT/I9D0vtt6WOo7wzj20lHq6LAtYnXThaXojpRtmS/nURA=="
+  "enc": "VbE+Xbf8S3FdxVxKPl0VKy7ilMj/5W7cGnzDz/ijxHwo5XgI+JR3xtgA2/vPS6cZMAL2vI8FvFuR9mzMrMbr30X+hpIJ7d4+tI4jgHgYtXaNNepJkVQyhxzvtqu863DrJfGVRQ/A4vZbE870ZqSp99BzvrsSTkr7hVk40LJ3EH4tFMyPkOpT647+RsbY0knIOKasu43IbhALgJD8RZeOMHRK+bi9+v1gzvkI",
+  "enc2": "OesgmslmWaz864FEYXu3m70uRWcZwPmHDtdjh0JJS2/QJ6LcPFuGWZfIKygjbl1WJ3LiAbd7fmjBkv/GQLyEdP3juKTVz+oDw1KwBrDEpvuRvI805untdedYbi4SZXZVu6+jV+lA6pNdaJNO2/Rn4xCUNGc5AeM1qSIrvDrVtofSPioqHyVZ40IBWv5xcQHdJXhRt9w9hGrWge2bmA+FD3OeC3Vi9BuwLded2ZdHd/bKlWFXtAzyWGZ4dCmuqO2zAp9IZCktSICiuJLT3Bt/fKXN+0XQA89n+FaTs9F5H5h1qhG+UBFs9rKfhPvRLCqrf8238HJ5yxfdHE5lXoWBoOUWMxwnum0pe+B7kW/lWloXrAYbDAOSvfegWjFY",
+  "sig2": "vv3NPVHazVJ9/jK990LOzDQREG+Y3WXpHUBHEePQjxQKphDvIlF0UjOKHnr/yVmWueQv9clgQ8K3aIBC2sYU8A=="
 }
