@@ -1,17 +1,17 @@
 {
-  "version_code": 117029,
-  "version_name": "1.17.29",
+  "version_code": 117061,
+  "version_name": "1.17.61",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotlive-production.apk",
-  "force_update": false,
+  "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-07T16:47:44.616Z",
+  "published_at": "2026-05-08T12:20:06.824Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "2zGiL/+tEyHc80vR9ugry1tnYaddRQ6ACjuhlEkaguuhVEgyPUbGepaZA69mUWmxnvHUXOd1kgnjgWCAj71hGgMhYB7jL0olX3NMoYw5z0EN9LjsO71iN3X3h97TDq0y39DZAhmmGcdrDxCkDWolqw0pt5oxnUXsFtZCCuH/OpPtqhNdSrtDZkZH8M9nRjY2Q64CTVaxlGdYsxROSRYYI6mBiFWYtSdT37Zx",
-  "enc2": "NQs5bt3KHi/RK55NiJC2hCe2I3bgRPyrF12UhusEALcSdvRhBuogzy5bK9NPuJXVs7KhY8e9KplEWMLcQbrf66ozBR9LlMoTicpa89qYDcLyy6m+voM+FF4JUkfWwhR6vIVd+VHlwpuJ5g16lawMx+yAByznALsYbt6laVOiElE3Jn4v2WTR+ptIX3poFmqYDUohecAM5UA9hWnizCPtUyB8QdPs0lCITCh1uHU4gd45uQc55aVf/CR2ZNpPGuiYEtsDA8rQq1c70UPRWQk3/ww1hlWQ1dKYEJQdl+leasEKp/Sl6atx3WLYYMDel+4XS6qKkPeH4NeSezCGIXj0MfM1uwXWORKxrrXga5ggkXc2r4OUvT3s8abfvy0X",
-  "sig2": "SR+kTzj8o0PZ0gy+7BUujTDVPeqi9Lcmie8t2MZm9es272qixHBj6j+FemeQPFFJnvQCZtG9ICUBxahyTyCqUA=="
+  "enc": "5c9ilsPOYqemnP+4CPaeoGAAJYXtOaE8r3o2s9wfH+uTKk7vsR9/WvbQf+CxC/C3rq5LTtFW2aSsYNeRAibPGIZrga/y1t0vkCUeZP4mMN8+EpMuqNys7TtVJDvwzLep4gxenR8y6dD+xLBRQZ8SOQl7kQxT0lu70kgLfGeLeJA7CoSmvrJPTef4J4CRr/YGGV2AbL8M7iscy6Av9sJJoVxNXg7Qd5dS17k8",
+  "enc2": "DcY3sA+sBAfWS7wy3sCEpkdL71+EA3zj5PO2j9nte2dgS0DiWpE/eG/DKXN5w+JRSLWsgWBp/ePeeYe0uvTD1FOF/9B8e3BAwGo+TGnlloRa0fycpW4/zDosT/zS76cfSPkd49MbOjl01H+RHCThp712+JIqew2N+f4LrbE3GXmBOjAP4hqAMdvW7vOCTfLxSVYzR2juKiskvLn9E3NYjmODzU7MyH6sB+qVgHZ9LwQ/QimrEBNZ48y/HD/hF2ZsZk6g01Qqpl/7UHxyqBT6Rb8wCXd63pxx01s58lG0LTzIOXuxTPjc28w9ylNe7mInVkSLfmxvPHN2FFbMXvVHZ10WBE/yOA372GjexdHG8cJiZGf0D+924HoPLbb+",
+  "sig2": "e/+sFXs1myrtcgxy6UsvAaKOHhEovIMK9+WRfy9grgtdq3ryTh57WJzh8seTCp8kuqUiGlyjx/OvKgA0eXlUFg=="
 }
