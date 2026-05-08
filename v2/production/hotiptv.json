@@ -4,14 +4,14 @@
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotiptv-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-08T11:57:12.652Z",
+  "published_at": "2026-05-08T12:20:10.234Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "NIyqYf3aPKwMnCQ1EJSzer1+1rB9JupDiR7S5kIq9ZnYZaxunr5SROeIi4QNMMav6XpaOUmCjNOmFjoEtQmB1wJQ2GhX8XRPcplqHOI587a4ETAvPuFRFYQWShtFmexDSDS0gj4WqcWbT2+Sez6sqEe5t5qwgMrhj0BekstAqTwxe5QfSdHe2wRkOyLQOqDJSzkT8KnNs5PUis9PuAkoxZ1Y+o3OGfmFxz8s",
-  "enc2": "sMnVtL6Ifv9OMPsRYhEm43oH1ybbO5yBXu/dH+Itd3wiR1wh8H6AAox0avtTxDe7igLUxhz5uhuUrI+2iVwz+LtgySBGVtcmAVghJ9Z+hBT4h5nplVT9ML5cerM13r+JrnDaV16+tvDE+4cIyZIlPr9pCdFKKMDZvshtoPTz83q7IH47dbsQ9ObGG2ZcvsPoWlMAXa73tBX1y19SHZCibwDXN0doLQnnKinXa8fzV5hPBQzpSWHiW2aDRKLwa6xXIBIsnVK/wOvPX2vJeklVuMEkKhjKN5ij68Law9RniVpdOf0km2JwD9X/h023vf8/QBiGwe35sW1Y8AcwI7YYu2JmBDx4B3uTMTmPD8y9UhLQEI7n+wZXBPreSzH6",
-  "sig2": "h4f5lSpkWcGwk0HyDAfkQTplRq723O3LlRpB9Px1NWXJeIkvQvYVIpIc8YnORU03o5sw7yWbKt4d+Ap/tYYLwg=="
+  "enc": "pI2P50j/bnqoofU3AUsSz2o/KmeWcLOS7aQ1if3glgMj+3geu+rg7UtL+JW8YK9xs6KeRkNPfNItM0Ctv2u6/BIJNnmHu8bs4W0V1Zlhsw9Bh/DY/h0Fdj1WTo9Z3/0lgkD8FFENu7LgBUsA5sSZm7wlm/MLg+BWyJ2tsDNp8fFa2v6imQzlTwsIWskmgTT50iwDB1+oIuS9FAxp+dxkviNB9kuuwnEJvqLJ",
+  "enc2": "vIuopoobYbUn0EZJNfkjZFfKl2jhVMgk80jCgYoPNFl+KzyAi1zEtA8rSqQmiVTQj4SlM8EXC3H6J0e8FSB1Kq9ssK3jI7GTdVKL7CCo46UUjqlXJgvjT2V3bcccCgtEUvqJqhs/QHZvCz3CLgudbJNWMBDktrjIv/ZfqkcTGeU6yQtWmF3zdCZMbttVYxX0SSOMM116zYLGN0BWKLgZhwVVd+0/pBxDre9h9AI04CbB0BwB8rVzovMjGLbQuklIC32aBv9XfZmvDYHPLFnUuDX1U4EqGKbmqPYyU+qWltli4/t2bng/CHxO0c1FxZ+SjgexeGd/Rh2hqAyB046HxfmbQuxWYqJrF0c3GFm8kdaAqS89b4Ux42QprO4k",
+  "sig2": "YIdc6jOqJOWeQPlq8gmWBbNn6Dj/jz9y7KhMmSz72lW/cFjIXyMEqYbALQCUEarCigpvk3UbTDGs0nu4/LtIyw=="
 }
