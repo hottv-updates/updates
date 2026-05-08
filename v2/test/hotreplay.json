@@ -1,17 +1,17 @@
 {
-  "version_code": 117057,
-  "version_name": "1.17.57",
+  "version_code": 117061,
+  "version_name": "1.17.61",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotreplay-test.apk",
-  "force_update": false,
-  "release_notes": "v1.17.57 test — TV hygiene preflight + bit 6 + ProGuard narrow",
-  "published_at": "2026-05-08T10:25:51.509Z",
+  "force_update": true,
+  "release_notes": "",
+  "published_at": "2026-05-08T12:20:22.303Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "8nZ8oET9jdujLtfwe+BQ1FANlE3kt/4ZpigSStD9zcqDwckvna90vMCoxVFUMvKTp32lZLDWtkETpappij9SNoy0fjY0GxacQFRolGyeU/iRat35xY/ktOEI4BQZ1CWoV3HTf+/jjXknsPiRYwnLF0Xuoc/aYErvH2fIL0nyy12n4rY0Q/enz8rip+AlAu9rHQjh3hulLiAN34B7SeviDx+8WzNvxRSW2+yf",
-  "enc2": "vIiCpKwemw9H4DXXDboQDwXWTm7SK+wEfQjWlwtXuhoTbxvtF4WbospI68QZvfsem1ycJq3XyvmN8SnpHkTRVeQYCluL8kJnA1ki6nrbvY0zS1rCRfyOarxYzLG3TpDsdbmptqfiF1Ul4+VGZ1rJoOlP/ejagW6GexB0Ilo8VcfHPa7uPtZzyhlOMhdWxr4tlrBeuwGpu10gbDg0dLYBpHqx+npLCInW1ZdAIoZB9Jfn5qxs+a0lpai3aTA0EJKIyshONBr+LU52I9MmIQ+athU7IF+FzWXxYdgzEhLTOJhhmGRe8+JPT+waVTcqxp7+tesavNBdjlOc2IeqF9Qeo/BMib03NxRveInWZlrGngOEwoXCjiNBeq6KChlF",
-  "sig2": "3KM+il8hXoK3Y9aNdzJ90P/O+fEpH+HRqd76IVErF3SLqoidbpeCuBGu1UpgVLwYpJ0Ca9fYPzPHZGcneVKhfQ=="
+  "enc": "FluggytbiyQqL099jMRYginBYnlDD6j0n83K1T/BFjPSIUrvrJPmuhgwvJKJu/mbu4QP9YikRVqSgmBYIHnN0CmwF3B59xZbkyHkILz1MIY93CH4gpmXvD/r7W/Brnuh3nFnmN7r1FC0hmPQuZde3/Gx5//GdqMsHbXV0+ctXGvopUNlB1lW2mx7fsUAj/x0xoUltADC2NFxMBt4dovvwvoYi6vi4Gx9zzwE",
+  "enc2": "u2jzMI4E/DblDv/IHfzRbrvsKVRH319hUvqs23yuRGTHbYoUpRwZ8wHqnF6TXZj3eqzlZsXg892cIWWuGCPz+fIjhJJfXv1a7mH86F7QA3rB+xMoxui+7Ad32BSuOmqamzxiKFHDoI4H0dt7/+AQNar120tMreIzlOGG2bAScQ4gzGsUfn6lmwqZkbbdZShoM+gZCHV9vhKDrw7mUnductAyVRiJcXPKQu6gAqyvdxA92eVqz6xqAgqW534Nq3vmHH5dFAaOmnffYgyOsBQTLeEa5YRQFx/9TzOEUlnZWkmVMUgGnKpk1GI5RFM/yipqEhco2OcyDabE2cyA530dDLYFu9he0JZyoFkxKoZWHb4ovoRsk9jtsI1FfyFG",
+  "sig2": "MhI5xjqXSZ1UhezEervBZXvtNVUs70bNUl0bI+Nno+krzNNAZtdO5jPEaju2BkH3TSOzvJzxssTb4aHu9tGNmw=="
 }
