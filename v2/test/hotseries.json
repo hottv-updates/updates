@@ -1,17 +1,17 @@
 {
-  "version_code": 117057,
-  "version_name": "1.17.57",
+  "version_code": 117061,
+  "version_name": "1.17.61",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotseries-test.apk",
-  "force_update": false,
-  "release_notes": "v1.17.57 test — TV hygiene preflight + bit 6 + ProGuard narrow",
-  "published_at": "2026-05-08T10:25:50.349Z",
+  "force_update": true,
+  "release_notes": "",
+  "published_at": "2026-05-08T12:20:25.283Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "owl0im9wIl+0pn9/wLzPIx4ByeTa2veL+EHYuLXult34gb85IVG5lhIwoL5TguFsqymBS9/ZsgU28I7GdwWpmSruc0apslpcLMrVKv0dclJiA0LO2w8PtziMhe8bdZFRv0iuRuHNMW4VN8M21199tXjaWnwq1ztwUjpSRlFRypQ+y1y9VoUYS9XY3xz10592JkDlb4GjUFHsdmMb33zisRyywn7+HYedMtpe",
-  "enc2": "h1coUMjt8hP2FurGh09MvG8kXqVDS31Ue16C0Tqc6fRkwmCkwIPtnwzBkHOuuT6/em5LP+bAVvlq4iEBu1CD4T0+adX/yXh4+gE0Brwl2qbu7ebWSn6qtteGctuNMluNzgkG+a93LL9GnHVG7NZjOTiMYesJaaA6gX/TOCC491itpgIvXxFb8sec/MjS+IxXqt/+4QuG+TJUsPN2ce+FeOsIIo9/2Q9kQxnmQXDQ4myBRiyBAKuWZh7vzEI++t7ucvzmtYoE7kV5TNEemBczotWpR9FHwXTtnKuIa2RSxN1i/FzqD42psM1iFp0sgpVnwn+lh2BZbYrs/UEfr3Q26qGDZwky+HGKTP+vOr/4S6KX55hxwo/iIdU75uyJ",
-  "sig2": "YR5zxePa5rTDTXyNYRpWH8wcDBBgTB+GE2L7ZDIS+uKY3cO66/RWgfwa0o6QLZNqHqxMbxK83NuAJ70mc53yfg=="
+  "enc": "NcuQED7AuqHI+yvfflhqFNy1OX29tHhd6DKraktBSOJgVguHBQANXm7BuYS6Ji5xOwMOgf7+YcfZn8730U85u1AUGkvMX6OaXcoj4UBSx8n1iue9ewNMIfkjFNvVC/bLhi9tQTJjgq2dmn2kKOu9PZ8skghgnQa0X6CpcQxny/IN6Gu9zy/f/Y/w9kEkM3JyuL0A6IHObyOzFNWwnGXL+K9RSh68fMRX4SUs",
+  "enc2": "DwQScCMLaxcseJGy0chkeEbF/PS9xRTXC2TJhIt8aV0bUwRwQYRK9Rg2z8a5Jg/iU3xeSNd9QNpgTYDq4BLGCoaY9CRcTOGXVLrE6NDjqx32qvf5vyL8vB+PnOahQvzZhK/m0TEf01YQXbVgVXlLTrSi40pw7n1nqEe8LZoU3TD9t9oSp7pTUAzO/Yr85kUPhS/Rt5py+dhwcoEoF6SucNU20QOC/haChucBxOm9AXU5wX5rczWDWcdOi+Arhcg8icpCBj3sVQsYAN+ZBrwuDYUCucIn8HCNQMeLNQUZocacBy3/U10MhXqdDnsCuMP/P9tW2yPx7ZRd45GQVCfcUu3sYC/riQFTNq8ud9T2ljUGH3R3Rn8zo81c+tZo",
+  "sig2": "vWDaw3DEP+ETZ362ywFSjjPyXU0KpUwSAH90DVaSc+exVL4jrqjjrzytXoVGXTCdBTJr7xt6p9YpE7On0TE3Rg=="
 }
