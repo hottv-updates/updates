@@ -1,17 +1,17 @@
 {
-  "version_code": 117056,
-  "version_name": "1.17.56",
+  "version_code": 117058,
+  "version_name": "1.17.58",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotiptv-production.apk",
-  "force_update": false,
+  "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-07T16:47:42.211Z",
+  "published_at": "2026-05-08T11:15:38.536Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "1dS0RvKBryS6CZQAyJ+c0rqwOaXCziTZJWRo+L2/ssNwB9P+5p5BakgiNZBMmO4BAQGaUYQjwKTzg5hCWr1V0o4M4CQNrCdjrkRCybLxGq+dPDmuxxD/XCM61vdrPt4zJVlIFlK0q/ygIDkaZ8Ugw9UXbXlWCTeoFuQGqJ/w3qXEzHhPJchlgvZB6hWwRwOr3qSISbHs4UbbByTJnp+yEAzAvEglZgF2+L8f",
-  "enc2": "l0iokUVENo+nl/lqGENDLUB0FlFRrdGnm2ln4JhtUd4E44n79PZ6dutAw5lmqpnhygxn3sYYvoYTBMY0U9+V6XUOvr/Nwwyv5VGZGvLi1EKrx0LYcyCl/oCXOXfiKoseduiLM5/jSKfLXdyuroy5zOCWEqOJoV/fcTr1++6UTLabJ7MKF06eOGnv9PCmClHdrv/Y8R4aKCHdiDGE1HnrxDAXOsbHUtn4gfzr7f6aiwKfAHDWSU1m18bTt7ATSC53UKk7NqPp5oEglZXZm5MQ8gA6qWMjd433Q0SZvswDYXBjkxZy+S0vVV/+fjFos1bRJ2dH1NBEm/ZCvK3Uaike7OrtgZ8MiHPKk0+QXK9lutFwGaizY1pfcIRkFH8X",
-  "sig2": "lKu9IhAhtMrAYgFB9JU8rRVe26tn04+OzLd6fUEA/WqnGriUg/fjz4k/7LSfkhe5lGCZ57LOlODIXDkIn6PiQw=="
+  "enc": "1AYwBRFrjkct1XhAfnzyu0eeKXrS5awjpQD9VdhBUqTzpvMummjBurd9xvV/KvCGL8nBzgs6pVjodcWH43m2jKDuh5IZNzLqAlxuWz5s4Rs45L6iwi35yCV8KaJfLPOYKPa9GJrdgh7La+gXaVnsdbOywTKHSr5hply1X0SZ5eho5LXGrNY2CUrp1kg0Rhei7StevkxX8PGsM3UOyc2tf8ZwygMpUxW7efOm",
+  "enc2": "xSweajSQ5P5nywRduvzGQWlerbuA8aaHGgtzC/s51F5rTj5HeC3Rvve4+wP/3xfePfjmmq8FKbIOdgHa8O5JtvfmiNibo3afgJ6NGFZv/2A3QWrFlrCK9fiW9/qDlY9LW//DLtP+dl0rJDmBHrgIBVHMeqLU9O9lLbj4U624mtJTB3RIIFHz8K7akxSj56SuMWpTUZHNUuqH7aJRg1MW2HfXhLQQiC87uXAIea35T1CjJ9nSxNgM3zkKIi3iHZv1n9R9XbDa/Df06Nr5ObtZGm2+1auJA/98gQdiZHrB9y0zd+R7F0dORc/KGjB1hGUimyQsAv0oMxVNFzQi69hH1Dxcma3SJ/Rt8an0K+3tqKQxUmyvNH379/9cxT9m",
+  "sig2": "cSUPMlsJH5H/g/p6fcazhTkiNHFqVMn2Sil/xqYloTOtKyj8KPSiIhw4wgs1Ulna+9Kwl7zr+FXfCLlvlUI4Ng=="
 }
