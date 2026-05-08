@@ -1,17 +1,17 @@
 {
-  "version_code": 117045,
-  "version_name": "1.17.45",
+  "version_code": 117061,
+  "version_name": "1.17.61",
   "apk_url": "https://build.nadaiptv.com/apks/dev/com.hotseries-dev.apk",
-  "force_update": false,
+  "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-07T16:49:21.041Z",
+  "published_at": "2026-05-08T12:35:00.388Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "p+JJuqF5rycY1DrZuOehgJZmEBTmgBviieC4ETRFtnNPSMlqCRhAbz8jLLP49Xt1tuVlldFlwNmZpcTgKSWlkIIBtJe1++WHO6ffW/dQqeZ/wyWwPQsIixqemAA5TET23S70wTt8d+3hOsqbvNbc/UavY87fC2s/pkvI/crVodF46F7Y4tIhB6myeWa725UHZQldS3/ysc5KxTEFrgX+MbLHzvxiQeKJhMvZ",
-  "enc2": "eU5kQDABVrr9H0dZ/IGFe6aQqNk1rXr7Wz5CGclTC1v73FHKeqvUv+Jrqr2IWisdfpSGUFELQcq59Oo9/KWDgzA8x+skfnJofLqrYDbQPC1y577WzHo5BCnH8GMSVvXa6HdUyBy2gxinSpa6QGgUiTwAFRm5VcFQldFCFzw6GfodlIkrcfCUOTk7GwuLAwOAz9TskUwVkyUKKT/ZEgRXQyT0vtYuDdyWXMxHA1c5Mh6/IIhidd79igJGGQ7rCmGEJV3Vqc12h5p0Hy9zPW1WpNEJkevWUpGXBrpsxG03RVFQhWkjqCzuDUqFohjcx1y5POr6FNIGVxwXDJcZpKHgLHbwNYrl3Bi0jenkVrh4GlM+7JlYEh8C348KKVWv",
-  "sig2": "ZN/zyDEh/BJmQRUJUjna0MYx8tk4UNH0LuVlmXXaqquLZuGcivXujs5CMHoXe17tvwbP93HvaU8DUL3wmHZ8wA=="
+  "enc": "/qpQsCsgvfddgBlDmV0Mwb04eqdfHX4ccUgFgTJ1itqFlXjl1DkzKjKIRce6CNItumP73kc6QtPcFmbrTwejbjOYU3wvWWZvZfIzpKQhfNwojXQP+9PinOKp+NQQEBVIGdXbDcUPb762X1PzbniBnIHB1oudPVQcW4hqjyC/feIMH+yhGTspD/YfjfmoBP03cX0mOsP7jK3xVUYgq7HppviQ/Haasq4KuNUi",
+  "enc2": "iex2Vgwux9JJPUlI4tRgWPXylW5FJ1mSC+MHMU75DQUs4LVaR2HcQZzF3N/58EGgmMMMPd+NSa8D7h8kaHpnKjEgmCBLU8cG1JcyWwoX1V4oaXXPSet17KXIgFARHIiQVehwKOtl0zLRg4OiYP2GlzLFPIrw0aQA4xuoQ7X1gmIvTxInViTD0eS4qnsNiSOXmmy4nDYz4mMrX/RNXfff8eWGzfZbnLzFqumm0b8TsfuOqQRi3BNDNF7oig6HJLWGiJksERXIs2gU81k+jxVm0+LI3nYqLKX81lPgxIg1tugMcYPES/pEE1zN5vV5m41WVsFgAkcUopgjP1+yU1sL77SAijFKQ/3E42f1X5q5ODXSDLPma+MuBffXfRHb",
+  "sig2": "UBJ6uhQ27YhUnqZxG/EKDYVqOeUv+MXFVhnY+Rb5lu1SuL89espk5RS2m5G8x9wZHQBBXKoYZVGm1R7myxm46A=="
 }
