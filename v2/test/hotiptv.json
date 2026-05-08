@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotiptv-test.apk",
   "force_update": false,
-  "release_notes": "",
-  "published_at": "2026-05-07T20:34:39.355Z",
+  "release_notes": "v1.17.57 test — TV hygiene preflight bit 6 hook_framework",
+  "published_at": "2026-05-08T09:55:27.570Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "D6bDFSE2N0YEEzl0BjGtBCkOOFR2u6sQpvIg9hWC8QnIcvJ42Pp4AzGArSzDQzcJtWXfknlLp/nuiaBgVOv2dePT518UWJWY1hOPOozpRJlJBJ0h0npv4nP5yMxnLOiA8guulsUMOfJxblGrUo4wBjRldSVt3RkL9MmnFdrunDwxznZWj+Rhr6PH/HXm8K1tEIpxAxv6NTBgxXeWIPSZVgtvjGp4OngvXmDn",
-  "enc2": "yCVBWiUeELb8Jzl1oG50bIVV62rnc1NkZtJWrxY1CGok8+BfLi8jDZAO3o+au+flJ3fP0nPlXGlh6EQAv4pez5gX5lV0CusrhAAyMTXoP8TMk3FilT31V+883gBGacUbgVsHcqMgQqAefxgs7xbd+hWIznerVGtP/etQv3vlIdBbRoiKMg+dOxg9TZXHpntMOPLNDytJi0PAoJw5FUAcHSIPJEkHHk6ahXADyA5yLQazzzdKFzaRII6NIE0y/nYP7z+nqNNUYsvbcwNULHA7xOGuJR0PTVpCwe/gE9VFluZ9Oh/VnXztCFAxbJJy2bTrL2kHX6CvWVZR6U+Tj1Cgk2cO7qPbF7slOp0sYSitPMvOes+5yKow3nokVcyv",
-  "sig2": "PU+632KVZWlZk6FW/AMjYjiwpOlNd30sO/wEJbs3Q4Bz4W5sSB8A3cBqymo81v0IJsu83xPvxKkBMwvr4VN+0g=="
+  "enc": "kruQkeGv+eLXxdle20qMr6GJpm4bwthznhlL+J0FB+fbzaq1nlduPbfqAJXAaj4gJMfIUw5xyYPyvq99sfFiSpbaEk5o1k78VjjeahKS70Wyf56jUjV3wsL7pNpEKiyAHnyaEqPKVXQrchzRj4N4fNdqjx+uuCejEIcMGwDKpNlNIRRl0CLAbGoK6B7G3YHKLB2TC9k69v9FXekIs4aClxSiMdxG78WQVDcL",
+  "enc2": "+hVJ/Tojp6d9nwQapY2k4O0eqVyjacViRvR/mnkVMAfSg+XWX1ATQvbHl3PKy6kRtZAvNJ82j+mWAutx13Y9UKCsnmXlSR00efvQNw3E91jNrmcR70CkCArmdlboNonLsgmag2pkVhFTjxYbrNv3AFPb0gRvsW3OybglgYvpQ7GEUetqlFnvdqZL+blYn3buxEZhA7Oz9l8K3xhqsuUCckwq8HPDLCuT7DHohwXVx//cTbFvbDPmMLJ8zZVQb8QBLqjN+qiQUIlhZm8gT0VfBC2osH3Q+jRFaQEmBLwX4qkQZIBuUQELPJ/wUx9KIcWhhFtzPldMNnHVmIqprpIl0Zc20B2qp0Jml2vw1W5dZ6kcQnogb4oW6WMxofVC",
+  "sig2": "qR9VjukLa0oAH0o0Mn0S4cbGm63ypo7JH1rdHuAy2PqrzjKpf4Sq7yzF6bgmtx3Ygeyr+YeH2sF2py4DNu89Lw=="
 }
