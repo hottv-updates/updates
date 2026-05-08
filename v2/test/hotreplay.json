@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotreplay-test.apk",
   "force_update": false,
-  "release_notes": "v1.17.57 test — bit 6 + replay-window + ProGuard narrow",
-  "published_at": "2026-05-08T01:45:52.576Z",
+  "release_notes": "v1.17.57 test — TV hygiene preflight + bit 6 + ProGuard narrow",
+  "published_at": "2026-05-08T10:25:51.509Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "00JrG5R0M0mWO/l9tYlApm/GCN96uC8DQ6YEqfUQZs13cPbJMbZSE5wGpixc8UIEnvOr8woq+Gukw8YpKrW9AQTVpLMIQhdrBVXTjZKGYTWGVdY4bsxUCvKKbTlumkEE8kggYG3J/MlpayFGCkoU3vnVAYgKXK1QvCHYwg09LzeKM4JKgisw3ViWSui218EdgYHs9ovRlimaXbOxifH9zYhv0/9wSEDSXIGm",
-  "enc2": "v6nH1hoqAA8s0KHfi6ykZm2snVJk8iC+2sIEoBrdmjfgqLIPubJWqtdIEGCPsT4mKjdFFBKH1lHR+5LprNX600FGtu/CVFoAbXtdJrZVsk72kh1RLjsQEt7EJz4zQWs9DVph/PJQz0LoYpxmsNWLUssD7HyFoyUWk4Vjh3+Fma4+PELDV6qogrGUIbXXnU8sXpZfmt2dUGFVIV1XAeU+VmPIN93p8J/zT5NzLDRyxjNfit2Uvg7jG0qUnDCy+dOi1lRdmHaIKnX87DRgrwg9vFTVTDPRfUGJpUAOZ/1l+OcFLx+UWMoJo+g4yspTTzSkvnx66CEG5Jng1JYq+xXJgeFV94ff+qRQoKF/weUdq/oXNZ6ctn/fuDVsCvjJ",
-  "sig2": "oonTyewCq4gt5QuAMDck8XXdYzItj0xBWKZ2Ddx5oxJGGJh114Crdgvcsy+24weCzuHXBd9xwhInPmL6CvBeIg=="
+  "enc": "8nZ8oET9jdujLtfwe+BQ1FANlE3kt/4ZpigSStD9zcqDwckvna90vMCoxVFUMvKTp32lZLDWtkETpappij9SNoy0fjY0GxacQFRolGyeU/iRat35xY/ktOEI4BQZ1CWoV3HTf+/jjXknsPiRYwnLF0Xuoc/aYErvH2fIL0nyy12n4rY0Q/enz8rip+AlAu9rHQjh3hulLiAN34B7SeviDx+8WzNvxRSW2+yf",
+  "enc2": "vIiCpKwemw9H4DXXDboQDwXWTm7SK+wEfQjWlwtXuhoTbxvtF4WbospI68QZvfsem1ycJq3XyvmN8SnpHkTRVeQYCluL8kJnA1ki6nrbvY0zS1rCRfyOarxYzLG3TpDsdbmptqfiF1Ul4+VGZ1rJoOlP/ejagW6GexB0Ilo8VcfHPa7uPtZzyhlOMhdWxr4tlrBeuwGpu10gbDg0dLYBpHqx+npLCInW1ZdAIoZB9Jfn5qxs+a0lpai3aTA0EJKIyshONBr+LU52I9MmIQ+athU7IF+FzWXxYdgzEhLTOJhhmGRe8+JPT+waVTcqxp7+tesavNBdjlOc2IeqF9Qeo/BMib03NxRveInWZlrGngOEwoXCjiNBeq6KChlF",
+  "sig2": "3KM+il8hXoK3Y9aNdzJ90P/O+fEpH+HRqd76IVErF3SLqoidbpeCuBGu1UpgVLwYpJ0Ca9fYPzPHZGcneVKhfQ=="
 }
