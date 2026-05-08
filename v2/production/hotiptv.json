@@ -1,17 +1,17 @@
 {
-  "version_code": 117059,
-  "version_name": "1.17.59",
+  "version_code": 117061,
+  "version_name": "1.17.61",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotiptv-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-08T11:26:51.058Z",
+  "published_at": "2026-05-08T11:57:12.652Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "c55Brwtww3GOCrIuocI/PeKX0E6C/30l7nWik9cev9Vdn8o7cnoko6Az7FutPZLSJvGU9T8KpHRoHTr4nxiJISm31fSgeHjSw8bIKBVnCSgIW2TFXJd41Vvg8qnElb2mZEgbbYVpaekwyVlm6es/ae2hYYXdcqvJjx+qTCl06EiJVXmDWRxoBdMx+9bxrGq336Z73S2xpDLNNMOQ/dWj5yyfldidm8RI2xjL",
-  "enc2": "qzpx1eWmxjlYkXKtvUlPh9a3mcpoKonb655j5C9ACw2BxbI8TeY/Z97fCBu+hFlyhMeXaD4qKT5a46/zD3acQrXIQNnsifpivX3aV0L00/IkeO4rSlpMUg9Yc4DY4X+vWzn07Z7WP25wRnWuvp/t+Z6G/KGpK7zOfMDUs6DbmBX25k7xh5RdBn1YeW9RpDztDTCKkZRZ8FK8yH4ENn5/A4Zx13wYabH03IYHD/hL7SiSKU+P6hJ+QTZCZ3h8N0hDuw0AaI5ggi47vTMNttibPjmvCVot90BoQTFdXK4MfWBsGkK5sBbsjeKtylfSEFTiU/ua5a67SP7+eIloN9sef1DIwMMbKDAi38w3aP0GZODkb9Aj2PCW98sap96g",
-  "sig2": "3eEcutDp0a3qffL/9baxZDnZw+3HYgOeZo083Adz14oaqYUZhAIbJl4uQvgw1cZohQpPkaO32dGW8d/X5CCqOg=="
+  "enc": "NIyqYf3aPKwMnCQ1EJSzer1+1rB9JupDiR7S5kIq9ZnYZaxunr5SROeIi4QNMMav6XpaOUmCjNOmFjoEtQmB1wJQ2GhX8XRPcplqHOI587a4ETAvPuFRFYQWShtFmexDSDS0gj4WqcWbT2+Sez6sqEe5t5qwgMrhj0BekstAqTwxe5QfSdHe2wRkOyLQOqDJSzkT8KnNs5PUis9PuAkoxZ1Y+o3OGfmFxz8s",
+  "enc2": "sMnVtL6Ifv9OMPsRYhEm43oH1ybbO5yBXu/dH+Itd3wiR1wh8H6AAox0avtTxDe7igLUxhz5uhuUrI+2iVwz+LtgySBGVtcmAVghJ9Z+hBT4h5nplVT9ML5cerM13r+JrnDaV16+tvDE+4cIyZIlPr9pCdFKKMDZvshtoPTz83q7IH47dbsQ9ObGG2ZcvsPoWlMAXa73tBX1y19SHZCibwDXN0doLQnnKinXa8fzV5hPBQzpSWHiW2aDRKLwa6xXIBIsnVK/wOvPX2vJeklVuMEkKhjKN5ij68Law9RniVpdOf0km2JwD9X/h023vf8/QBiGwe35sW1Y8AcwI7YYu2JmBDx4B3uTMTmPD8y9UhLQEI7n+wZXBPreSzH6",
+  "sig2": "h4f5lSpkWcGwk0HyDAfkQTplRq723O3LlRpB9Px1NWXJeIkvQvYVIpIc8YnORU03o5sw7yWbKt4d+Ap/tYYLwg=="
 }
