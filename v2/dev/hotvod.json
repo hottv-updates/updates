@@ -1,17 +1,17 @@
 {
-  "version_code": 117045,
-  "version_name": "1.17.45",
+  "version_code": 117061,
+  "version_name": "1.17.61",
   "apk_url": "https://build.nadaiptv.com/apks/dev/com.hotvod-dev.apk",
-  "force_update": false,
+  "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-07T16:49:23.387Z",
+  "published_at": "2026-05-08T12:34:57.385Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "9jd2HZhR2wE04jDGvT9SA4G1ToDYWSc8+qHK7Kh03hZRXt1rCpWrhiDm7zjqNoVuuFOKaU75w6WOZ3vIWFekcT49N45r5F4rFgoojNBo5/EI9rIH6d053isubdB9A8V9Ln4TiZ4QPM8axeOH13ktO8an7DSi9FUua0fCo2Nco3gW0wJfek4M0VpIOUZ+tK3ae4u7gUa7YKfuFIFiNx+HMrhInerBFwK5uJ+m",
-  "enc2": "fHhKMqbnRfFK5OFIj0qoDLQJpXXtOlQP9eJzQc7df4jWUMJEDwS+Oq7Bt3ME04x/Uv4PfxT6gm4eeqY6IxUjcTw1rmGzowTEIg6DZCZSwUbz0QS9F2vaAdTuKgHtintkVp2CubeqvZdb4MxX2mvXog7T6z+l8cappv9CUBhS/qsjrPgDWKX1pw/ufukgPIBrs8HszkV1Tb6E+S5D2nQMbupfOTt+NPUAQmv/wjNyA1blYge15OLsrl1vdxwkmunylLvWbevnZZwnvZCiE8P1WwUSR8K4KtjPROpdQl3nPRTh02w7gMz1lUgkHR7Fl3MnQj6nKEluf4oMSNekx3JoxI4jKXq+vqy6X0GtAzoL0BcDOHgJ9utZAS0xY6fC",
-  "sig2": "m34z7IYNc60POh56c+YM1Bd2U0mAIoR42Nbzf62rD/m4sC5wqFdZU4tLrr/EELyT4P6mQ3fTMN4fE0MaeD/kGQ=="
+  "enc": "SMNsPIKUO2JSTEBfQGFondQ8jSO6mvfnytk9ekr8Y9H9ag1UOIzAP+Fk9FOoZuKbTzykrux5XnJh6hhxfkjPEhXTcyfjts9tFXPtmEf2MQeTCAJa6YhU4dlqSdYW3l9WTl8KoUh+uJH9VG8bkj4UGyXZ6DenJkPL1OXfKlgTfhO2K05Kgn3WluuInTElquodZOPcmIf8W/m0SqgX8Nxw5+eFir39ziQzlNRe",
+  "enc2": "DJwIp/XZH0CSC6DNu+OjWshBFUYUXEzco+Eqsk3qHoaQe5PT9B9c9iuGeszhahVF3v4ni0IVI3PPEdGCquvGeD2xvnpqENpTNs6/VqAV6mm9o3kdmuTURhSCivGVcXY2KslEnuDn3uH8owm4CK+y8fLjNIdVcRJmt1JM8yqRFkIXnZZIDrYjcFEhDvAQ1JoXb+W7Gv9HquphjG/IiGDSYStWLJrNcHMuq1Yn1Pn9OKUQeNxsI+hXAueh+ZK6BPEl3cR+hjksWKHBj8OGocUoLqbSeeFjnKrozZourxuIBM95N1Gvyr1oX1mgpoFIWVRiMklyvClDpsPKqmC4a1KnKDZJonNtkpn0YhABh1P4VNs1NE5SpqRoAbvP4uAZ",
+  "sig2": "jdg2fm+KEhavpBQg4LyoovDR9/XSkC90hDyjrRNHCkOxUyVlvMfk+1XMqlNTUf8uwFNcV4chbJ6CBs44ClZQCw=="
 }
