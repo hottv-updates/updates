@@ -1,17 +1,17 @@
 {
-  "version_code": 117045,
-  "version_name": "1.17.45",
+  "version_code": 117061,
+  "version_name": "1.17.61",
   "apk_url": "https://build.nadaiptv.com/apks/dev/com.hotreplay-dev.apk",
-  "force_update": false,
+  "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-07T16:49:18.693Z",
+  "published_at": "2026-05-08T12:35:04.516Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t"
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "YyqCHavcjb/GcONxHBxP1Oj7OQt/aX7D+r/VOkQH4OW53yftjjzDAV1NR8EUGI72FSTmV6Tto/sjFMqTP2uDxmgoeRWCYjkHFf6Ay5ORUXI1LShstfF5dP0ikURTVGHNqSEC2Uk4Pi74ODkN6GoF1W1Vkh7wtGTQMZISmdDWccRvYQL3dRT1I9BEVwg05Fn5yWwsqMCX21COsi15yEuyPy+xv95nJLywx9yl",
-  "enc2": "gnO36eKhtH+k++DF++Ifl1l+fzMQPRAOLxjDrwxi5XFvWdFp0CecEev70NCjmO0wx9C51yWprpnjj1R/8xaPMiSSMuB17redHec62zFZmJka9nI9ndIsqYb+QRdVB5WOcxYtSDLkTxU1nylROVAjfVG8uMDNEocfM5jr/uLgY4G1FNOXVs50FaE8VrPLc20QB6D0N4hTRVIkCPaV1xTnCo2OeRSAcU8TD/xobYHa4qPz/SWxSXrnlthsm+QRX9PYaEeZmmOMh1J63yOOK4r2xj63GFxKdp6AuleBfRtRHdc3LGqrpVU9Rkwy+cbGe4CgyjuzEO0M9or0IgAA7WkRAQM4N2s1M/RlP8inTTAnkL7drjx5qRKK48CM9lIT",
-  "sig2": "Wcvk/OqLAy5Gk7LrxRrzOcqcuyDIdYZ5P4NV/EKEv1xrnmORMMEiy6lSarzREohiklXYBLZbaoG5XYrAF0ir9g=="
+  "enc": "4AYQ/JO5P+3sqO1TosaJqJmLYDuyWzCD2mjvFPh9mIhknR+P7VA5+ENXhu6xY9V8Ng5AYrC1As902mtxUSRgoXhssQKBwsutzebzh4nZ270vmfVaUpQwFqlUMdhYzZz5MJFRI8dZDX9sbOYBydfIpGTBYitgcPPQxXpUuTI8L5fO0+zjfJvLCnPV8oFLtK17XwrlrgMOBkr5rRb3SMg8cXSCjyiFUDeK4TlG",
+  "enc2": "pW6U6ojzx/poznfufG2Zy0DOZOfWZbfsNj2TLcjyj7zBRUO/qSTly7OaDEinZEgK6MIRmsfMZyE3X5VMI1ludeMSxQz5GvSURXC+DlXJtiQIEvwp//r1Meiq2fdJqfz5GqWMOJMeu7vxvSpZ1C1IoIK9bzmq+lSxI68fW8ZFurxJK0Qal+cpD0PqSJi2Yoa0Ez5HG6u8ncej9U5ZCd8se6UfD/Xr7HWG2srxu/qV6JUpnWUZMlm72VNdgsfBufDth44+qNCwK3mknrM0uTfGJe3m1z2Cv0QVvJ5qhTM3LJNZonRyWNO8md5ybVYS4Y5Dva/KdG48uE4X3yd6W7tp2BVw5Fh1Xp5Y853e9GnePih9cTR4SENJ5O3eaTyR",
+  "sig2": "zUdyLfPIfdDyoFBTE2drhu7J734fsIb+6+ncOsoGu7tnKUDtuk8mKPwQpI/u2JY6aGlZKwTCJLWNSKRz2aqTPQ=="
 }
