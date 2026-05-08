@@ -3,15 +3,15 @@
   "version_name": "1.17.57",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotseries-test.apk",
   "force_update": false,
-  "release_notes": "v1.17.57 test — bit 6 + replay-window + ProGuard narrow",
-  "published_at": "2026-05-08T01:45:51.375Z",
+  "release_notes": "v1.17.57 test — TV hygiene preflight + bit 6 + ProGuard narrow",
+  "published_at": "2026-05-08T10:25:50.349Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "xtTJhEWNiJ+uvaTY3dwxs+Wh4C/XZ4AbeESSY4UEMYHOsaUnXk2mYIE68xOL4aVDbgY/A37vvQ0oWkegQI4Jx2bMJORMDxdHIxMywZO6UMwEvYOuXn83In2ELDeXN4zn6O5XQfiERsiml/OrDbVrv9lrB4GJDAER9f6LkRPZjOaU+uGy5oSabzo4XpXB704PEgj3vZaiBkneLdm9QQKLquqbUHUx0E87DY2+",
-  "enc2": "aMdYYctEV4WNHm5iuuoZIsIYbdG8+N2EEFr38R/P8T7aNvoD/Koeqg+320vmbTUIXO82y1DWrUMQPoSBSPz4mqZEnZNsSb+LXQ38MlTZ4Cp9ui1c8ZjyOxmBEXS7wOFrto3hF+bQUmcA6tYsk2pVaPBrW60jwBpbu140iiYJTn5ULVXBdDKoAeFZLJPNh3mfKHK2rWtz10vsDtQnu69LQiWquxHObxkXeIBirgU5/g62XKqXNdChzNUp57tvhyDWwkEybP4Mm/Nh3Fc9zwXSdlWZFmN950pEpnMC+TyWJd/MdsedJavtzxhJYflfZqcze5QiybzV8g3FYG5Wfwf4FzBZL3M5PLM2CHqHMwyu5C7ZT82QWhzJinNFF+mZ",
-  "sig2": "eQ2QVvwmKpKPl6KxiRaLNIhcIGefrSY+3TTWUqfiTjzaFOEvfT5oYSrYxiRKG9i2+AVtcLbM1azDcu5qmLfs/Q=="
+  "enc": "owl0im9wIl+0pn9/wLzPIx4ByeTa2veL+EHYuLXult34gb85IVG5lhIwoL5TguFsqymBS9/ZsgU28I7GdwWpmSruc0apslpcLMrVKv0dclJiA0LO2w8PtziMhe8bdZFRv0iuRuHNMW4VN8M21199tXjaWnwq1ztwUjpSRlFRypQ+y1y9VoUYS9XY3xz10592JkDlb4GjUFHsdmMb33zisRyywn7+HYedMtpe",
+  "enc2": "h1coUMjt8hP2FurGh09MvG8kXqVDS31Ue16C0Tqc6fRkwmCkwIPtnwzBkHOuuT6/em5LP+bAVvlq4iEBu1CD4T0+adX/yXh4+gE0Brwl2qbu7ebWSn6qtteGctuNMluNzgkG+a93LL9GnHVG7NZjOTiMYesJaaA6gX/TOCC491itpgIvXxFb8sec/MjS+IxXqt/+4QuG+TJUsPN2ce+FeOsIIo9/2Q9kQxnmQXDQ4myBRiyBAKuWZh7vzEI++t7ucvzmtYoE7kV5TNEemBczotWpR9FHwXTtnKuIa2RSxN1i/FzqD42psM1iFp0sgpVnwn+lh2BZbYrs/UEfr3Q26qGDZwky+HGKTP+vOr/4S6KX55hxwo/iIdU75uyJ",
+  "sig2": "YR5zxePa5rTDTXyNYRpWH8wcDBBgTB+GE2L7ZDIS+uKY3cO66/RWgfwa0o6QLZNqHqxMbxK83NuAJ70mc53yfg=="
 }
