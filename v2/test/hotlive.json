@@ -1,17 +1,17 @@
 {
-  "version_code": 117061,
-  "version_name": "1.17.61",
+  "version_code": 117092,
+  "version_name": "1.17.92",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotlive-test.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-08T12:20:35.979Z",
+  "published_at": "2026-05-11T14:40:03.064Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "CtZBTFTU5JKPjobS63XvTy+ZtbVYDsMk2H3cOI1liRVJjeg3HoR6gF+P20kYSjM3mSDg3yxGBd02vfz5lfWSQ2/ulohyyJ5KhyVXT+PsIgeuVK8ZNcrJyOTkxAjCiyYn9jmkGSkUax4WgENILXtpXV8GeN4sd+wg1olCnElMkt6/YdFs8BPr6BcSN+7oHs/DSC8UUC9gX7EpASoHipMIlcDYjAIJAOHCBs2z",
-  "enc2": "6OoqiLPHmPRIncEqJVE+E0fx1id30+Ll5a8SZmC8ARUpEPCWIOOU7koK3x2gvCs1Uc7yWqUxr343hRCPpOv/nMkT870OpToyqYzt1xCexhzaQRrdGM/1nUFEi5kOAwekyPghVTLThP1LHOk2H6XVUSB/dO3Yw/7aSn39BKf4qvBATAb1WrCzMPZZoyY4IxI5VfKVt8QZv/f9Iwn8sPAsUwx8iPL2PmwBUqVjGuuZPY5q4JqFW9vKXyLZCNWhDt/kAq1p0k8eidC5iJs8FUDNzAVuybok0J6XTiqOvwJAD8A82UczNc1JyHR/UYNIziTXHdP3Fm/T0XFYsLYxblz2AYQtglru8n0WngfRmrUGC28GKLDWkVimvj3Ys9d6",
-  "sig2": "Ow8qkNjQR1nvEZULAVMJCsDWA+YJXOHKDuK5ymR33UNyuLacUiXzLp3d6Siw7JsFPMCsGXcuUfhsF8j8hlAWDg=="
+  "enc": "XyTij1Y/mTCQ6JJYljxQ1kM7akh8wr7IurN+9cPWAW5pc+phzzvJ0nS9ObOiw60z/S3ixZRh5XMspKCfDFXhWvKAz4vKBDyvpqb2jt8WbKv0DMA1pF2pRzaoJoGtxpen95192x8lZ+zLJvF+ql/i1dfwKSlzffo8zfIQYEgBrMBj384/c+KirNpkPfcq5eKxHKvG6MXVTCMgR2sXEXsv7tra73/yAItYs+2p",
+  "enc2": "ctU01AjO1Hi83p/gA0iCEL5Kr/1hMGzbEkq+LzEswMy5Rad3oVjDXW1/PynuyST4gPQYUf99shtOCRafWcOR1t4VN6bF8pPxAN+tiLd9USMPfHRVePJIdobmZBZyygdqFYjwiwIyiKh+ivZcTXTN9UcVhdc9VaJfLPMHRuqO2IKrhNkGkBVKC1zDG3ZRBpH+rFcNKo2p88aB7sRzUBaRPj1Zw6IR0KGKqmZW6+Pr3ZbD9d/CXKVpgemiM8UaoATEwX0Ujju6RGri4nr5pH9kHlPhMkihwKUh2ExMo/HvdkFTM1RHyi5pgXNnIZmPe/UkwOCzUdaOip3BZWVDx7dhCmRk8N8oKWzVLjSkYv5OWAtvvpY69uLGQOXCcovA",
+  "sig2": "uZycEpzlMmOBDtKN3um/1TXth9aNtjEcFyNa9jyRFVktHgavBEq78sucCE7pmIKeJhFpCHIGCM7ZRRdH1aLWOw=="
 }
