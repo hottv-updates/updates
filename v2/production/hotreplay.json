@@ -1,17 +1,17 @@
 {
-  "version_code": 117061,
-  "version_name": "1.17.61",
+  "version_code": 117092,
+  "version_name": "1.17.92",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotreplay-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-08T12:20:19.273Z",
+  "published_at": "2026-05-11T14:39:55.823Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "mLjDsLD89iLWrEPFFit3NiRxY+sq7VHwhnuIqBNROaZkKpvH/YqO2/HAAagZQsJv7Ua07Ud3vmVcCk0KeA8nH3WjWBGIT+gmAzkQfAQl709Z+zVCQ6o75x2JNxIHKASQZw/+4+k3BwlDDder/OSJR0lyS1aKun3f6cvrVFcVKPml8zF+be8mIQTVM2yt8rXpUv7UxSQ1kUXPDSCGkMd0U8qDdLxNW+WXyJbU",
-  "enc2": "vKrstSSm2hk6695ARtV83Mqqpng2QgWmD7tNB8bGKKH7PFi6wUoZSWckebaoRxrnuPlHc7qEwnPfyAzZ/1ROxXDFxGzrUkpBUXP0AD5W1yNFGBK7Ou1//zObMOrpO71Bdy96W8ydmniS6GxmaUvBLRbkp1Ae+mceLdMto6DCxSzgnloJHTDKAhNhLGCSw38pA0oreqRDxsxTyCB5lUOIIDnDLWAFJvyvoXiMx3Gmvv+CG2ov1dbn8jTahDcd15vbmcLCGJJNLMWGlQHQvfVGnAejnVncSk0SMrkhLL5V4c85HHH5UVY9WZYiYW0uO/fDPt+j2XvsO4VxZSGiGX8FE1V3X1NVdTIOivYsG/j2uveNlHO72EMLun7lrUzM",
-  "sig2": "r++ukNbw5DYkj2EKnrDgXcLn8b/U8hozIcdYSJ73bNJ3+yrfYLMflmwaxK0oVwr5EKSMYSzGVmCOC0va+IKzLw=="
+  "enc": "M8vd1zoF/S5ivKZBB1J8N3Qhg385U1f6aJQnEtLOKwhg9zQ2zfsa3km2EHSLw3VwbOZZy+7JZonSKKL3YqGGAOB9QB0gTpKzbqzaGS9naQ4ELaQ3keoYtg/rvGoL1/WJq8yMon0nYUN55TgrAuU7gbkTSUv5BCf+i+eCxPfDj+IM0zMQ4v272vGJKoaibBXan5fEUF6sgnHG60Xuj9iRKTYCP91HxRmDVLOG",
+  "enc2": "WodNLJ1OnJV9AcDVjMbpDrz87xLKt7d5cde1y4zUTkTYND+/7HP2kgdj/vApa7MULNKfyjDfR+pTWH+EXN9QG2FOu3KmhZ6PGfMI9JnIKY+kf/UQijoaU2CaJdBoO4U5XYWkAyYJ0rbFAMR2+GhIT7nTdglo1a/253eR/q6GxkygS3uFwnwXzD+lBOu49E3Bfa/de5n2Yj527Sc4LfgGr+n/JGft9PQacW5AjHXPHByGtix9MocxSkHZmKmEwKE9ge8kglcO4qzzodcjTQ5TeyzCVLBALxwz/RiK/WbKvSNzf4Jm1102E2j0SPL8k9Cb5L6zLDCNUwN9Ybnztkr738foA+WuY9VZOn16VDm093Lc4kO6e3nBcxaJS+Je",
+  "sig2": "ZXsAWpxaDCadqqNeeSXPQHJVVG6SArbUnngoPYYZmcertVK1Ix5VMuKUFnugbtmt2oMt2bSknAWU0nnEkW/ZIQ=="
 }
