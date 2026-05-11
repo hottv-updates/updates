@@ -1,17 +1,17 @@
 {
-  "version_code": 117061,
-  "version_name": "1.17.61",
+  "version_code": 117092,
+  "version_name": "1.17.92",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotiptv-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-08T12:20:10.234Z",
+  "published_at": "2026-05-11T14:39:44.671Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "pI2P50j/bnqoofU3AUsSz2o/KmeWcLOS7aQ1if3glgMj+3geu+rg7UtL+JW8YK9xs6KeRkNPfNItM0Ctv2u6/BIJNnmHu8bs4W0V1Zlhsw9Bh/DY/h0Fdj1WTo9Z3/0lgkD8FFENu7LgBUsA5sSZm7wlm/MLg+BWyJ2tsDNp8fFa2v6imQzlTwsIWskmgTT50iwDB1+oIuS9FAxp+dxkviNB9kuuwnEJvqLJ",
-  "enc2": "vIuopoobYbUn0EZJNfkjZFfKl2jhVMgk80jCgYoPNFl+KzyAi1zEtA8rSqQmiVTQj4SlM8EXC3H6J0e8FSB1Kq9ssK3jI7GTdVKL7CCo46UUjqlXJgvjT2V3bcccCgtEUvqJqhs/QHZvCz3CLgudbJNWMBDktrjIv/ZfqkcTGeU6yQtWmF3zdCZMbttVYxX0SSOMM116zYLGN0BWKLgZhwVVd+0/pBxDre9h9AI04CbB0BwB8rVzovMjGLbQuklIC32aBv9XfZmvDYHPLFnUuDX1U4EqGKbmqPYyU+qWltli4/t2bng/CHxO0c1FxZ+SjgexeGd/Rh2hqAyB046HxfmbQuxWYqJrF0c3GFm8kdaAqS89b4Ux42QprO4k",
-  "sig2": "YIdc6jOqJOWeQPlq8gmWBbNn6Dj/jz9y7KhMmSz72lW/cFjIXyMEqYbALQCUEarCigpvk3UbTDGs0nu4/LtIyw=="
+  "enc": "/aHj+g3YLWhISRTLq5WInOZFw3E6DotXFNK8eD+FNBlrQ3hOqE5BkYDhVdEXX1OB1xlgpe6DbLpyXwTOrUuZPCNoHWH7vy5vJK9/NQbEbo+mLMSlbdhaxSQ7DczjeURTf8sgnsL9ecTh9MtwiNpU2L/5JGGYJ4JpUHUX2N/C8GTg4oht9H2QKB+hJArKZvshWBx5lmnt/34j+Q40Rf5uz09EN2wiBT0aPzs6",
+  "enc2": "gMHMtvZz1+oINi0dV6Wabz9rIT5QkXmAttXk3U/UST3rPjRBF60dxwyWHLnFUfR0hjVcInQaZfZ/zPm92u+1cEq6BL+rxvf/vWqdKOM2LuF8Qo1J2PZkEXIFklvDcEutNycjmPC0aHViAYdwrfg94XyuWhNbQDzmEyWRscf7M0QTmE/Bw1AE1viJM1PLKzKMM1GIIAnSLFZqiVS/Sb1rvtw/nA0VFLZThjV6yCeE9yCmtF1q6sGz36C1Sp1kDBZq0GZBRyDj3aDLTcdxAFKZA1j4ny5KmKB7kuJAXrMwqM3xlx0QyjuSEoaahmN2VBHYUoXs9Fx8LX2y0lRMf2wc7gx6t1EnmleDH1+Vk4+MxCl7aiOvNf/Wjk6VHvdq",
+  "sig2": "/Y7lpaZFyk8P32DDeZ9UPQ6AZrUAdjhp5aH6DZgsgzq+FR3acb+xW2BhiOyDLB2EcAMCjrTvLB/zZr4FQft5uA=="
 }
