@@ -1,17 +1,17 @@
 {
-  "version_code": 117061,
-  "version_name": "1.17.61",
+  "version_code": 117092,
+  "version_name": "1.17.92",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotvod-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-08T12:20:13.282Z",
+  "published_at": "2026-05-11T14:39:48.537Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "aEMz/exxVOwrY07CvjPYDuO1Jzen47CgOWaka/rn0EIEsGTdGpVVULOue7sVpEO6QtUmt2FgygEumnLROPwGmchRT3XBvvI2MSqhAhHJ0azFPbWONOACmcGZsJTsS7G+DBKRnNfp/3SuW3PzmWHtsXnciWN/nlZr+fnMuyHUAee6L+4FWGLVZ1taXt3yatguqFQFpdBTS/UYEZA3FHs+EffzxuBvcXaUciVW",
-  "enc2": "dVggimK4wmRkCg9ADXHfbjORCHkOIGzwVvsrS1TK85um3QhxfAuKs74xoB0noh2PN/nlwxQoZLPOtLoRYB1XMkYdnOUe3cawCv9nxDThrjm3l2YgUSIkAnbRcPrKgMn2Q455lH8ruvyS6641HUE+4TOoNtsBN6Ams04hUPGfLG2zW2vwazyQ6gspI2SJBRtkyzEbAuROXjCmqTrGn16EtADN7w9CYEixlL6kCtb/haXETXS3tZQkXiVhkAYDhwW5FR5X7q9BRI+iRbiM96/1WJL4q0FLgFojhYzrdpQTdiymWKIfOoUBpVI8fYmyzWY0QXZsYBLiy+x59Var/WkuxH77rOcLiLcW5G/NfzOU/6Kr0P7m9lMwiO9n2m/F",
-  "sig2": "TFupyxxXvWUMbYDG7zNGOck9d2JlsMKv22O6kM5ryZh8luCar7Sgxpa0ICs5RU5uTwcwcZySs3kvCprIfVRIzw=="
+  "enc": "rVOOk0UnpFlTm505jpwmr135i6E2G6dexkoqCz3IvxXjBXYlCr/bGHZr8M2CeeShFsm1Mns5oI7uaesloZxna8zxqymu7GU0/PE+sU9tfQvmuAbk6igzyTjW4cSmnrxwVNZgDoJjWITJEb7zeiqyXgyryum3HyM3ftcq91EJj9GTcy8TjV8Jb+a+9r3rjGz8z9hK7xlsiVvG4t7+0TBeWhT2x6fJkY0z9YHp",
+  "enc2": "51wKgFVtvj8fZjK9D6VjoOVlUzKNb2v1sVGE0SPgNcW7k7PPI3IbDqVyTqd9y/dKoi1WyAkZqadWKpkd98JL2Uvltww/IcfvYwFQYGzCkvGXCM5wTectgzRQZCvfY5/GF7ySswEdEaH6OcSspqwtgbsbVFxC1VJRIENmGHS82hLKdek7uG21xduxqKTmXEH7JbBJIZr/aZi0LNfnbuBf6ThGoMdZzMsjS9sEgNhZ3Qhl+aBRoTsGgtisIsewC8sFwmGXbOpVx3ZrUqwPBF4NfM4WzUMv1xUa7jDQ866I/UIu7coaU05XGt/R8XOgdjYnISXQepflOKS0+Pk/8X0Jsw8zKozG4XSxdH7K0OfKnek5SbQdFezLsgGaV/Rv",
+  "sig2": "Ngx387r6dtbJ50iQ3h+BtRq9gdDvG493+XGbyEOyDs+KCkoFwN/Cq/1LrrAPvjAz7oNSET+0L7BZmIzQn2Xjwg=="
 }
