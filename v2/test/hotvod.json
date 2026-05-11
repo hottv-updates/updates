@@ -1,17 +1,17 @@
 {
-  "version_code": 117061,
-  "version_name": "1.17.61",
+  "version_code": 117092,
+  "version_name": "1.17.92",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.hotvod-test.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-08T12:20:28.194Z",
+  "published_at": "2026-05-11T14:40:10.206Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "3wdyFZBAC/18WBfzrP0Y8CsEFR8/8PubCmhFVJRh50FVMAnspmiR0FpIKS6wLehLEESaujDo4qseHR+eToHBl/HlIJx9ApdClFipFQZpw+pPJIOy94Eowfmr59N27Lt29MEbW4LJNI+xHPJTrEFFrilsgqmwT1tdcc/zAC9sPjmb8Dpso4pktEUjSjc2tV5VVLT4fXtmMSNByStrkUASFjlduu+lHAKVD7GB",
-  "enc2": "X6nblOwEO2hRiBqsNdIDsUIsiqb6QtH91CxY26YxeeK8qc3hgiUU70GTQpmMd6TQEDQ0mHIFKagN+2eshu/B1jNnDzDG7KSC/Mxt9qR1OK7HwoLWndYvi01ohiVove33gpAqXMu7M5z6j3wTF+DAPPoDURE/3qYIx/lWV037T597sOUBFIofTxZ7IvaKmogMeTb5HbGWgtX76biiADnGfQn5as5iJeNLCCI0WPk8CV9IbIM4VH1gas0hhctcEsR4Ri1MttSkKopOoG7g54c8s+CsjWNOq929W2Dl3sfoQeJbqSSo1IMpfr5x5Ma+qkYNZKBAdMtUBioqvQ0eou9FHB23PC8WsejbhHZbAST4ePfmzVMrCJCzo5iwYrie",
-  "sig2": "LjGhLLeu6nxl0bB/RStFL80ODRGG2ULsP2k3YJMUya0KwQEDlOV9Q2qs5r6gyPcz4Uw6pgzYDHhhhvnpAQMQVA=="
+  "enc": "xic8drCamh6ZunHGg6NrPOlXJSaAdi15ENHsxbSWrBPG/wot0lCkYk2vGlBxymFZw99v9hrT7Dqopo/wf981s9AM9Zkm+emklBU1Q2N6+oYq6EPjerttFOJWNPyJa3UqhGqY7NjEXqBeMqMTT/cantwiLmNupbmCDNCIFYzOdDIZj8LWFANH8LcuKLHSBsPaY3V6lh7YgnXEx/GcEIcCLAxMlPgtXhaDIzC9",
+  "enc2": "5ihnvH4LjGk4mkmJl5C1w06qi0H8AotmM07NKrBxHVfYa+1I34vwJvbkdsIw618ucK9LFzeGKuJ931dl8CvdUsW5UxwRwrxZPoKmBTrow748GqOzycbq3TvHFdz0QjQtD9pbO7iZXBJVZNbmcxlVGfjs8Mp0OxJq9LZEXRl1OsM1MGa1cay/8qLys+4AyN3NNybNDP/4of2t/YVDXFEX2k+RUmII+5hZwF7Z5t8IyLHEKASDZ0QQZr/c6VKiqiLjtBsfXn8mTgt37Twf3ZqUOfaTPSphNLZPkWSSMQBciCSallxFc9P9E+jQBbZV9qWBwhroAc2T/wRKOVG9RIxRSmdu4v02G0VVArqUoaLIcRDKsrFMmtwNxmmluQXY",
+  "sig2": "x7hRJ+1dISFI4D7A95X5HyJdfbuGvHjwN+bTkS0LXtgqVCMgTjtE/itBrjyX9AqHvLo06IZyhD5kzDxFZrYZ1A=="
 }
