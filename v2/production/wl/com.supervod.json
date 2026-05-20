@@ -1,0 +1,17 @@
+{
+  "version_code": 117121,
+  "version_name": "1.17.121",
+  "apk_url": "https://build.nadaiptv.com/apks/production/com.supervod-production.apk",
+  "force_update": true,
+  "release_notes": "",
+  "published_at": "2026-05-20T10:35:37.143Z",
+  "pd": [
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "arjt3841awGIK7rx/wFR2KmXumazJZnCryobP7GFTIpy1Lqu0r+riGUb179tcBj7R+43Kp8e6GqeiVj2UlmdYVLy5TklazSBu+HwNqJhHfR+HSX9lJzDUHRmfo6lNPRhdf9ZKiqxZHJg5td9NJGD46IjrJg52MfU24yE6dchwiN1UOssmpPqVRu8xbk1+t96Ziao2QRqeOqu9Ywvcb23hrCkOThFXEbYs6Vf",
+  "enc2": "1nvaYAowN4Xw2JP7XD0es7cymXE5r9keOsKqkaSl6Eyh3OeFX2U7IBZp2vNW/M7C+5bMqgLZV0zvwYMxMCX7n+AGVNM6ns1sdNNoqPWeRvMo4BFLaIodkN7dgEefY7xWHpfuP7OrLS54jdEFdLE8QfNK5AL5DF0jpoTTdWCqVaTtNwH/rg8ky4gtU/fU4yuREocjzMUZlwzCQj2N+U7OPIOr6QxvBJOq4zQqCkiQv+4n5lNcm5Y1kNgciRe/IcCSpMhPSDsxaYDlK9KrDC4hY38M1qGJ3lCr32WrQA3bNjoAjFsc7A5vDxp4ZmQZ8+80ydQCN7IOfADz0qzHTS/QKhP9Vx8udVK/dE3yWP0294YCAqaGbv7m2mSwfwqv",
+  "sig2": "dY2ErZoCA3VBmH9RqcE6DGiR8392LUNV1QM0QzwRpq4jCcEW880N9eBZKcgfeJ6Qe28CVF3rlfDLPgL3IxdRQA=="
+}
