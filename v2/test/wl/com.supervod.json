@@ -1,0 +1,17 @@
+{
+  "version_code": 117121,
+  "version_name": "1.17.121",
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.supervod-test.apk",
+  "force_update": true,
+  "release_notes": "",
+  "published_at": "2026-05-20T10:46:35.212Z",
+  "pd": [
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "e/3TizkfvQJLsazxidJdjND9q1gUpIMsBrGqg8iLxeJ8tGD+ehVLms+Qnbs94f6/2GJ8LJwLb7BqAAOujPMVGWkhfG0SKfeQd91YfdUAQqC+HUIYLnFb7UGGjrXKmllPxwctsXQHiYXB7DrLXrCLguQf1Ibg26WCmKJP7qloNTrvvSVgu8pPB73dH7j0NKVOrbADJmrsqlyQXZCujTjjanz/3ExdKe/oXycX",
+  "enc2": "FJDqAeP7rKJRTLl32ktFgTpz2HMdheVGH9hM9AzOmNEK5u42cOd38IdEl39GttVmXUz1/+luhT6XTYdSdPw8QxS7T/SvTRbKbBNTYTCilbLa6F3IeNDjt2G8thOAN9eLjIy75ie65HzBOdii7VcIlheambk0sgApsGTdlZn7u4Fu78dxhoGSRbUfkuvHSBanxobRdTeUL0bCLj2klEL1nu/MGRm1x3Tkhu+1Cd/mmVkpIBUWEVj0Slq2cW0v2w0O0WVczUD2qVNsg2HWpIqstG3EQWwpsHhm+h3ibaUws25MGSKk4nOGZrkLliE6Di+oWfdRwXK4jGQJsv2ta9ryXncoVtY56Y+lr2lUg8EGt35vZxvWg0ui0PNOtI5a",
+  "sig2": "mTwyemkbzlgHHvFTgk5KAW3zKimI4zEpGCfeByrHFtICM+mGNhxSa53dm37jPOoJUtdAuIWZ+Jl5Jya+10j1Sg=="
+}
