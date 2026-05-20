@@ -1,0 +1,17 @@
+{
+  "version_code": 117121,
+  "version_name": "1.17.121",
+  "apk_url": "https://build.nadaiptv.com/apks/production/com.superseries-production.apk",
+  "force_update": false,
+  "release_notes": "",
+  "published_at": "2026-05-20T10:26:01.598Z",
+  "pd": [
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "bsog5y8Y8S5Hs1tOI/bKN9Zda1ZilS8KqJJKCeR7fYDB//u1e09CNhTR+fvaoKeXReOJ+5+23Wq318QocmwSCVxYTxag3iDrx74jEDP522nrWV0jGPKZluefbN5sFEvOrAUHzIi7o4oms8+NBIWXQmanYeo/D4qZAAfKeB5Nkrr2eDEpC+FNICZDxUTvcpnICLsaBOSmW5FkyRXPYU15QQx6FWFdxyP/FDKH",
+  "enc2": "KVIt0G/MMGzEMu8v2lRCnNNK/iCOf/NNJ1EzvuDBTh5Bu5daXY8vQNv9H7haPoXQOU6fht6EHsGfD2GsuJHORP93p9ac6dufhcs1gB2kNGcX5qN/9P7swTGN6E9nYuOkfKhBKZ7sYj/kIXR8g8BiVWR3wjNR7fPdGVLx3oayX861N6eYvLKtbrgA0GuriJChnFBkBDW4M83S50FK8elZGlgQ4rdIzqFDfep4w2auFrIv+Z/TFBcX3jqu8wbiXUpZWQPObBUfOdtFVF2XKA2b4QtntFl8fnr9pOzs2JzRYPlEKZHqa/s+9IRYO4RvYSzKwJJbCZ2jk3pFnqLbs9tbZZdhCkoPl7fKflipyp4JMGbcmyhRGgLsvwWDeFly",
+  "sig2": "Aoa8XadK8XEWTaGz9ztKcI0DbWXku/O/DX32aLtR/dhWtgrVcGLUW4VJLzu9R5r0oLXHFo4VpdjqJGJl3v9ELA=="
+}
