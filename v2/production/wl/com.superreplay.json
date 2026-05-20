@@ -1,0 +1,17 @@
+{
+  "version_code": 117121,
+  "version_name": "1.17.121",
+  "apk_url": "https://build.nadaiptv.com/apks/production/com.superreplay-production.apk",
+  "force_update": true,
+  "release_notes": "",
+  "published_at": "2026-05-20T10:46:32.352Z",
+  "pd": [
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "zrEjUzMjOPvNU6/SPWsifJch+j+HChR/4HByT3isaLvtlNV5ccd4DMgDgMePzqA94TECnJ5C7hVDGuWE2yx6WA6UgQByzab2kRjCoTf8ztBO+jrLb9L4z4o3CASD2TkOiIQiGttWI3Bn9vxetBjfKn6IgbjM8Ztjd5HVqMQU7hbT8DwXCYiQf7dZjyBEpLzao7+dJud7SPL3JEMpw2D6pINoWCg5aCJFrTws",
+  "enc2": "yoZqhs/vuXoxOzIT+daPt6iIFijFDVVOIAhB1Qr+fRSenZ4aPOHEmLjflb2AhpetZ6iuW19teZtrEKTJZJMW1heoi3NXmSRZ2pgeu4D8iUX71cBdGWsBo9AUTn/n8OM7lIJ4zGw2xVV4S7EwDsVJH7hriLiUeoemHLX9iwfH1lWBxu9irDqlqOqDdjxnQ8jELtNnEZdeNbs1lRBKv61UZZqZiLPrvrgUjYReAeSi69SuWLGBN9hiIJRt80BUSRytXbmh2wle3gFloa6eDD04E2tMKsM2SAqqqFAndgYs1/A4xz22CQkcqjPFTkQXI/9AZ/t+71ykyk/9Fk2ipdz4uJ5nS5rsjHsJeoawWz9lse7KL/TTYl7K1DKg6PGn",
+  "sig2": "aCKAPrZXlv1Cms8TV6yP7sIkfpUXvC43pFrGXTWRQ9olnFNG+3sjEvBhZTCVwCLlch7gsFyCJcjCMV5Bxu1mLw=="
+}
