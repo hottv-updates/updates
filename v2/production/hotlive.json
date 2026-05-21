@@ -1,17 +1,17 @@
 {
-  "version_code": 117092,
-  "version_name": "1.17.92",
+  "version_code": 117121,
+  "version_name": "1.17.121",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotlive-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-11T14:39:41.359Z",
+  "published_at": "2026-05-21T15:57:55.593Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "F6YFtCXc9o/iYABMH7DUgKlnuCr/Mp/q+MTzf6QkIAEUzp8wsKzJA4CXWkwGVX9jpyfQIECsHmorxBFX/pyTrr/9Qx42rrBlFkkLWE+oyLIvg84zNJxa7KtSQJlAsuYngfSt1DObeebL7DvUe5ldcA9Jy9ItRafRCvMUFPXR4huirfOMMkteQNr/q+rYjMDb87PLJE51ClOsFIzLppY6Nl1CaiYxCsELUb9y",
-  "enc2": "79NGzJhKododFCCMaJ3ZZ1ZqGfvfPiE9+MDObn5xM+/YKVDlALKhilS7VHaj+AQuM+uobvRLdO+O4F7MZUKIO3hE0cgT31DOjuZ6bkv7/js5NwDi9lDtWRcVeZC6K/xvi8ZwxiXInWNkf/wvifcjIv/SNBnJ9sZDM8q3jlzZ6tg3QXoT3KK9wJOdGlJCKsvHfjA1s97iOdQc4tNuNKhhu4gQxUdrTeD7MSLAVU6Lfz/w9LGt/uI4MwzzSuf5MNtKdduCR+2eaYHpLS9UoX6iTmCcJcuo7tD0gSZ5T3yTYFTTKTcA03d9+KnVHKvTnlALa4cnaoycNshLxU+zBSlxYoJTAc8iGF/wivT+nxaN/gTXGFTxbWOkgGWjAtN6",
-  "sig2": "8Xd85v1k7ZbpkMwuuPzkQtIB7kQG5J4Lhp60J87wqmQ5o4MdzRJ8KN8hr94OZwcH2BPfrCWdFFTmIFJfNxQ7EQ=="
+  "enc": "nAW5vP3pzuKT2jF/5aHyptjwZgKMoRk9Wa9NlrVb+ut2H7BCZ+4AzBbMAY3HtAmm/25z/ODsoQ9bR+ebMxrqRKQI1qbocm1V1nZ88n3+B1XgNLAtndtXNXm2PSybIkC4fdqA2dLRas+sNgUSYU3A4BmpEI6f+Ulf0SHNMwcy/xdfP/UL1zVmCJHnQa2Cy7KiDtGDQXLbCcs6Cz1GaR1r2ecfBCWPlQYFMhMq",
+  "enc2": "tRzUmoTePLA6SvI3rLA8SxG1z/gOpIWU/TRFgX0NVJkOpLwidqvHsKYjN9SrQD5aDLsTx0Ntl+5Cpe0I++8SBaybj0ziaeQR8uaqAItd21tsm3YTa3PT300QgSjLO8BowILOT4f6BafFHZ5b3zmxul4pWP2KnOZpJR1pMJspHukDjsWTg3qJhJsTyw+rDDM0jKpzyfPRlhMUKIR4FoM4JTngV4PsJuQ2uHao5thYgt80m+Yf8YdMTfzy1/+ZUHSHWfD7jkgwqoBTmNE3k4KeFU1s+2k7rFZR7e+WeEGBRrBWgKfRZV06vQ4Z61CdkOlB+rIQ002kRAmkIm0QCy81SnZWCUWXAKEJfvBPFGooZU0fxlbFt5/r7kuoNlYh",
+  "sig2": "+Z9A4XgWAD0zo7FrSb69bFLgjmAxreTwnPatO6kw8KQoJzhoOnmOmKrhhsUmORblJTPDloEypotoWBuEsxjmpQ=="
 }
