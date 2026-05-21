@@ -1,17 +1,17 @@
 {
-  "version_code": 117092,
-  "version_name": "1.17.92",
+  "version_code": 117121,
+  "version_name": "1.17.121",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotseries-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-11T14:39:52.016Z",
+  "published_at": "2026-05-21T15:58:45.614Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "XglqP9P+h56DXbfjIJmhh8TTigIeqxcSFSSWurQlDGWIvtkMpWslcskpqLQ2Ze+3NSKZcaktOY/SXjNIFAo8oOKCo5MHtigBsE5SYMq6PDSQvTO9irLYWvlqO6dDK0sC39gkdpSLvjKXL4/eaNlVZFqUkxbxTYGz+zndpC1rLhjNotbiI3AdBrjCj5LU3sy6vf+FbFRuHEC9qzqV3qJsGZrx3gczTNbbBgSh",
-  "enc2": "KrFyIiZvRSFUvI9oTRlji486IGIpqLrIUHQc5VvGhCLJGkk7mj9Yntw2eEyRJhPaoait8H8HVL3JQCrf141dkY6KVgKqXiiwPvVQpdZ2TypxQzh7obcjXn6e11zeBlISw7Ler9OtuG4/IfuYq7QneR6iV8ijRy/B4DVysgmoXJUU/kw4io3cIwe8nVBzyeTK6Db4Osa5TXeXNV4T0nOKTO8R3LZ+DOQfMATyyJSiV7kaPg04ViCgT/4YtMSkbvDspjl6bbqa4ZIGGbNOZkvEsMJQdorrw6fYq4g9UlMm8pmAsN5iIU6oX2jM/7Mwhu+5phk/WIlZkQnMJzYXlH4U26SRj14epXaiKwMiOK3Ak/A2ik2eF9mA5yW912n1",
-  "sig2": "rjSjvLvirYrT2kY6gw6cGfT9ruOyOk5HjbXe9hVshsxwOzkBVz2UKv6wScS26zKRYNAyzQUDY2Jz1YZDoLyFLw=="
+  "enc": "wJnjMom6STjPa9LTLmHsE/tKPiGlEgvy8RrbuZlfehSRF/rCjFNdpJzPTKUWy5fLIy3ghju8YmDf4oimBImK32RWazsChsAuFLZOCPSvCAiFSvUR3Tx7dC64R0jUmUuRWsQfPHxqFiz92325gMk/5vHeDrqklkQa6r7ZSlGyNjn8MwLASSOA08RubUILMyiIENaUd+KJu8YSMdTPPqGM+QCVOb7M3/M83ksG",
+  "enc2": "sCo+QTwsc5Que6JHsLCSjwgSyN0zC14XxdQ50p3G6s29vNIfCr1xW10gZRVVZMyNU54tOSt5BP9e/Mb2GnOo1lbdulbNpzYKvecZ40Jb7SX1+OgT+pHEnHc+ntS6sXvPG6QbF0cgpC7hG1sxczNExlv0QCpGp1I97SROlYT/byOHYREyrOvvhr3i5vSWB80gfm7ZsE7ZYBSedsdKhEmIE1Cyb22SWu7znF1NzdDWrYgyn443jwAY+np/yA/Eof/DTvLLBHy0mes//9aUaRsLp2QafWm4AXYZbHnkoWSRAE2JFsmTSo39NnkLqnt2wPhTs28uOv7t+E725bvYOnxZee7JhwzhrASyhmgWI2zh7XJFfzG+SAa+evk0QaVS",
+  "sig2": "bxeRaWOXiAVDwk5fFU4bRbITA35ZusJCZ/SFMEqlY2GF3NAgSS6qAtEkUHuujC+tmlWW2evNEs/i/g2+CNNTow=="
 }
