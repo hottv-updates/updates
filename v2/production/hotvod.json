@@ -1,17 +1,17 @@
 {
-  "version_code": 117092,
-  "version_name": "1.17.92",
+  "version_code": 117121,
+  "version_name": "1.17.121",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.hotvod-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-11T14:39:48.537Z",
+  "published_at": "2026-05-21T15:58:42.020Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "rVOOk0UnpFlTm505jpwmr135i6E2G6dexkoqCz3IvxXjBXYlCr/bGHZr8M2CeeShFsm1Mns5oI7uaesloZxna8zxqymu7GU0/PE+sU9tfQvmuAbk6igzyTjW4cSmnrxwVNZgDoJjWITJEb7zeiqyXgyryum3HyM3ftcq91EJj9GTcy8TjV8Jb+a+9r3rjGz8z9hK7xlsiVvG4t7+0TBeWhT2x6fJkY0z9YHp",
-  "enc2": "51wKgFVtvj8fZjK9D6VjoOVlUzKNb2v1sVGE0SPgNcW7k7PPI3IbDqVyTqd9y/dKoi1WyAkZqadWKpkd98JL2Uvltww/IcfvYwFQYGzCkvGXCM5wTectgzRQZCvfY5/GF7ySswEdEaH6OcSspqwtgbsbVFxC1VJRIENmGHS82hLKdek7uG21xduxqKTmXEH7JbBJIZr/aZi0LNfnbuBf6ThGoMdZzMsjS9sEgNhZ3Qhl+aBRoTsGgtisIsewC8sFwmGXbOpVx3ZrUqwPBF4NfM4WzUMv1xUa7jDQ866I/UIu7coaU05XGt/R8XOgdjYnISXQepflOKS0+Pk/8X0Jsw8zKozG4XSxdH7K0OfKnek5SbQdFezLsgGaV/Rv",
-  "sig2": "Ngx387r6dtbJ50iQ3h+BtRq9gdDvG493+XGbyEOyDs+KCkoFwN/Cq/1LrrAPvjAz7oNSET+0L7BZmIzQn2Xjwg=="
+  "enc": "2gIkjmqGHABkeBwzFQTH3DXkeq6DxlFpt9KAWk/7QwdYNKDyivzVHrutpnFbcOYfJOqoiDu5gj794xiL/iDzJyWaJ3R38R40dr47j0/Oz2D5jApVNuldif/lKmKjhqat3PEaY5qerWH9PLC0yuoQyIrgYo8wEVil2QMYQcPDKGM0StArp/RDmvhq3PYweZwKnYgASh2zgXQaEPQmOmzHCBFX1nS8lnaercHg",
+  "enc2": "b1OVlLBC6mBYs1Ij5EdEhTjDf/rbRgSJBU2DBJP/+ZKhhpNn9HXlm6QUQGNvAuVnOHruR2/N6XtExiLrbBqSsGFN/CGPB3GPdIFYZ6mCwmA3Lx93eWNBeiQoAJPl2eAcdhCfOS0cZ6q8DC3EUZJT6iVYS8Ldnkg1tFt4ScJChXuEIgwohLMm9NwMFnOw2DfRMoOVAMqSHsd6JwS9AeQjS9r4SmSWqu00WTfd6lp/Js3/U+I3AgWfxRmfZqEkCoVa48bPFtecVtv+KEXsZibHH3DDcB/9jho904xlBvE8a/6y1iMfwxE75IZ8e9pq0K6qEvuxaB6cIgSMgA/Jh0ndiuym4VxtthZFKXZZCn1Vy8ocrd1zCZKJCrLrpzIT",
+  "sig2": "2QR6c213UjtgeZ3atJhMj+H4OYiJ0MIyqTyAS5jbAjfjhuTJlneu+o/B7UR4ZTw6nyl6e0/m9eo5YCMZ+TRvfQ=="
 }
