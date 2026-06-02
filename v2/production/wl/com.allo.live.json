@@ -1,0 +1,18 @@
+{
+  "version_code": 117148,
+  "version_name": "1.17.148",
+  "apk_url": "https://build.nadaiptv.com/apks/production/com.allo.live-production.apk",
+  "force_update": true,
+  "release_notes": "",
+  "published_at": "2026-06-02T20:37:45.028Z",
+  "pd": [
+    "aHR0cHM6Ly9hbGxvLm5hZGFpcHR2LmNvbQ==",
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "LN7OpGh6GQR2Aip0y9Fd9JS1klSIUVv9p84AwUZLEIo95SiBDpZlytwIKm+w3Kgf8oHyn0dgKJehjIjoSdz0YE+J/bTlio/MJvB5RaFdla9ah47JA5XYWv0MhswfJY6iXvcMiEi3xx8oowNfGYGiv8FEwfmTCEIAdAlWiU1aXmrNZ80oaZlDVfI32d2UHzLVPRrFp/0jeqpv1Uq6K+t7hLL6y/52SLDQHWYv8h0D2t7R2tb3TBmZA5Xee6/ZmOC8DbkmoZByrQ==",
+  "enc2": "MVLPexENcwtzSLBeoSXF3vNRZWMP4v9mJFc7mxwzw4Cf+SPJ+TAopXsGQUaVqpVwJu7djqmirDtzc31kp78Q0Tz28WNzvPxFsQa+i497HZwwIHSHq2kcbz+W8VPz4JMXyUL6qM2Xg6+AXrJG0dL5eI2zsCONfJJdEjQEz0gxhK75dXcsJvi7mCXMjxLl9tALjO5TKXJhI3OY2K+iGJ+7pUiTir3UUb+FBZJdaoQ3cqZCOjPPFOqOqWz3IKTv0iQawymV0CL0EwToQwuleXw4olmlgB8fb1gxMh4C/PqSgqPJm4TIZVG9bx/Fd5rApl2+740OsgkbXlVHO+GSPpdmmV/B4V5jaFcxXhOOgnBD+xInkHncZW1DUv0RJFLrWQN6ArD56Etmi+AmN6ksJeo97nIgvcaTfgbefw==",
+  "sig2": "XxGMjg2S//j3nhlIGL4qgJzEVAG5eAoSbjmd3GhZOMhNNzlOoQPBtFQwjnbaULq7XwKcrlgu+zLwYoEy1S0pHg=="
+}
