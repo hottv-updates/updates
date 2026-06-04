@@ -2,7 +2,7 @@
   "version_code": 117160,
   "version_name": "1.17.160",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.allo.live-test.apk",
-  "force_update": true,
+  "force_update": false,
   "release_notes": "",
   "published_at": "2026-06-04T18:51:05.340Z",
   "pd": [
@@ -12,7 +12,7 @@
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "sKpQLLJcm9Y9+N82b0zfj8v6GBrtVxb6elD7TL/it6JsJNGPSPa/7ycExAhPBNtOqQX/3fWRk07zfBMfIAt0HcJ1dy7ARmmrwWVWC/r3+0jMjxNqOAIaclgKHka7xHfPXu2o8l1gnwaJGzTqJeu/B3YOKd+sSCqP2LihK+W/m7pNfy+/r8cBg0pQj0N088qKvwjk7Cz5YcylsDbVXryGNxorqxyKzLYJ4NWPuOPQmm+PFizYTEoNAXPQTjLWIXWNcZ4lor8mFQ==",
-  "enc2": "o4kErEuCvGBqgYfWsT0xbWY9vTHpp7U8z/NCKl/+c3c7z8D8/CQDG8wKtyZjnwQmykzQrL7Cl6MFlPvOoRKcVu8O8+7W2gDC/v6nOFQ7rLVwd6Hq9CTmt8uZkJqaIxBfNu2tV4eBXJLJya0cIQsYQTxCNoC2wgcycKZMYhR6tNMLMha7lD9kAzPJEWhsaRZnij/XVdmUQTxqWkjEqJ3jiUmgdeWYFuiavOspvRk8TNjqxnfCdbTmaJtIvSjfKR7RApeP7CajzZ+GMUO/YvQ0OAAi5xFV47FVku9r36VXcNQZNap1qEtiaKL+awG9zzTOSNtL0MfE3BN+MWxJTCsQyREIQdjq+LlX95D077YhmN+cwTWPy5TPsE+6zFPmszSeZF5FUDALo0nHuFXaEIwyFunraXowsfuI0w==",
-  "sig2": "BYgVwkhMpjch+UJGE6DeP8trNm+0+KLbAcylC9ZNrQB4XitrU8nKsWBUHv/nZZdBufIXg/Kx536LA+JhRuwQgA=="
+  "enc": "S6LHCrpERbOtN/9MAeIp8wHxdJfFcXCywHZ2yDwq+LSw/oQoILHcrGb1+ndFlrmalYiw+zIYECSIgM7NX8daC46ah4quylqcettJOw1Hoj5D95HGUMiqBJeh0kSWnjwlhVqDqrKMZ7x4prsu4IjwXeb3tP9JLaf1V5/K9V5PGtpy6sTwQJl0vF2yaoPquLvHlU4bq7/IygcgyfmBb3Iei/Ae2O0cmCwld4cM1vGvlzyPTj62mRbrGGY0eDSC6CBb1duDB1Ir3w==",
+  "enc2": "k5fi/q4YIkXGqIZQNQCaCKT4wCiFZQ9+FvZwkGCjv1gIgPYWZJgt0la+H5BKlW6HK3v8hOAhtlD7S1xpKWJNlur17T/ESxNJ+mWykOytW4qYwfItvXknnE30VItXNvhqVDp5/Mwh7ETNJiz+QmAdi7qSalEkkVRC5AM22vY+ny+OcesZtL7U+nKUDop4dONkDoiUuVThZFI1oFGxb6XRdXWxyCrLh6fApqDkgMdQ857CcqEVsW15lHFO5LXxhRMCpBFxWApTxipLfsDESEumUhw0cHWoVwlaUKGfTABh4bStLIOvj86Hp1wVQm5BSthN+zhIr/asWYSIjG5mh/6m9sp4KTntljMQvE3qLj98PsONDy877sBsMs4ILJj1uga8I/g/lFbeVjNp6uu00CfSWc4ZCx7bEKE60A==",
+  "sig2": "XXY827iBh3ellUwscujAWOuusjf8AX7iksq0iJxboAA463r4rQAafON09Ptq7L3yFurs36muKVQIRBBBIq4LaQ=="
 }
