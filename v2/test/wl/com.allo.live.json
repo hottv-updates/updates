@@ -2,7 +2,7 @@
   "version_code": 117159,
   "version_name": "1.17.159",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.allo.live-test.apk",
-  "force_update": true,
+  "force_update": false,
   "release_notes": "",
   "published_at": "2026-06-04T09:20:35.552Z",
   "pd": [
@@ -12,7 +12,7 @@
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "eY1oevlCPROOiBL9yb9seiSPKLnYt36ID0qduEsrUfyvxzzA5DpLglklU26dRLfkLuEKgMPAN+pWS6VEVuGKoWMpS78FbwKgTQETnompxzK23uuxk5jkWYBpGh2xxFWhGF480Rjd4efxUpzpbZrYiiTBLGCQfPw7u1XK75yHPBusmKNYMr5MpuNK/xv1xNT5IINMhYVtVto/oorSM02QokD0rfaAVK4mcZxgQ+40ZqHrruNceAotk38vlTeB7lCwuj3YJWQrsg==",
-  "enc2": "B4V9r9aR9YCtvb5gynUP6/e+U5uPMEfwhbCnNa4gFZ0D0+wix1WTUkMXoFq7DCCCZoeV6Aqjx1AWIJ/dcXCDEc8ucw1LxqXNzWrPfKeHPGY5FFcT3Vo2PzPbB+J0KNackc8TlFUunC8741HtJRj1yL0vORry9BfKTFl+yKAjRhOtbGqfs0ocKo8YXjzS0XeSNmKAAfw6HApN5bEZ1WGI5APHmiCR6HTqUnDRypzmWwt4uwklsASBkCatZbv7pT3dLp7Wz7L1rXOa9diNpPhW3yS/Yw+Tz+pUFNo3kDsixAZbzu1vuVwz5hz5Bn1cPk2XgMAHqq19VACEZWZdyxQ+kIB7VGNfCUU9PqnD4xPUgOJt/PVSZm9z5wS1A3wpJPaAWOsHwKa0hX0Pic+iovGeXSPlDlPgyzJNpw==",
-  "sig2": "/WSkGKu2Y/V78qTLuM/jVlUGvnbBYZunSkL7BQ1HGvPg26cVxuDwv4RMrrjZJaS5VN7bEobwcE0S4RD+OApMMw=="
+  "enc": "9J7hVJVG2VcC+0VUFR8woBE7rCtPCyryevL+rlQZ7CWq1zdlsV/Q2PrqgJ+fIOJ8gf2Z7E6wYmQNadRLH9CckCYceVDp7mFuimiyZ37ftv7XXxfE9dxuk2yK8nOTguLcs9oIon3jXsdv0ANMlmK+EM4sFtk3RYgUkRj0OLIEyTh3Y61fITayixQyFNLtXzQEcw7QgXrPfBo67VKRri8TcNkTkBZbScXP3HQwFaxyxq7z3e2sZaGLx1OAfHuy8J+kI92AE1s3Hw==",
+  "enc2": "O9JMhWf2TT4uuzFEyXq3Op4Ra1huVDPc93OR2+LTPZgGhxlkZjOETXDN9p+uyJ+NgC58ofQ5bFKZASN6hRURq+mFsFi3lEjTo7EAcqREgkvKT7veldtwcn5eD5xgNdoU6BlXQyLufczqgmZbrrw2g33luoYfJ/u8UNddA+9adbGjxqsaoCDj9NvTfxSW2OR5D9wtxuoB2epNzpFDf8PfiVPt+fHP753PzrDbGAMp6dYWhVer6K90rANm9E9HpKWQ5NhjjCrVOsJ8CzCysHAvm5zPmCMbjHlLUIuwBwNiuhfu7gh/Gv2mpslTMSS5h5O7qUQogopCsn5+UL08m4ybKvmNc4XBt73/U6Ch6kkFipS5kBo4El7gBsjkHeqTg/8oXFr0vbsmvR1ElxIH5qc+8UYWegLsdI91ZA==",
+  "sig2": "QqIAKoEY2PBSK0BegRgkT3ot1QFqYWyoCwK6HunefJ9pvPaXazK6HGVltcLPpJhXyOD/PlJXf5jlpLVrzt2JXQ=="
 }
