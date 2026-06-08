@@ -1,17 +1,17 @@
 {
-  "version_code": 117121,
-  "version_name": "1.17.121",
+  "version_code": 117172,
+  "version_name": "1.17.172",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.supervod-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-20T10:46:38.045Z",
+  "published_at": "2026-06-08T11:34:42.608Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "RMOwDjExMUPKaagtt0sdR3mTb8v9SHOvCDrr75J184ydz6gMD+E6mqHwHcD/76NXivaP/di/JltQKW7CNHOR/qGHt8gDcUNMVp3+ivi71VX4CtDt5FJIBLHTOTBWzhkZa0Gu0iypvP97SrOQAZ/SDQ1Hbegpn0xLOB5tc5UD4kaBQnu+qRnBjTRYfjpwuico1YFtO4AdRGNgIaYwbgnHgYiivMmnPfoS3hjz",
-  "enc2": "hG6yZUxNTPzgjFkTgrPlrTVJHpv9qx/3Jx6uTI6qYn3JZTH1+1kCZqxyaCsPJ/ImBxpFanLwQ232hVBrGXLC8EENjlJ0W/uAe7KYOc2yfQHxygyg8imeEA+hDCaVzKwEFURKVnrdCiP63dB4BrtUMaziadGSM56Ro0v6FWBtdhuOTxJIdWWMctbpVhGAB2+PY7YT8EB9pFsZrAWyzDBpw+xgUogZW1CiRK6jItNEgPaeXObRAi4fJ5Z1p/Bl8Twcckp3QqsDa8oTJSsUtD5SQOGAdI5BnB5qeyLoMQbXHiATYow1UQxNiENzQVR3Rp1Y2I8OcPAHQhnPOWUMgS56pCmrPhu+78dFX7hbD4YjUAODlpjcuh5uFLjxV9R2",
-  "sig2": "+bUGwDRTFrmOHS5loJYBlGKIxcxa19ss0RFgtOGLUVrS5CY0kdTcC9BmYY34jMr+lJC/WtQIfpz0YudbHf0Q0w=="
+  "enc": "agcc7meRzMpLY76UskgIlapgE9Irl8lCIv5Oxuwxo2RNKdIa9e7TrDzcOwrio7ZYc3+Zu9LgjnWOzU5xD3gcU/pXQ3etjlZ8xEHgITalfzBzZZO1GT3jH5VpHcdYreCiGKxAaxQXOhWA94OAFCF2X6RLn1MdCs7WhJJLI+dTStUiHAGSbJVCNNGEjUQW4SUygrbqv0su/N7F2YtL8btK/LSWgxSqdYz6Oir1",
+  "enc2": "y2/aA4zJd4RN04My3y+OAIDYOAzrQPq2rd1WO4PztMILAiL+CGAa7sZ1CLAxIJyFeQHD4TaAcSbFYjJj+8wvVghxU2KGhmngFD3/eASKiGTPWEFTldlskK6MlL+Js4amaA4w1fjUTbzQtI+6Q/NmrWGWUfo1uwJJJwK9udMioVm3uylRqIvGppLptFN41e/fgr7P5/dXFgbVPD7FIOhskCM5YWLFn/h0f5waR7FZtLHWCU3aIL6wEY5PXpStQ0t6MIXXGSC2k9rinAGyiUNabEc6BhjHTbQWakiejse3w1lGBUvC8ic0hw/lWcmorHFC5hBMHmhFzaXgoVYxLxfkNAzw9U3FZxCkKcEfojYUjwQ63ukFlK9GBfe4Z6uP",
+  "sig2": "yjQBVFSTBoRymdJt25HDA/8RSx/eLTa2erS6zb8A6vl1m1qMBPztFAhRfaYVWXsrvYjMd8tu5ejfvi+PfGeCcw=="
 }
