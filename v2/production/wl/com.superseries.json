@@ -1,17 +1,17 @@
 {
-  "version_code": 117121,
-  "version_name": "1.17.121",
+  "version_code": 117172,
+  "version_name": "1.17.172",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superseries-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-20T10:46:48.735Z",
+  "published_at": "2026-06-08T11:34:39.397Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "+zZyVabVQwhgXti7c8T7GCVi8vyBkU46upwwLLpHS0BuhmDbagWjLOLwbb9zZnGESemVRInVi+Zx10Zm6Ohmg23cdOcV9RqBm1Z1shoYkmIe0GddypSmJ8hm6LQR3A/ME6XuZcJpUDKpwCAcnDmc82GSCmu1Uhxzv6ASUgulfn9wBQXXZeVVT7E9YDUleDxYlnDAXHFuE1ZkD891/5yCbh8+ymvMrH1F/NRj",
-  "enc2": "tmnNFj6BnM1wKErZkqPJGGOoGgx/8oV3fcpxW8zXwZzPgDHNEVqOwrgVbysJTx6kNImloKPOSv3Cy1xBh3gmxE+d4KQfbpDvzWlyokt0geO+W+QzNWY2J7mEu0baSMkA3R6pY0oFHJTm9R8j04Yc0VNhwjBmRQy+EPkMytJmrzhdUKwarnnBS5ypFRWsM7aMNeIWDSeuf47XN9Mt0FGQ3IFUuIsRoTcBMSIQemou3DCNWdAWCeR8hO8Sp9owr9sDxDOlV2cs+Doq/YCXCFNB2Ku8qlwu6Lvhal0ufKAtIxf8mTKxgNJFFXoT1I37d9qTw3TpKa3decOZ9007sbIyytaet4ykaqRTy2DzYehqkWmCFM/oykaO0xnV6fhx",
-  "sig2": "bnbrtT4JIwKClrrs/f8BQoimdNER2RY5rZV6xlFL8y1eP091xZSbp1yqxFWG9HcUV5DhnCj4E9n1HPaLBNvwtg=="
+  "enc": "xam1Owb2XW0pxKyUfDxAdZwaah78VNqpba3Xf9AN81yKUsk/LDmoPlBBlIRIXfaXQGh1QWthmRBMQ7CIDFAVS0ocrroh2LptTtLpQM1i/3QfcBXqdjgt80rqKWF0vi5dEmHc4MHZ1DAP92hpV/8zDVVeTe15jl0R0anGnnI74lTNgqAaSf6m+ydIJoAcP0hlh2tbSR2JyDCgpbUPbU7ptXfV7Rl/DOXvj60T",
+  "enc2": "q3vGHptPIbtPom+yHEww/Tfsuif0xLVMhFEpnMRKGFudXiXaD5kqCD0B8LQEk8BrEuzCdJZo01288VxzHhsLAwQA9QYtoXBmQRVMH5zZAJz8GeTzSRHDOnNCkqYRUkarV6EkzU2XH3Kwsw+GzpOKfEfGyIWgbER9XyO7VA4YwLujFkKBQEZFTXsn2Rpl2VA9Y0sUtYNqmgbLv/nexw8bCk5PHu7UnPaIJiBOXLYdD5P+wYj1wd+//586om7BtU04AlrC1W9IAiQo7H06kUrsGpP8MJDYFPxynUvQ+eTqZZAmmcZN8jj9IDCY10AWmx+RcRpKP0gIAyPc7ifvR7ZkrHzI/YTIi4rMiVS2bYBPoyR2QZpcgiA2i1nW7FUc",
+  "sig2": "89L7dolRgk1zsYedtSpmPLWz33nhgm/TYCp2qPTpV83pzPGtJEjoLQEUS22/T6gp/e3UkhtS8Gvs6Gcu3ERHCA=="
 }
