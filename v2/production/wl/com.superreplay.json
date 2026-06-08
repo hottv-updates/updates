@@ -1,17 +1,17 @@
 {
-  "version_code": 117121,
-  "version_name": "1.17.121",
+  "version_code": 117172,
+  "version_name": "1.17.172",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superreplay-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-05-20T10:46:32.352Z",
+  "published_at": "2026-06-08T11:34:33.140Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "zrEjUzMjOPvNU6/SPWsifJch+j+HChR/4HByT3isaLvtlNV5ccd4DMgDgMePzqA94TECnJ5C7hVDGuWE2yx6WA6UgQByzab2kRjCoTf8ztBO+jrLb9L4z4o3CASD2TkOiIQiGttWI3Bn9vxetBjfKn6IgbjM8Ztjd5HVqMQU7hbT8DwXCYiQf7dZjyBEpLzao7+dJud7SPL3JEMpw2D6pINoWCg5aCJFrTws",
-  "enc2": "yoZqhs/vuXoxOzIT+daPt6iIFijFDVVOIAhB1Qr+fRSenZ4aPOHEmLjflb2AhpetZ6iuW19teZtrEKTJZJMW1heoi3NXmSRZ2pgeu4D8iUX71cBdGWsBo9AUTn/n8OM7lIJ4zGw2xVV4S7EwDsVJH7hriLiUeoemHLX9iwfH1lWBxu9irDqlqOqDdjxnQ8jELtNnEZdeNbs1lRBKv61UZZqZiLPrvrgUjYReAeSi69SuWLGBN9hiIJRt80BUSRytXbmh2wle3gFloa6eDD04E2tMKsM2SAqqqFAndgYs1/A4xz22CQkcqjPFTkQXI/9AZ/t+71ykyk/9Fk2ipdz4uJ5nS5rsjHsJeoawWz9lse7KL/TTYl7K1DKg6PGn",
-  "sig2": "aCKAPrZXlv1Cms8TV6yP7sIkfpUXvC43pFrGXTWRQ9olnFNG+3sjEvBhZTCVwCLlch7gsFyCJcjCMV5Bxu1mLw=="
+  "enc": "qpD3UpTzL8JYXcXNRFf43sErkm18fvRp3c//KIMfkqws4G/aMifpvsosKhNDPk2LZ4tnEjgVJbjsaRhIY0tsSsxmApFa/vvCOAdMM991lnVd0kyCL9SBffNUp7RUmE74cmC8GXb4W7DkKt0ZQ4Pg9bU0tq786Dl5aexJOntdHtO5jg55TzeBgdoPcBwrZ4HpY7NSKr7MalnTenHrrKq5s4foIDFmVA3ef47V",
+  "enc2": "EGZYdZ9flS/2BqYo69GZZ07g2jEn2O0vl64Qpq0gcDQ1yC0u5JupAb/JZC14I0M01Nhzu0NuC77fdxtv92gZ3Wi2uossEL0BFBSgyud0l8VTjLaz+qMTFlQ2hIBA288FYmTbWC16A0Ba/P7g70yj8EMFOjGleZparcSxFm5EOlzoyc3q/BQwQUI2GPvNDbYdUEgWnJ6i2CFMAJiOESYZL4RVQ3Grgkoj6EwHiUvq6gnV6UMaifGNnWycct1PyNCwPtskpIaXagdG5nppt2/dm9OuoXhGUztfd9PvyxrrC8L6d5qM+Jku7DruBulDbbZdP3PJ4Vs+X4IwcuVZSLG4wg2GV2XKIKzxYqWKtidTa0z16RiVXeQxWTpu4ylg",
+  "sig2": "rChxH2cBhhVadC13lwvbEcSNT6Lxrw2qCPPANPoT5EW5p5nmrd0Bvr68jOqCLHrIEzK93/Bd1ESSuXdmOQzL3w=="
 }
