@@ -1,10 +1,10 @@
 {
-  "version_code": 117160,
-  "version_name": "1.17.160",
+  "version_code": 117174,
+  "version_name": "1.17.174",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.allo.live-test.apk",
-  "force_update": false,
+  "force_update": true,
   "release_notes": "",
-  "published_at": "2026-06-04T18:51:05.340Z",
+  "published_at": "2026-06-10T20:29:46.815Z",
   "pd": [
     "aHR0cHM6Ly9hcGkuY21zYWxsb3R2LmNvbQ==",
     "aHR0cHM6Ly9hbGxvLm5hZGFpcHR2LmNvbQ==",
@@ -13,7 +13,7 @@
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "xea3u5F6bUONzuaQYcx+N6wF6AJhpVG/I0+oJGiRxylvc+a3nrc99apIoCMTFb3YtQJjSPMEfEPFon+U4nuPux9Z+7ajHpHJfr9YDTgXsW7Iu+O9z3iZuYuiVJnaaKHN6PB03/chBUsRFxBxJ32jygEHhD2oH2gEQ3DijPn27b7vU2IcvXqWsR2zs5KoOvSHH9qIZbS9/QOJj/NQcgv7n6hQlLCKC7TqqPDFVuuYEFlccfKeVB0SVjvuIvRU0X6h0ubPwiOzPraYJOz3/13ACVpsrn+6U65+eDeY+tBlhhSHlPY=",
-  "enc2": "xwYK4adkVLpkK/UiueJwNz6jULBSDNWi+55NDxiI/QHCLpZypXo+IK38uh71Fa2PDWennp8lI0j6XZpkZ14GTd1MeW3NeeizuHcSjf3rTHpvMHLN3C14eTNVxIP+cj0eAn+XgrLdCYHN24pLzfXkYQyV8Y2fHUwtGM8+59jY5wEc1NwM5Le+ioS9CemUYyR3jIzQvN0cVnfixFncA8/Su4QZsSHEg8h3S8pgdRuyeekXFNebS0nMuld6Vzf24B/PJ6rN7zDq66GAFO3/VCrQmvyjC2ikHKlj5awQwsFLXT4L8ZNuHXHz/8MlgUftpoPNUNY4Om1nvlDIT9ZgWJTrw7Pp7mDLsX4W8lF2tu+nRYOV/2lvzSPA9j3W4M+f+VYepUyqW8tV8CkPjkfWHLOMxEgERZuZk4BNu8i+ZWSeATot9e2rTb+HJd9ZpkskVN0xAnnp4Do=",
-  "sig2": "YNF6aCHBpHThNapA19oKgt+mHXfQ48+Kr8Gkxw0rxBVgEzXrCy6ifvHN7hUiFt/FY8nzCFly+v+MKZ0L2rk7Jw=="
+  "enc": "sDpLV3M5ksz2eYVMNmwA7oLAffsaVH8z7wsEyFiJdaxxuIllU6Zzet/HdQyOMwG1RT974fDIvS/VZ6eecQLVJ/AhlTX61b7288Ky52PLWhONWWBgBnQZdHfwpvr95u2D5/ytHIWH1nLzQVuGpFxWv6p/AuYP0dLqqc/LWwFI5VpYoEQ5wGihzOqxPMEJareXaXsT0XRAjTMCayFU0q3OvMJI/rKvbKIPPJmRhCeNArUzdZIv/17MSU8/TFduwtBAKO4q3M5Qk8kJUHVlTklpV0uGafixQltoq/urmP472SHLkA0=",
+  "enc2": "7zfzolVsTdPFZeasAg8xkOShrJ3/ixQIUGEK4x2zS1ohwUzfBFh0Asv+xKnNAZbO432jGbdaaQj2tVkPYhj7aX4qhpE/689eMFvBCnoNoYIJ/sg+RqiG3qhs004i9rCOC/fo73Ub+CXvqAozea9tj32F4yVw5aIMR55nc7U0ea+0w5VPiKrhFo2mVxQyulbS5OrC2qgehDDljs5yOrIxmaRW6N4iKSHCQBq0Y1jiYbax8NvwSr86ft2vYRWpVDQuC+fXIQ8M3DgK1SvigMOcm2abhMxefgZKWqvGuEXYwXU2Obhb23CoLer3yJaKBJ+z8ALVUtiWbkLOP+Sh+Y5eDbrwb7dnuJOxNjv/V71fx0oUoBf5+0Yby5UErKeF9M6x77FzRxb8nhZ1dR0gUEgiKAQXYyn8yayqP5KqajCmn/9saeL8hwIJeyzHFBRIU//ozu3QtW4=",
+  "sig2": "bRhZBWJFDBsrlJBxcQu08iYvzzP5NOOvPqQ9a8BdVBizhL1vyRUdUBNywyFaVxLLw7roURHooM7OY77R6tARWA=="
 }
