@@ -2,7 +2,7 @@
   "version_code": 117178,
   "version_name": "1.17.178",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.allo.live-production.apk",
-  "force_update": true,
+  "force_update": false,
   "release_notes": "",
   "published_at": "2026-06-13T15:43:47.588Z",
   "pd": [
@@ -13,7 +13,7 @@
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "rbGWAkzGleIBP2UzuK02blH1N8uhUYFuqVGS/lZAcnmWzxX/UwGeaXtWjNTEsqZzYgvoW8e5yViSW5iwJRMv+5XxGu3ygyPmpkYxsDZaOM3kLeTtC1Dma0aYKoi+CTOEjkesR8enhWnUxgtKFhUINCKPtqxa1yheW7j9EiWqc3HcnO7UAdd28lJ6Ao2XqXzDhOpjBUgpv5pbHrQw4+dyZctuduDYJ1g+8GYCVku7pYYJc0SvmmGXrnYyG2dbHdBjo7iuah3Av85OxRtuSGn9a+XPI+6Kr5xhGkHC6J84223/fUA=",
-  "enc2": "pa81nfqiqIc73efw/w2BEOtasL6G++J2U49FkapSimqWR38AkXWOu8MAX4UbHaqqDLOluRz6RjibOtiVLqk6YfYEB3XlyiI6bGNZGKPOVpHSPP7UcX9JaZYrt6GLNK7Bma2e6kcKVOj3ItdJ3wD/sB581fhkF2Qf0q2e12XwbWnpnLoRr1RgGzOZSbc6ItNuPx+9rBmcYcXV6YlfkyyNu7ooVE5iEtZepOlQll62VArewRnvKTmz15vYt83F496QIPaL8j6Rx+7UvJpcFzoxp0StmQFcJE54A+ZpdPyU2oMVACd08KFyfNRZ+GddlBNSVhbiCIRvk7ZWwahR2lP7KZYfMDEPofPehoOb8qLCC/F0Taq5Tm9FYWk5YoDhaFK4Jb5zBrlOQ9xv4dVQS545zzLjOSfS47ZpWjIR6NNsw0sEVjWsT/wNqch53Ua8tH6TcttGxjs=",
-  "sig2": "+JCu7EcCqftsL0oky6gjuh3zTYPfQamneenNXGXSoPHyZVGJAfZ0r03H5L0Mig2YFjarfpsT9bA3QwfPpSXiyQ=="
+  "enc": "/r0WlD8ZuyRf7FY2F5YTIU6ftlUvIpc0tj40yw6hsYdfdCG266/J8xxP4f5eVL0hTWTdLC6G4BE4mzLrCg8pnAurSbo7lTUJ5iI/AHpvAsPX/fjqTmKlEylsb5T8y0g15d/dWTir3bXYGo2y/tzSFUO6xPAX7C+NU9oprh1+/aVoEmmaJp9Lx2hL2yLa2n2nGBs7P7/B6IvNjEX7Ml7IYKTiLp6jp4uiw9cdwDo97lH1X2fFYgdAuddtpIdlu4Zjsyy9jWECS3h/oCY1WvvuC0v02iF5LLutQwq/hxniD+tiNZA=",
+  "enc2": "xAmbuP5qvrdI3MCMfs5NFsmLXBlkDFLjlIeNVYFX0wUoyIADKUH2boWPiBG+tbtzhldEo6z/DaIgFPad2qErKmETS5OSLOmeko8rmii2zyYV3N64gm+pPh2QFJoqVqMhm0GmRsSV+auMhRde6mrTZZPyIaQxb03O8W3M9oH785IxpM77hqBChy23roJ9BhRVqsz6Fam1w5IKUG9iAhNgfcflPFM+ZVgrLJyZxSfzoP7v3osFx+oFQhu058x+oUsl5AMifsjNH3SLFAen+vHqwM3637SpnwVlciDHMIWeC3CpkAA7bAnZmj3dTAliZ1tmn/PLW3twWwKoRfY/05RHS+MpNYj5cusSNklJWWyod9fIJWahIdDg4cGT5z+xIfGF+WCc0JJtnx4fWGwLNpJLGDt/slqb2uavhssLxzB70y/f6aLfDD9+2fXERcKO513NSe2TKX4=",
+  "sig2": "/uS9CBdFtnjM78qYFwQMPZQBENp8huTm5cYHRkw4dLMdxUOPGrJBmAzHchB3IqZwO1jcEHw3PgJmijW49AK97A=="
 }

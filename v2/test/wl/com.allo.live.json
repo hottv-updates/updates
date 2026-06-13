@@ -2,7 +2,7 @@
   "version_code": 117178,
   "version_name": "1.17.178",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.allo.live-test.apk",
-  "force_update": true,
+  "force_update": false,
   "release_notes": "",
   "published_at": "2026-06-13T15:43:44.523Z",
   "pd": [
@@ -13,7 +13,7 @@
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "Q0CXdqif7jRf7ZrFpRdeY7F2qBAbc5/+UZhst7KFzeU+kMZOlMXOBcFiCcAzTyYIgpNeJrwpV/tjHPnMouvJBA3z5brsg7nr5qDzBic4+ww/K8akWqy/IfRGpJ6UaWGUzW53TyKO1CJ2aS7BKzm7qlxZqNGXUpqay7GYfgVHxJTVz6mCeodtmUPe8slqbIMXU/QAGljWX9GiJQgpejVuppOM8w/ZuZEnQQmyJhGEH49c3iF9b0OLpCdlGkcSMNi/pTI4mRRc8lMwihKvAgL5MsDB24TUsLYxUrL41mJsgkaMBvc=",
-  "enc2": "2MmqSxXQ7I4tVoQTPML5jNXYLVBY7GmdVPxMbY6n5WCHyNPFkO5JkqusWhHh7SFNrXXvIIAhvfWtjo9NDh2aUlVxEqLtGe1AFLUahKQHqwOeRbuY2h2UoW8TjiUzof9nY0pKz2WCs+ViP9QpIbY8+8Tpc3pS/fJaEAKht7kZ/Ewngi/JCjAql30wRaIz5MBOHNuJBndpVgzKhRM8Uu9MaQcZ2GZ4gyLpIM7H6fLj9Kf3mm00qgDA7m8J6kCRmkDBBDjm8AURUdHVCC5Ihi/IObrai4PgTaeh+GP4WX4t/8CS7Ahd5neItMzMWund8YFvuirCMSKyXQejl2eWvKaB2SgSbEYC4aQ5O1XBrt+JhExFdQqu30wrEiBvqzts9tykI3SNGHpCJ4GSD1jFm+rnaHFRqGIl2A5OvhThXrxaVXA+UhGJwzIPem1XIZ/lHJOYtqECSro=",
-  "sig2": "lOWB6f4tv0RD4dJkrZHPrLISfXhc7SJO1pojYm5I5hiAykCz9EhCWCADrNOawzEFJ+aUlbPyKLSUHeydxWZNkg=="
+  "enc": "p++VdVOUeZzltbg2rf1nsFwKYMIuJH6kVjaP2QMDnUnu57AtPzUmGJeiDny1LHxdhL4cYtPI+ZVfQSHfpVpAn9dPbRB8EbNA7PVbCla07tXZstFq5VzJN6EIeR0bYl2hPbGYEfAO2AcC4j4FMih+bxpX/rrKlfp2/yqC3SNb3ng4g2rwnjSgo06ZmVD0yxc6ngVb8USwCZ6FZx0T1LbOALSFIK6YlzYt7yylNC4Ee5PONhe5Dsc3JE6+EpqIMsIc9GdHGnix81CL1nk0zUYlm+rrYzfqlj0j3g8+7WaFRfFtTxI=",
+  "enc2": "pnZ9GTUTZ4owlCbiBi4WHBxCC21qvt9IW9IaYm0UzUXvjkOfaJSGzeGKAUqG8ijWRbimNI8O0zBYTaB2y3NTK7Df0DuPA22Py4hi0kZ4tmcYmAR5FugNfIA6r5rkTPzpoWNtkcRnCsWQzwZAs3CG7DZ3EpyhsXU5m6/9l2xgywHGxWQ37tUWBZuvubdy13waB/XON6kph+S2Bk3kxc62YjlQv2SK4aUWi1Gy7l5o2njCD/xRnu/mpBWdXdXCUR+QeEweckHf/s+N+7fvCR788Wrrn1dEyLuxx5NaLTsbOuZH/VzQqdqi6+1dGRdBN+FhmH/Hd16HugICb6Ug6ViMKOiACQUz1ma8r0t8x3wbeetsdD0KIYvJ/HwbNTaeRe0VR0Mco0ElZN9q5No2JkgZys9/P4NOuKkAp0YLFbUeCxsRWOUe3adE8L6KJ0o5p9ggafIma54=",
+  "sig2": "wAoVv9FDGxfEhi9TIPzSeePJz29DhzIv+gKwk/jsNkEipJY0uZtUlnq9X4M1ym27U3csyUQxdLoBjmJZyCp6Mw=="
 }
