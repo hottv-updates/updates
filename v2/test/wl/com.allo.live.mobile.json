@@ -1,0 +1,19 @@
+{
+  "version_code": 117196,
+  "version_name": "1.17.196",
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.allo.live.mobile-test.apk",
+  "force_update": false,
+  "release_notes": "",
+  "published_at": "2026-06-16T18:06:47.306Z",
+  "pd": [
+    "aHR0cHM6Ly9hcGkuY21zYWxsb3R2LmNvbQ==",
+    "aHR0cHM6Ly9hbGxvLm5hZGFpcHR2LmNvbQ==",
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "rBrvhRWVv3Wuy6a9ca2kXIWdBnqfICRvIATs8t9S7CbMlWAupg9CuWXaS8vY4RBpWq9LUxtNzAerB4ZMxQUFYGFm/IHXLO98FjOcVovBm7wvpV219Jtk4JdVP3PQXtB9pTfHzakJPxvA5CFYbyYhF65TdtozFErhA5Zk5RketcB4q2zHKwAqB5i2P+N4xTYERWcOIubG7DBroJh90LK+3SrIR3jL9fwi/D1ofH/aZ8++j2oLzOzv4/fNdWpNNrUb6849EdWsjjwz9Fh0iLWFHpnwXmJjHooRgzUsQTksSjZ+aGw=",
+  "enc2": "TaNbKS0n0uGstODX93p4sxgRMDWEEBVjjwDcSu5YLNUooOUqw8CkEZggWFhxNN1GsjFZ7zRMenwVOOhwHEfVpZImAABBZwr+7ffYbnWUXy/2rkJSTmhVmKfEicX/KLPVGWBgf8W4zArX+kAxzjI742sRpopLVOPVXIi3rYKipefLo74Ox38MzjTSbl6w3Spq3RtYUhaHdlaZzk9+AjM8/deOIJ2bsZUC3ksvSgkJjrhIXfWCNYBKU8FRARX2vBKl0T/6lsnB23c3sIE0jM9rtXkVjRpesxw0fqtipOqzNwXhjondfbSKV53u9icQccjyPenkZ536dOOZcOjsQ7ZL8qG88sNLb5EqoBgPOXDpsIiqJf2IpMC6LOnW+feM+4nVOfHmXODMiZA+AZPrglxB/7esijddSL2xsbjXQyeaJG4b4D7PSQpT3qHraL/yb9kywuOvN60=",
+  "sig2": "mLdoTNnLvqFFMnmbYrEY15XOLAZ/ZrcQd2AOtvZHHPWfxWya+0KgWwxoy2siy+p0Pu0Y3lxGPGgqBIYnz59sgw=="
+}
