@@ -1,0 +1,17 @@
+{
+  "version_code": 117182,
+  "version_name": "1.17.182",
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.hotlive.mobile-test.apk",
+  "force_update": false,
+  "release_notes": "",
+  "published_at": "2026-06-16T18:06:45.929Z",
+  "pd": [
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "Bpf32SeqXgcb79MLuQf5QtMQKmy7edlbbWZOD/rG4gabyPOqzkzW6rlVlNVW5QmJOS6VOVGStjgFmoKwWmehf8Hf3tqbYcg/XukQXGGJjXbeitdg7xRb6ugGlZ01ks+oI93ZElrWJbtUjh2zDME9voUYEZgWpFh4BS+TabUA3XgBQ2a3ql4mG4oLlpwwUOybm0+xlc/G8yBfUZFv7VkyVNa3SMECv/iNCrQK",
+  "enc2": "jMskzgwy/4SDBoiwMVYe/HsCpZtGHejqBe36sKqOLZLWFT/xOnQ8ugJGCKhTfLNN1dVjvxCxWpZgZG0XppEMdKZ7VjqRG/tuQTbqChsmT4JPuVa7xw5YU81bzxQfR/XDPqqDNYsyP8cxarEMly8dLtmAQPnsthTtuTksNNeHUiDqA8EwqfIgGot/sFMsL7dlahw9kFQ86PPP77XQyfKJ+RoXKVUatNKgLs8QGX9e/oTrl3hbnCVT3MCKLVnHjeFV4rT0TqbGPitugEl0yMCdFmnbgfAmjW2Lf7obXz5tvCvcPQvCMK4NdC+KTklWghFeauV4Mx9RfC2aR1d2tv9OFGw47RapWGAUJQAbfZCU086xVKr40EK9jz9BZCZY",
+  "sig2": "HXOLwlAN7smr3T8B9VhIiK9jJ37pzUD37e3Y1FA/ZBFSsfrUEW+Y3BTHrdS35XEc+jK0VnM1kAhn88BvNck9Cw=="
+}
