@@ -3,15 +3,15 @@
   "version_name": "1.17.221",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superlive-production.apk",
   "force_update": true,
-  "release_notes": "Live player fix: faster channel open, no false NO SIGNAL flash on slow opens.",
-  "published_at": "2026-06-19T14:03:16.786Z",
+  "release_notes": "",
+  "published_at": "2026-06-19T14:20:50.584Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "sPXDbhPoRX5W7m67MAfzlUxHjxBtA0TG8MxGF25OUegG/lsp8EPt7H44UOBW/Cj613oZMbVwTlz3AnZFdbtAjNPyvx3mwQ22FLaL2Kt0K/YjT7yI+UNCdB20IuBA5gorhMkfBI1GrZShZZyF7iPVB4sHFH26Fpqahsr4suh3YfTQ7ZWfU+NBV5VS769qTSEiFO5GH3oNlQSAN1DXkCSPf0+Syg5jqAWiy7Js",
-  "enc2": "3kLbxLS4guabPM/mck1yifWVM1yc2N/9zpklPk23NIvf+qJfxTNM1cAQWiN+LDprcb73pgRRsqVKnKMgZ00vN89NkPdzmPMpcMZ6q0PYWf+YL3a9YsuDWmsIWTrTc/hzqTdc7xK2qzdXtxyUUEHsrkFL9qK09EBVCbTqlt80//s/0jwZF23i+xYTg2nZeTkSXYbbnMn532ICnFbGGsnPnlAHUrUQREzF1aKAYI6EZ11j4tXWosxbYJQ3tEAqsFywfG2oAlk7V7BBs06YXqhV/2sR6f1F8CpDF1wV/fk+KMkUzgf5AzkT7SyB4wnS6TwT1QCpSYaL7ykzqwQNMg5f6iA4BCkRYJ3X+sFJn3kERQDJpErwtWAYKwvZkNQM",
-  "sig2": "lKgXy9d7O7NjU4hslwLiaLRo8A3LAkYdnmzsjCDpf+lGjRLuKGhATxtgX/SsQhVXQsqPlU1UCxlUgMqO5AVm6w=="
+  "enc": "HSimcA9UUt8i1n0wcPqAiKk7QHntpQjmSPic9aoBW6cqSP8OfjsltVmQU6pp7mkGFYu893NiJti/dCwzaPGt87c4SOYa3cFjpJiyFP7XPuS2CBPFV0AAYoXosab9E1gFTZiXnPHgMJ9z2Wt6AoQVTLX5NDD5aOjsQZ6JagsFx5OmWAIFQfbtjQnUyMX46udpNa8nCawe99UqfZAmRrF12V8q81Z3sMa//WAA",
+  "enc2": "xHBP1t0KNcxwX8XrUan93Xb8cWwS10/A7LeG9XwdoA5n125JmcXyNNu2LfKnlPG3wrU6gd+vmxVjzzMpgR60tnAEYOcAoWIp3sEf3vryF+lKf6Qbz8WiBzM3cHaGlyqv03h6sIxSvMIkpR0BAzuNtK0PnCgqcNzf3zL2fj/5gRWq5/KBa5sHNMRmBZfajlmHf6Ujyf8C9wCV24AmMfWpduaOP0rqST1GcJHFvnkXK2rQPMynBpLPJeCfdwRbgRSfjSLi1YhIIbda1djjjMVN3GxleOb7orHuvhNPku2LMZ3o8DWJQyOrc4YTCTUoDdOeYF28eHuFk6OGekfMtjPgZ8zT6YzUyUX/+3YPKeTThju6lOkEBlFIk5LE/Qba",
+  "sig2": "r69q+aOPJG6MCf+DTCyhyqomjM9nVa1q0OVCoPWtd6ST/d0zELGgzim3lbseJ4SGAbYMw6WLPFQB2nzZZ0E51w=="
 }
