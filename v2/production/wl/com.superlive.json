@@ -2,16 +2,16 @@
   "version_code": 117221,
   "version_name": "1.17.221",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superlive-production.apk",
-  "force_update": false,
-  "release_notes": "Live player: faster channel open, no false NO SIGNAL flash on slow opens.",
-  "published_at": "2026-06-19T13:21:18.448Z",
+  "force_update": true,
+  "release_notes": "Live player fix: faster channel open, no false NO SIGNAL flash on slow opens.",
+  "published_at": "2026-06-19T14:03:16.786Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "soE1vs7k+jaBE+vHVXDxQ7Li8qMIOlnw+KRr6iBwTC8LUQKwxX1VDYJYZpUWi3hX/TGt3z61WMggNxh0aib3ZqAhHHdwKinec15R0CVE8XZi+J+gDVAb2F9fKC97OCFjGfBdRjuao1BCkJ1Elj3SYcoKe9pVRqWSCJkzOlRoRJCKCSnbtHRuWpepqKT+vT7SiID60fL2FkJr9wYRUWsZJH54iB45O2ToTjm5",
-  "enc2": "EVlPP3djG/u8XFrnEl0txUc+Ds9pAq2/Up3xfuFNfAkm2kWSEESSfi2eMhh6g3WHxp0ieNKmfV3hvT7g5YJghYwmYcY+ZYZ2XOvT8jHr6OGfTz2OshhxfxWmhrz5Z8GcQ9Q8JPuckydtpGHHpGpu+dfdcGEHIGAiZCLIYf1OkTGPe3SOE7JVDAnq7IIdzzQfjgCW+oQeNG/C38OsZNkXTTJazlLec3FVIfJuQHabAny5JahE0WE3deZRbzvWyXsTo5dY/iT3yygKmgOp6KAzphrwxUZru15WeDvvuuaA0XmEZLJ6pzM3N2zl3UYfHn4BGliFcRAB5SVPVD8mfNC+bOCOVGBNQKz5FVu8R/3EBmpOZWKNUW6sA+7/anuG",
-  "sig2": "KW9JWa1utVvsF/Tjm+y7+FTb/00ueXk5/NE681Jxq2WaTbBRp4kEqwpf+O0BJWQcLczZ4OLvrj+7jMoPTukvOA=="
+  "enc": "sPXDbhPoRX5W7m67MAfzlUxHjxBtA0TG8MxGF25OUegG/lsp8EPt7H44UOBW/Cj613oZMbVwTlz3AnZFdbtAjNPyvx3mwQ22FLaL2Kt0K/YjT7yI+UNCdB20IuBA5gorhMkfBI1GrZShZZyF7iPVB4sHFH26Fpqahsr4suh3YfTQ7ZWfU+NBV5VS769qTSEiFO5GH3oNlQSAN1DXkCSPf0+Syg5jqAWiy7Js",
+  "enc2": "3kLbxLS4guabPM/mck1yifWVM1yc2N/9zpklPk23NIvf+qJfxTNM1cAQWiN+LDprcb73pgRRsqVKnKMgZ00vN89NkPdzmPMpcMZ6q0PYWf+YL3a9YsuDWmsIWTrTc/hzqTdc7xK2qzdXtxyUUEHsrkFL9qK09EBVCbTqlt80//s/0jwZF23i+xYTg2nZeTkSXYbbnMn532ICnFbGGsnPnlAHUrUQREzF1aKAYI6EZ11j4tXWosxbYJQ3tEAqsFywfG2oAlk7V7BBs06YXqhV/2sR6f1F8CpDF1wV/fk+KMkUzgf5AzkT7SyB4wnS6TwT1QCpSYaL7ykzqwQNMg5f6iA4BCkRYJ3X+sFJn3kERQDJpErwtWAYKwvZkNQM",
+  "sig2": "lKgXy9d7O7NjU4hslwLiaLRo8A3LAkYdnmzsjCDpf+lGjRLuKGhATxtgX/SsQhVXQsqPlU1UCxlUgMqO5AVm6w=="
 }
