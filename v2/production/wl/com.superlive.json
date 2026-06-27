@@ -1,17 +1,17 @@
 {
-  "version_code": 117221,
-  "version_name": "1.17.221",
+  "version_code": 117265,
+  "version_name": "1.17.265",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superlive-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-06-19T14:20:50.584Z",
+  "published_at": "2026-06-27T09:01:59.882Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "HSimcA9UUt8i1n0wcPqAiKk7QHntpQjmSPic9aoBW6cqSP8OfjsltVmQU6pp7mkGFYu893NiJti/dCwzaPGt87c4SOYa3cFjpJiyFP7XPuS2CBPFV0AAYoXosab9E1gFTZiXnPHgMJ9z2Wt6AoQVTLX5NDD5aOjsQZ6JagsFx5OmWAIFQfbtjQnUyMX46udpNa8nCawe99UqfZAmRrF12V8q81Z3sMa//WAA",
-  "enc2": "xHBP1t0KNcxwX8XrUan93Xb8cWwS10/A7LeG9XwdoA5n125JmcXyNNu2LfKnlPG3wrU6gd+vmxVjzzMpgR60tnAEYOcAoWIp3sEf3vryF+lKf6Qbz8WiBzM3cHaGlyqv03h6sIxSvMIkpR0BAzuNtK0PnCgqcNzf3zL2fj/5gRWq5/KBa5sHNMRmBZfajlmHf6Ujyf8C9wCV24AmMfWpduaOP0rqST1GcJHFvnkXK2rQPMynBpLPJeCfdwRbgRSfjSLi1YhIIbda1djjjMVN3GxleOb7orHuvhNPku2LMZ3o8DWJQyOrc4YTCTUoDdOeYF28eHuFk6OGekfMtjPgZ8zT6YzUyUX/+3YPKeTThju6lOkEBlFIk5LE/Qba",
-  "sig2": "r69q+aOPJG6MCf+DTCyhyqomjM9nVa1q0OVCoPWtd6ST/d0zELGgzim3lbseJ4SGAbYMw6WLPFQB2nzZZ0E51w=="
+  "enc": "j3fuJaEr4o0yT2C5vM46rVlEPGj89b9PuBdYVrmdg4cXjT/Ys27kj9CpqGICHx1lyu6Fbx0YOBmIWQPz+ZN8A17+Wn9uLcXX94FJcuIzvH6RuTJVJSm7MJqoaux3APxD0RARzB+tcjvCaz3D7zp/H1Rvrsm6TY9STV8577rRvabZxsZp97nm8hv/sh4g6KVC0tGcoPrYGweesSWaIqpeFST2AGyAUMwn13yp",
+  "enc2": "izk6ALbgJH5vdpLWs9qhsfgJwxhmaNL13o8v8akx4xTPFPNQhL24wqN4uItJwB6hseFeACRYvTxopueyo6zA7aycuI9SIBBgogmI4rCUfJwYCHSNLthCNIY2yexojVJWwlpv15OyMW9xw/Uttvc7K6YwrCupWKHAUK/Z45edrOAL8FZlH1+561v+MBSw3n9AVTZ86V9+9u9j1Pgip76F3kKG9inPLiS7pa0VJTBVlHJ2mWBbyBjjmMqtA2E9iX/sHXUcKDs012jvYqpHLIpgeYFi9O2hi4j8uZrcbsODzA+E+ldcaJvlU3j3Y+6aa2PyFHsi1AE/Ypyu2hyuXTcKf5h0g4w5NsCmuPLIownRfSX95Gnevc9U7RIBkNZt",
+  "sig2": "FIVyDpxShp24D3YLCKgYvGPff35qpOTBJHen6wK1hh1O0kBdihrLgNcN7ioCCHoBOacpHVwcYwxupItRBYnfAQ=="
 }
