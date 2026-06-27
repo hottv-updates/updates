@@ -1,17 +1,17 @@
 {
-  "version_code": 117242,
-  "version_name": "1.17.242",
+  "version_code": 117265,
+  "version_name": "1.17.265",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superseries-production.apk",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-06-23T06:31:58.256Z",
+  "published_at": "2026-06-27T09:01:53.071Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "ZJ3wc96sgOC81kvMaHf64t4YuphqI9Y9jgUl8//iGQR08LI+phjHmOBuTIFW/kjYRlkyxHVzRWltOkILNNe08KvqePi1OKBz06c08c2yyb0SP1VbrkRIVykt6bVBXPvrG5lQ87uwck/I1y4ZmnfbT0gtmGMSm5KnJOGW272D6NsgbyipEhkQPmZLv2NeJG4C8+XNjLaiXq3pYVPIG+6AvNbD8C+WPcYMHpQX",
-  "enc2": "0IhRur65Rmk+BuwW+xi3/ru0kSwF0Xzx3MdkKVuUYn+YM0l5ALlr83ECVFDZBHK1+oRIxwiXNvun5AVos+bVvKadua3fNVbTaaKoB4Zsk12P3vh+kXpu+eAFd6Hg6/tlBt+YtIjrmskYTFkWfJM27iWp8zkqF1Ir16lt8GEQWOFnaM2dAPPwI6wPNJ9WACxscE9XRL+/sbW4okuW5ftsPE8Iro4L8lgpcQAGpGasWPg6D0mFcVuixEpi789Ed6pl2N/fOjBMDUYhfBJuHmFHXuSdCQYMXDhavRrsWEnBzhuUFYt0sQuIlkr0BOY9bhI2czB8DDb0jC/x0CkwG9JiY+5d9VIeFI1UmFoUUEQJ49dvnI+N6rh55v7qzFJU",
-  "sig2": "c3ypHZVW6lZ8tyLfcoY+gFL17Tp2697iZsl5z5JAbMnpq/ePgxW8hvGyhoBo1hq2lYuNixnQOakwEy6TDdsl9g=="
+  "enc": "HNYIQIorM5HFk40h06tNOnlOtTg6AJYbQHoQvCnUI2hi6AqA1GK4LunhtaGM0Pw8LC+ZdMYoXTxpMXjqM8wtzkbMm2A7GMjIq1Mvqtl1KF9H87yNuWtgIb0x0KnrTGNhgcBqMRKRF78Pe7RvoKiFSBBQuyBAnxIUK1gxFR27ri2Ue/etIZTjK6gz4YDGBixHi1eMxGXSBKWtcgVQIcftrybWZpRxPT+8SytD",
+  "enc2": "1zPITyKgPaczHE4K61dqX1pockf1ojhyoD5vr0pD9hkr4mXSWCc5yf+4QxGsBoMftsnCl2cAclQ69UMg4GYcDO3olXoD4ZIpnwbA2ibvcRtJIVUOoGkN3aZegEv1Qvof7ZiyMs6m5dPeUxDlKlzMnxQ5m5MqTjaz2IbBL2bnP4PuiHdGA2PJDv7ixWGo2SbJRbVillg/jPnnyZ3O7n0RjvyYzQCBleiBkHL//5+4h1F/xThlZ42l5r66tea4fePlgKUAN3kcOc6zMjqB2cTn0wpuzrs6uq2+8cClk+UJLmjgHTuRhEGVJ3nFIoNAB0EsHKeiGBhBktrdfY/iOw35NvDEwOijAGzqk3s08BPxdx2YOiFoadIU/b8ZZHNj",
+  "sig2": "NiXWcmAm0QWif5EoBoQieq4CwS1YuTRm6LrONbQXhzT5fMqETslh2krhqewiiztgzfHEEZXc53XynS66Sx1AZg=="
 }
