@@ -1,18 +1,18 @@
 {
-  "version_code": 117302,
-  "version_name": "1.17.302",
+  "version_code": 117303,
+  "version_name": "1.17.303",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.supervod-test.apk",
   "dm_url": "https://build.nadaiptv.com/apks/test/com.supervod-test.dm",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-06-30T23:11:13.859Z",
+  "published_at": "2026-06-30T23:28:30.748Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "54QNHJP8ePdh7A/C/LaSGB2/lyAMqt+7l0vbcpeaCAQnd2zL5sLx13NAbP+Durzb0wB3AITiAIPAiT5c1YtPC8e0kVWf7kBojBURoKbzAEgYvKBrrQTD1aHD33ojmv09EOAvEgeHKT9YCD4qBeUjMXo1VvjkoDTxQkQADY8yRtHtUVVM9poLUoYSkxY95CKQeKGud+Xc0wrTec+tCDTWHwHm77c7rvfl4oED",
-  "enc2": "+sMpwLTM+SKB7jFgWtQAD1TUZ9REcCPnpy74vg7ZNRIuBHu5t8Ly8/Sw7yQZyQKbVm+G01TAxjwcNgO1ciE4PQ8PxOqoHk1lptPe6CadkDV+wSSAZ4hfIQbEOQhCQnP6shqmlMlSd2896rSBjw3CN0H7zcCQkrEMz1B8Rr/86XfdxSvKrGsOQZ3VnG6oxrtgSoIXFNwDTWVOoeEUJJl+rJEhbJwV31QyblyRwQ51ARIm1fwOzNaew1fe3u5snz9QwrxilShqclA3/f03qj7QINK++GaU0SQtwPjvTpkziQM15cD+iMuRvncOTQFlotqqb6P8wfDovCudHxSsujgGr//FyxGpE44NnjAexVnzfFuNdIBm1XAMEBQMAEXx",
-  "sig2": "LLGDCdainhTPYa1nJr945B2y8qerJBlz5+st0GSk9Nd/+lIiMnLq2HVaN4Cge+AHB99HeZmKG4RqCAGOAJ9kYA=="
+  "enc": "DEMLqBAc8FzNT1lDSzmJp88fm68IAic7+Mr9wYiuRT+uCmSHKS02v/J/aeglGomQdJ3mxrtFdMHhx1bMTikftbJpFiuFpVE6gIZikcZFr8zFj7WI6WalyCvcjF4/D2tmJq1P6L/s7d9EqUhBFcUjknWLdPXkrSZr/wyISMT7ZjQVAqPAtP/5wLz1nZwpBBVuelJTYDTVHKddfEsC6UEeIhypVTEVUx99itin",
+  "enc2": "ZQPVUGsQCHZ11eiXMjWTF1uHT9viQHDFKzlBH883kRF+N8CFSXepKrne/lTr4k11N2ydzMZwwsRZma91oVJywf5afPjzrrphxGUxYJIVcbs3XBiGU2dc97SB9dasHcDn56pZ/RHsU4dvFrUHik8FBouEo1QiXR00euSIvmFEWxQtQC0DHCHzonWOKJrAbyHJo2dz7gs5GE1XtDZUzxBPvaHvskI6idz2ng7o7qM87zxZphV9iUZjXBYRrnUJj1mm0RGdX3oVjdFN1mYoSUH1MAbQCLE/PO/QanM2NBsh/8tlw4QpfcLHn9nI+2GTf3EjMsfxfputcIFZ2reGQ/oouaKtscJxv8aWkAB7Qso2TcKIV0yvMm1hSpgjAYUF",
+  "sig2": "9mgWav5SGDSq15tn8aCIT/SYzuIlM7Mq94SIb6tjkTP7cCjJQB26RD/5OpJ+vCid2Oo+6TQho3NwkbU93/vpBw=="
 }
