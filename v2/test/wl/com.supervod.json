@@ -1,18 +1,18 @@
 {
-  "version_code": 117300,
-  "version_name": "1.17.300",
+  "version_code": 117301,
+  "version_name": "1.17.301",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.supervod-test.apk",
   "dm_url": "https://build.nadaiptv.com/apks/test/com.supervod-test.dm",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-06-30T22:31:06.110Z",
+  "published_at": "2026-06-30T22:49:30.985Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "eEAW1fcHdA0JFau82BNysq1GdaiAq/akZ4Vkzg06uUT93B3BqPSY6iCSGeLOwK8qT9sRtdStivJnPMIHGk0zuk361CAqFFb2g8tpuEnKfIXtrCPo5O+wx1jd/eLkwKZsB0o2TYYkvCl4yi/f/b6RpuZxwF83tQwltZDdLZBsxKJUccMR0MIRIPJ6Oj3coUh1IeXa+etEp6pwV9oXFfwpgNuU2Kh7BG4amJte",
-  "enc2": "QXW6g4nhZ8QTTxdR1QI0qllH1NOCl/2CtdygtfhzNNGQPGSPM8JCWKFDf0B5Ko+xVpw15TvF44zNeEO/NtAry+XHjhmCTtAmZeqi0UMwjZ84yB0CP7fuB5eZgnKyXySPqeCypMhmfGAMtBOgR8LgrHOhCbW+/kZUoF9AOxDk4dS56w6jhKE58eZ9jbC3oNTJ4Til10bQhSD45Yyyc+VBApv5oi4fxH8C/1aKmgjy0odv7/Cqy425JzWgSE5XkyPVOEOaX+L4TGogB4aIhk3NIO1RsTqr//Ej3BC0SQomv3KYCQLK2Cqql+L0DQRtcC+FGTF+XyM+YFJw5iZS7mVz+6tOOrEA88cb6HxvU6VPq5/6BiSpYEUexLn9pq3N",
-  "sig2": "7nkK8XWg1TMpzFoKB8BEpiN1uByaH6bdAp7jPFtvwLKE+QObVHLO9uxNu99D80A/V1kfm6dlCffL6KYV7Y04Zw=="
+  "enc": "7FiBV9VhXHJnk2BdA799lgbe6OGu92G2tEj3WRx4RygWe1rPJ/FIjGLNlBe4pfe4+gcWtyoNpiyuYCk9Ok4qmyctTKEf0EfK+YL2NZFIbQF05iK6gNIOf3lj5bQ7oF6mS2EYPCdS4NAJ+zHWp2VVl5tEFmoKipC5EqHGOPcbX1mSseFtwOLM8cmm98JI+J7CNOyWP0W3obuMRCv4/rtmsRucPfAsPbz2gRR6",
+  "enc2": "rwZpRAfAZ3yutxIrQMZrDRfM+DXdMD2NITH8M9A0FH04pNGZUFo6zE66hT0jgYPsD9Rhze/npFRtMDEQElodta4Rbpe/oiFu3IhxXWC/i/pO+guzukq5p/0HKg4ZfkBssIodpR78Bm6UlB1X33cqi1MbIizGoSuUgbpWjPraTjUVutCBxfCOMKAhmgPUIamkbFidN9EI4NaGloHPbk0U7wPkaJcoHFvJXMijYvmulZBT4Rc0s4tXiRolmCZdnL/dmc1dzy+gV/3sHU/Q8j6pRsgfyVmGJHTBHLMcK1bycarTk7TyKJ6FO4iiht1bitbOARbe+Va/qwgCZFJgvnUnOZqgKsGxaULaqMPvE66edmj2j4Om9RnjH3wyZSoq",
+  "sig2": "NFb+VSHHoeASVY9eGfL1jiJMy37n4lKpw6vwP32PK1QVbDmpUBz2IiRy6buge2uxS3AsiiqdCaYBlPTYIogpug=="
 }
