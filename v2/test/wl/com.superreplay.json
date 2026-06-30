@@ -5,14 +5,14 @@
   "dm_url": "https://build.nadaiptv.com/apks/test/com.superreplay-test.dm",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-06-30T23:45:20.972Z",
+  "published_at": "2026-06-30T23:45:51.240Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "3xlFPSjcYa3yz1MIFX5sbgIznV2QVfzPiAhrTL4gtZoLr1vwIhLgOcz0oFnVaz1t2D4eNcAU2LpdXfbSxAxAyGhyw419XLk7ibmQIaLnno80bYQsT5HScH2w8ChdnH+QgiXA2RSxxZ3eXExtctUaNvn66GZH4vTAFO9PZbPpNH7DRZT5nmw9Pqnl53OC4s5D0jarlaQMaFme6PwPuONWmH87yJFngJP1ujIC",
-  "enc2": "aH4KA7akUxgSHUa4KDaMOub2yd1ZIq1rBdF7yeGLfyLzu3gve8RL5TNkfVFaS+DvRrsnOQN2ma/frrmVoWOgmkHUeKOjbRpVqjhE7YSSHEKRC2Ep4jdk0zQl53gp7Ttt4rJqA1+ZkIASMi8vxC951r0IWAjNkpCC0kOCLh+gL1T6pTwUB5bh41nGgtnEF/CAnYPyzNJ2DYeLPxqzgPbrMjLZv9q19PbpVjHFdpwmcubLVbOGc/+QZ2J8Z54wxcF/1iDAZaUZ1NU2vV9K4URKeHk+nniItPYFm1N2JZilxYxLu4xIjUSHIZ7Z7PJCI+hUkZnngPIDpcy/gFASv9xETxQXljSNWQD0oijk8GJu9NhShc2mkrMeRJFfsXGJ",
-  "sig2": "UhHkPKc6GTj3Qtv+6aFGK8Evxygd7+mVIBd646Rj4rxsv0lirpgvWx4OjEGYQD+sAB4azbQ7eTAEK0tNfEBKpw=="
+  "enc": "HaugJ8S+LqK5YXYKG9Ykj5at7YgZAN9DUWyfJ5eUzNbpuo/+ybYFURMZCtWKdUuZdEAteKOwikw47fQWHWiEkPu1whEMLp40PkZz7p9liDB+qIgyDl2OJmDP5MrZefvp1lAJoWY3uvrgnERnocZCgAAFJtszklM7D4d7p8SdlB6hrBKIqwoPnssqv8UfHjL79fgH2kroyeO3gx+henlRUJ/eRene467yWdlR",
+  "enc2": "W7f5BlHlJh7vvO4gfxXzzdcp+FvbEhgb1UylhKsNnjQ9Q8+5SBtGMHKjnM5hxBrZlmbZJy/mKDz0K/FCXvLDfekHn5X80fUvA4hOjZPnRiu/BNzB8ZnMat6ccNQG9gPXu7QkVnwhppQMDhm33w/8V1Mssfob5tR9Qa7bQyh2AeSiNnklmlPsvMeRTO1cEwZ8xZGdY/zUW2xd7RyOGLhgStJPKIF4eVeo86aTPx/MPg7vwGU4gSuxwyz5uVVOdRB4ygWyAhWfDF8dwIWYIvxL0TSylCvbLp3szvpeS+t0tVuyd5KSblxQE4IB9EcXeG6M2Avm1ES0ZYnywqXDV/I+5jRW2ZYEJZxd8KIHRmIyGLUQcWdqAv9fEuQw0wMw",
+  "sig2": "++HiXOH6tMTrmVXeQe7XMnyOWQqDyZN1hr8G32NYGHHoksMoo+guzxJDecTtTKhx9HG6oh6PY9DSdGUb/F9W8g=="
 }
