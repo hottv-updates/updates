@@ -4,15 +4,15 @@
   "apk_url": "https://build.nadaiptv.com/apks/test/com.supervod-test.apk",
   "dm_url": "https://build.nadaiptv.com/apks/test/com.supervod-test.dm",
   "force_update": true,
-  "release_notes": "dm/Session update test (311)",
-  "published_at": "2026-07-01T11:30:54.035Z",
+  "release_notes": "",
+  "published_at": "2026-07-01T11:38:19.882Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "eGP7OneqnRog8xYKWKUo4Vb9nGuQekAVNX4aEBq06WKyqISghzA7ApLb2kOeZS20UijD/j/sxvdCHzsOvzxsSPo9yHSCEgzPQQKdGMP+ixWkvTUqY06zSeI4KvNMH2yq3NbdkdrRXjYF2+zgPJMYe2ZlhRR8JLZEQgJ5IHpsMn/ZNmeH+VhSEd7Ur6Ml8I8oRODtxivBSm2SeeSuwAX6D9YUZoxhYJlX08FJ",
-  "enc2": "IDSSHHgUOcY+yRx38X3MnFLmeMx24ePfompX/N4RspCxeJUUHIohoZ4CCdX9pCshFAv9e1mOsmGiwzbde86BoORI/BTusUooc/LkJydbVb7Qub5nM/9T3yZnlCEaWAjXOAHynr+zl8XiGdyAVzRgHX32HCKwnWFh1mo+0inujYWLsT99we9DLuKfXuu4qM64dooFxqyrQ96mPNY2GdZPMmv7OEht767pVmICxGErbSSZp1jPVuQeeyoiDN09Y6Hxdv1D0+q+oWo0sQMXSu65lxdpk131EQMr+Zx8rCFhGXHT5aO7NtZF02H04kClfOyYgslxQbqvlgu3EKKZE75cm+OLxBV9EHQZrdan92b/WI7YPW2v08wrg3RE2YVH",
-  "sig2": "Q0Rh4DnMP8oPqRdT9sk3XggyKqveOWwvWAlebmu/PweJcGYGwzj02/ZvI8uFGwcFrq5/0HDkomwOVRZGvl8M/g=="
+  "enc": "AfZIHnlKH+3WkhWjwtezjT5aFrv5VdMVgpGsygZeGoeiPo8bWG0V5Y8cJ8v3tJK67p/kK6/fr0lw+z/ffQWwV3SasnBXo4NdEHeNmsgNFpGG54lJa5Hf9YfxqIWUpGnnO/7UJEUJ61bVfbXeF9dlTannGto5ptN6wddgLWIxG1kdGQehMrJaZGoj1dBqYqTDVOCzPio/6zYoF8HNnr2lgbyDiP0/2nttjaXT",
+  "enc2": "uvSgBL8niJXYJjPtCqxXj/kXzV33GwwhbJZDyWFpQKCntENyXpaHo8rYZEzzna/Dub6Sh54dOsm9ve9HPr90U093e0nBL4bqEXdQksdoM42yxFoMxY2qSSLiqkiVVs62MJIZVgENUxZr+lE/g6BjpvnOo3z0p9fZizOy9OSB1+702p98TRWaARyJZx5l6WQiB4c1Mhjje2+aj7cxHnlaRC6st4ZIYzjIlTEmEJcyNvkRFkI6K7gkdSSSUnI85Kt2ZBWZVeZNi1FgYNIZfNidfpACkAHWu9yY9hn5BT8n/Yw572VZgSmF6W3FA6EIll4v0NVrJBPFjp8W+cNTyNgEjK7bnZtC0fitrqzc4Tn3iT8v6dUqzSGHGSPwcTfW",
+  "sig2": "B3bilsJsBk0f+2fBG9hXcwU4lBprB+P7upaPy5hh6JCJWUXrZU0praEX4fIOGQmiT4tbu/aZr96FV50Rhw+53Q=="
 }
