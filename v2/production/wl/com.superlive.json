@@ -1,18 +1,18 @@
 {
-  "version_code": 117310,
-  "version_name": "1.17.310",
+  "version_code": 117374,
+  "version_name": "1.17.374",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superlive-production.apk",
   "dm_url": "https://build.nadaiptv.com/apks/production/com.superlive-production.dm",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-07-01T01:45:52.776Z",
+  "published_at": "2026-07-17T20:13:40.599Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "2Z+VN82fTGJzsuITs7/K0R2vKz0L4yKVIpDv/J6XOST/w9n46hAVOlIJm1whD+rh6jowwm3K60fKkt8DmckEH/P3o3b7k3iLVIGT22awEcB2gygL0hN/FmRTpln6zGQu7YKyfUiKipRZ1zvjS/Gp4YT1yA2aw66HapD3LSyi9wzW0OYdnDYva9Ozoz+cT2DjjPyT7Q4uzcjKG8xM9t8ZoYhp2QSJBdjKR5HR",
-  "enc2": "OdUdHnm5Dkw5RnxKYsboDg5mC5/gKBzMEyWiMH9YVOs57mFhXAny1w4mgkKAV6dnvMQvwhLXDCncrtkMuzcufgAihv1YKnDQlP9Wdi6Ip2NyR92HCnZcSGjGV1LUfOftu4VJGXM4ByA+GIySMoxnQ8bQ5M2w8JvoSVuEQ+jFhVOp/U/AkkkeST3wgsZf56iI3bBwnQgEokw10zqZIK3vLmffdmWzw7T/0nkgqBIzf1n5Iz2KWg3El5qwlP1bazuehDjscSwOayYK8CWWdXkh+XjoujXqEw21X9QGYvWF9zMEYr3c8+2vvmuYJX2BCOoPt0YxYA8M9T9sUyUGq1ehruvcH/bkWuTZKlS5AAIvxClHO+YdJTwOv+VsP73C",
-  "sig2": "peN/JEvFD6FZaGE+S2hH++bSj2EdX1zlk8vR0KEPbNtoZug5CzjWY+phOXDpb4aKhEVCIx7IgeRvbMoQnzbxMw=="
+  "enc": "byR+ZvVJiVIzJleKzMrxVYKCImr49MSucZyUHMSYeEGGcTGoh6hUdPHykfvbCJkULBxwhSAFVMg0LM45m1wGHt9yQfDmBO3QQeiBpfX0hOobHBMV4eC+Wix+64LSysyTrvvX/8S5UajCNjA9hgZCzWUwne11MfLbn3aEJXckUh1i2/aPkOThVLoZQj7sYKHY+JFohl73LwV5FOZ/jJS34p8pwqFSHu/xm5Fh",
+  "enc2": "JzDBjz5RQrX+W7+R+du8yzTKIjXIntdaMXnDp9bSEvhepbIZiEPMaT25mxCUfvA1ETSP1q7nwF/Vs08/2AZa4ObfU1iYf5k5lW8j8BVSfjReyeIGgv1lERaukJNe3mGdv5W5F5nBZtEuL5FxkPjkU8Ywf2AvKVxm5Eapd+jYtjw3r68hIYaUc4IqDzWhpqU08Kyx7Knr274N3c4s9q+KNjrLQJbF7/4eMpJI8Vre/ir147cfndzFc2YY/+8FJdhoccH8pnT+voCqqZYJzWBSjL27cNu1quRJrpwcHeoRDo2KJKH9uFPmKkn/duCMP43hGw/eRRN1jycAvCIgsgIvpa6em+gYY3hzA13Zte5zKV5vDz/P1v716mZfIJcA",
+  "sig2": "ZMLEcpbYtrO9sHicG8FL+hD9KvpSl24gLHg6eTApSFxSk4ojVWERwc9ShDzIP2RjvNy9Y3nm3SukXouOtWI1hg=="
 }
