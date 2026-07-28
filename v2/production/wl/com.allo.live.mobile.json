@@ -1,0 +1,20 @@
+{
+  "version_code": 117387,
+  "version_name": "1.17.387",
+  "apk_url": "https://build.nadaiptv.com/apks/production/com.allo.live.mobile-production.apk",
+  "dm_url": "https://build.nadaiptv.com/apks/production/com.allo.live.mobile-production.dm",
+  "force_update": true,
+  "release_notes": "",
+  "published_at": "2026-07-28T13:30:20.026Z",
+  "pd": [
+    "aHR0cHM6Ly9hcGkuY21zYWxsb3R2LmNvbQ==",
+    "aHR0cHM6Ly9hbGxvLm5hZGFpcHR2LmNvbQ==",
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "UIxodkay1DSDtA62VFmN8OF8VEhx2KcYYgIJ5tvKhqWBgBb4ECQy3BocuFTzDkov4LwSimcAb8ugtCw7/FDbIL8G6+RXWmjHExG8VPndUbKzMgj7F1ADW6/0Pr2w27dfks6idlU0dL2JzTgW08Fmc9OFky/gON+ixL/avXSxSHVCJ9nKg5C3Gpqxzd4ACCIWVXWZxjx0OdfoI7I1vPwVcAaL3sIwgS5a2IopDzUQvV+VefZZNtZ3xnYVG5RdrA7V+icFnq34d/0TlnbuaS1q8ELVNLO31pBXW1uWh5gaOGi0L4A=",
+  "enc2": "lHozBWVUOkiZSt7+ZFoNtow5EjO0u7nvn6rCsQr5wqkF3DaOk6C4nWlkHPUU3LXIYRK14/q/oeJE/AFFhEzYGp7G1io5nnf6xJc1HAkVmoGTkQlzbFlFEAJrIkWkES7+8T9qNlhIhAqCSxv6v2NMVdKySgZmW5fZMj8SwZDdvQF3YUsIeiUGsJSob0jMN6k7/NPBCSwZdStfPFLHn2YnpKH2S78wifIPITTACFmA10sZEmw9IUA+uhJYxaBqLmJLbe/Xz9uCgaQ7E2itJOtBmvMinWfhOYdeRvtZ2dEX7rklKciTCbGq6LrY8xoVElHXZzxjcAnxuHwBeq08OHMxRyQ1fzDM4k/a5SOV89uNdqnZ0hwfOi9o+YyYEh/fo7PpJ7Qn8HHj80MCv1qvLp52M0/lWWSHfB9m1MAWMFK4gGzhZLtsKdQzaOgJIguUe3ytwoZO560=",
+  "sig2": "MvdwZcMmJZReo/mj0gs4idn8AEQOsx3/oc4bNxW2lPacn3T0JNx6879JV2fcaXX477gKKb1uF6y92kN66W3HRA=="
+}
