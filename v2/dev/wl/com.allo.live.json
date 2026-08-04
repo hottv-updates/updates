@@ -4,7 +4,7 @@
   "apk_url": "https://build.nadaiptv.com/apks/dev/com.allo.live-dev.apk",
   "force_update": false,
   "release_notes": "",
-  "published_at": "2026-08-04T18:47:28.746Z",
+  "published_at": "2026-08-04T23:31:01.001Z",
   "pd": [
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA==",
     "aHR0cHM6Ly9hbGxvLm5hZGFpcHR2LmNvbQ==",
@@ -12,7 +12,7 @@
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "WZvJgJ0dlXqzLly7DtUbFKXAn+fNzJlNuHoVPrJwOE/eH9VNIekZZZZcex0dwk0aNOLJrih4l2hHmp0Oul0i4FD8Ft2W91hk8jr7auxFoeiG7QIb81qzQrNnF+ZF5j0qe7HrsAfAuMr+0U+KphxsJpCDaD/3a7BhNe4sOkpCjMopVpm6fGGo61vLtdg1PuEuKf+GbOcH9qAFKZgPs1YIrxmIbOrAo9Rwoe6jsXKvilCg7xlxeR0bbsCl945hS/czjxAqjZYWFg==",
-  "enc2": "9Eu1R5N5/aCJnrV/U2YpHIXzp1coZ8n0B43EtPVdmX45DeMEYDw6T4K6oRObSWAuL4Io/54uA016X7Vsm/PrH/Zsick4p6c5F4fXmAJTGjf0ItpkPgKMpCworp0pOsLpP/5HNbg6eZE5PBnDcfxalYfBF+7gcokBELIVoFMDUWcHDNQ/Rwfpn5gbJy+WgxZ9LdfaNwSug+Xe1TESdvjJ/sGaZFdHArIHQih5LMOiTD+kAReDDlSfU1L0r60Lfdc1Jdh/N0KOWGk/ukPLMJNsHmsCO2xJ8Cof/hUhUXQ6JA48zyCk5/dERPUdoo3FE3SUgRwDsk5vje1Jl8a/FpCAOJhlkgjQ5SEmFTsuKmbQZiwPufVZcYAejrDhm+aGs1OQBNZG5ZodeysaLAL5EGaq8jzAD91U0Pl7vw==",
-  "sig2": "HOb8ndJB4p09a90+4eCvuxzi+MqPsYOrA1gr4UJMxvn1DrEWtD4w6bFvP053PcWEMUZh9aO45zX3TTxUdnIfzw=="
+  "enc": "d2vl0/Q5qlNs5f8QVgbOwcy/rOSayeMDalJFA3qxxry9JYjD6ntZWODjc05mjSZJDVZb10VLNvq7TpokQ1ng9uDPqrZsMwPL9arUowHOTlWqZ/BHixbqYeSpDpJg8iCQYbX7DhTsbt7zTWIVXp6BHiRdfcZokwioDa/cW/PPO3DdJpHxE7tAV/IErtBxRK1KTH6MuxRRp8su4/r15luozAZEDp21y8F45gHQ7xB4LkqVg27PCCLvdAL8N22AGXkUb9MytW6Q4w==",
+  "enc2": "pNRMG3Ch24KLBy0lFVFCh49PWVxxeyZisIieDtzZ9BXw1+H2NGdhSUUgE1lJchZdDUnRTHpr1aWSiYK4ky+FffBhnCO+yvqWtwEF703u1aFeVfHUieuhx328Xy9HuAIoLL3xdVW3DI6J7wmv4DuKLWk3PJ0W6anhU1PkQPmJmQTb5U2ECTAkxeBv3+Vfk5ZkUjWEjdsCZPhrwkW39pLddKoQpQrAhehJGqtMMOx1tEIJ4OJ9H6FsIhIbgwsVCTLATZviLnqLM3y+EoKCGlbR0Q8/x5LN4Z6MTso/ilUToA7HAymlUk5ZMQJz6vBpGOzp3QRab0mwX7afYLR3iOOAVWGwLUBsGCWe6JgZo44l+uTCDpmL88YzXwnlIY7xoRqU8JfT7Ok/lzLW0/inqRRan5+wNrEKgoWGtw==",
+  "sig2": "zBcIhR2Rlq4Y4wBFd2qXovOuppeSK4jW1rrgZz/I3C61G39GPSWOLNn5AndTb4HoUAPOKCibGIGzHo/rbFsXvg=="
 }
