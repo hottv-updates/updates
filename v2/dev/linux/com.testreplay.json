@@ -1,0 +1,23 @@
+{
+  "schema": "nada.linux-stb.update/1",
+  "version_code": 11,
+  "version_name": "0.0.11",
+  "channel": "dev",
+  "bundle_url": "https://build.nadaiptv.com/bundles/dev/com.testreplay-dev.zip",
+  "sha256": "62d51d1ca7bfaff3e15a848cf2160005abdc737652c6495068d686daf034b030",
+  "size": 349302,
+  "force_update": false,
+  "release_notes": "",
+  "published_at": "2026-08-20T22:27:34.008Z",
+  "whitelabel": {
+    "id": 21,
+    "name": "Test Replay",
+    "app_name": "TEST.REPLAY",
+    "flavor": "hotreplay",
+    "application_id": "com.testreplay"
+  },
+  "dev_identity": {
+    "mac_id": "30:A6:12:11:31:3A",
+    "serial_no": "150100445554423432020F2DFAA14900"
+  }
+}
