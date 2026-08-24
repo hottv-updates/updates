@@ -4,11 +4,11 @@
   "assets": [
     {
       "name": "nada-agent",
-      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.hotiptv/test/nada-agent"
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.hotiptv/test/nada-agent-1.17-test"
     },
     {
       "name": "nada-agent.sig",
-      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.hotiptv/test/nada-agent.sig"
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.hotiptv/test/nada-agent-1.17-test.sig"
     }
   ]
 }
