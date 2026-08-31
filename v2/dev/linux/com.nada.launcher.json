@@ -1,0 +1,22 @@
+{
+  "schema": "nada.linux-stb.update/1",
+  "version_code": 12,
+  "version_name": "0.0.12",
+  "channel": "dev",
+  "bundle_url": "https://build.nadaiptv.com/bundles/dev/com.nada.launcher-dev-12.zip",
+  "sha256": "5076cafe04e87b08a53bb0cc940c929d531dc832b2a27550c9937bbb17b5fcf4",
+  "size": 334645,
+  "force_update": false,
+  "release_notes": "",
+  "published_at": "2026-08-21T02:24:17.011Z",
+  "revoked_keys": [],
+  "whitelabel": {
+    "id": 28,
+    "name": "Nada Launcher",
+    "app_name": "Nada",
+    "flavor": "launcher",
+    "application_id": "com.nada.launcher"
+  },
+  "sig": "nMYfY5rxqcIbwzdydUpaWl5PFaCneemgdMnb07VliFut/vvVRiHpo5Is5oV4TzmgIiTjrv76+AX83ZXxA38R7w==",
+  "sig_alg": "ecdsa-p256-sha256/canonical-json-v1"
+}
