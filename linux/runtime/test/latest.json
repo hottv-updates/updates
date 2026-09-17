@@ -13,5 +13,5 @@
       "browser_download_url": "https://github.com/hottv-updates/updates/releases/download/runtime-1.0.4/nada-runtime-1.0.4.tar.gz.sig"
     }
   ],
-  "min_bootstrap_version": "9.9.9"
+  "min_bootstrap_version": "0.3.0"
 }
