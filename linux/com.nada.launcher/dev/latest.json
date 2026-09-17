@@ -1,0 +1,14 @@
+{
+  "tag_name": "1.18-dev",
+  "prerelease": true,
+  "assets": [
+    {
+      "name": "nada-agent",
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.nada.launcher/dev/nada-agent-1.18-dev"
+    },
+    {
+      "name": "nada-agent.sig",
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.nada.launcher/dev/nada-agent-1.18-dev.sig"
+    }
+  ]
+}
