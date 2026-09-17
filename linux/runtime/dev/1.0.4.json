@@ -3,7 +3,7 @@
   "kind": "runtime",
   "enc": true,
   "sha256": "d7f15369d8271700cc3bcd8c57a8193943343197d6ad01d9622dfca7f630d90e",
-  "min_bootstrap_version": "9.9.9",
+  "min_bootstrap_version": "0.3.0",
   "apply": "next_boot",
   "rollout": {
     "percent": 100
