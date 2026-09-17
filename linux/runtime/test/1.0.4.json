@@ -15,7 +15,7 @@
   ],
   "min_bootstrap_version": "0.3.0",
   "rollout": {
-    "percent": 100
+    "percent": 0
   },
   "apply": "next_boot"
 }
