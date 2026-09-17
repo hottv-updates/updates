@@ -6,7 +6,7 @@
   "min_bootstrap_version": "0.3.0",
   "apply": "next_boot",
   "rollout": {
-    "percent": 100
+    "percent": 0
   },
   "assets": [
     {
