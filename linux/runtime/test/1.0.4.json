@@ -17,5 +17,5 @@
   "rollout": {
     "percent": 100
   },
-  "apply": "idle"
+  "apply": "next_boot"
 }
