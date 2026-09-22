@@ -1,18 +1,18 @@
 {
-  "version_code": 117374,
-  "version_name": "1.17.374",
+  "version_code": 118096,
+  "version_name": "1.18.96",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superreplay-production.apk",
   "dm_url": "https://build.nadaiptv.com/apks/production/com.superreplay-production.dm",
   "force_update": true,
-  "release_notes": "",
-  "published_at": "2026-07-17T20:13:30.083Z",
+  "release_notes": "Super apps v1.18.96: OFF AIR gostergesi, EPG cihaz-saati, catchup duration fix",
+  "published_at": "2026-09-22T03:17:27.723Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "L0lLxk7EFK8O5bfqwtl7eEbBxZzXeChk8vH0Az+KOwO699gfRcFcrXHBKzB4hf5T2MCZHm5jlX65oBS9RaDnZn6FqbjETK0nlQ7puB9gLSuLAiy90vTOdzNaF2Fa59vi2DLHFkoENEOWZ0AGgXYrHKa9mKvi0eYeWAQjYd2F6pHg5t8OX6eY3oTsJLHQK3q3okoMalkKlW8cJs2kr1IEVVOfGcAU26mv0CGO",
-  "enc2": "T7KL3CXxdkUClBlCd2YnFxVrwkQZ/tT6CFnrE9cWriCRCPWPVqa+L6aXmMuDAY+Atq+D5aSgXrwO3Hsi3MIJy7+n1gL/6zymuEB+pPWG8rLZCIgnABePvdLjBFCo2X24/k632jX5CpqTdpiTqrAzZoW2FSr6iZawz7/XMHwuLf14VoauQQt73vxSM9MDdkCrq26ICCKQ3uBTGsRzvYFQsxm4tGvyzc9WhWdfvYHlB0eivkvmLmg2StTjjUbnnsSm8k4kslS3WN/tnKqVH9eLT/a5uwQc+EXNKcIDkqBxM37Trk/Z6i5qInxkUWL+ZpNQ86IAA6spA3YE8ZG8CRXP/k0eEpHBqOlrYfCW/EL9f8sa6dhIBPTuCeK6BXVZ",
-  "sig2": "u0IH+dpcTzS/xlJXEY+9qHWO9b4wKc74E5dslY63n5e6yy6utQvwhdyAFPSktep2pmOZEQvhbrgEjadknEpihw=="
+  "enc": "owedcjqRRRgCT24lu8f9KpRQb3yRv1yJNA0UBuJlCOj7fJtDyKJSwl+2Z0RmW6Px9tmh1ckx+dyqJSc/x5jMf35h04c1IpbLPcKi+uzhCKmC5dueoeVHkbu5aClYI9BKOBC6R4sDHu7Y7wI/fcDzhHRzR981bFpWlRPN1SeTGVK2FvVNOoJCCkrKfc0Rea0rcmu/l/MkdC8ulEqGfXQhOdGtGzsiDJcU6oJO",
+  "enc2": "/5FY31tHoKcfW8Jw2nzNDwuR+ceDQC6LQir4wT9xBlRH9eYtAv+vkkXbeN/EMKIq3GELP/AL91LqTqIaBc2Zg4xxGLaOGR9eIMdEFT3Z3ajpahai4+IhH0RtuulW7uUp5Y+HPlfUwC4nLLS+YFb9+kBnXoqNiiAqrXO1MGTqHEtTQGlAuY/O8i2H7ab5RCqPuwqAhLqffPfz9Jjy8rir3JTOPql6Wn9wP5ouIlU86tpnlNVzR7enyKKxK2o3DnSK7kFjbe9eFXGQd6ZBQ44UrjNIdFM8HCPZg5CBBugZUPdeAEAUAs/PCQ84/L9nyOHfo3br3NVt711t9+h9gsvl8ELpqCekMCbqvHN7IuB+/2Kl9l6Ql58j+05Vaj1R",
+  "sig2": "5zonnH/jYXDW5sYEKYrRkro3edZz+sjk7RNsdtso4ykYBlJCnJfeZjVuyCSKEU8HJ7LcyMJZuaWhrLbHxWmUxA=="
 }
