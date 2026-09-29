@@ -10,6 +10,14 @@
     {
       "name": "nada-agent.sig",
       "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.nada.launcher/test/nada-agent-1.18-test.sig"
+    },
+    {
+      "name": "apps.json",
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.nada.launcher/test/apps-1.18-test.json"
+    },
+    {
+      "name": "apps.json.sig",
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.nada.launcher/test/apps-1.18-test.json.sig"
     }
   ]
 }
