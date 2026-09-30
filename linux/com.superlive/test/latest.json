@@ -1,6 +1,7 @@
 {
   "tag_name": "1.18-test",
   "prerelease": true,
+  "min_runtime_version": "0.0.0",
   "assets": [
     {
       "name": "nada-agent",
