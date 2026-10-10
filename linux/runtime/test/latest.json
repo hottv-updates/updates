@@ -17,5 +17,7 @@
       "name": "nada-runtime.sig",
       "browser_download_url": "https://github.com/hottv-updates/updates/releases/download/runtime-1.0.10/nada-runtime-1.0.10.tar.gz.sig"
     }
-  ]
+  ],
+  "sira": 1,
+  "sig": "55ecf919d991a4635d71ddd64c28614c6f6a43697e248c82e3d6bea713c0c2a4d7697a4c32845fa9010113650d70604d2942c0775b2e2ef6854f181c20b8ef06"
 }
