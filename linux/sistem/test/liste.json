@@ -1,0 +1,11 @@
+{
+  "kind": "sistem",
+  "surumler": [
+    {
+      "tag_name": "1.0.0",
+      "runtime": ">=1.0.11"
+    }
+  ],
+  "sira": 1,
+  "sig": "c9bf496195c9203a6da949360729a7f3362638107703e0fbe41d3cad23af6a2b49fc52460da67096ab9cb616de47a2f93a164398e99ab224737a5153b06b1e02"
+}
