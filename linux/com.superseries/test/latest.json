@@ -12,6 +12,6 @@
       "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.superseries/test/nada-agent-1.18-test.sig"
     }
   ],
-  "sira": 3,
-  "sig": "87506fbeccb2723241494d6cb7e78839548c33c84eb898910857f307364f5f05a04f946a16cd0cb4eb850c1f5bd7813a58bceb74ebcb83f057d502a2fa5b2103"
+  "sira": 4,
+  "sig": "4959f271f69a74d1fe0f43e6d4c116c3bbf250fa8bdf694597da2d8060834f1767551e205c91903883c860f6e1dc69ec62cfff07a6e9ea0e6d40372b455bc408"
 }
