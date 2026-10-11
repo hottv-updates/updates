@@ -4,7 +4,7 @@
   "enc": true,
   "sha256": "453942f8c45b626f1eefe5eb2890231709c21f6b26264bb9757911d4d62a2289",
   "min_bootstrap_version": "0.4.0",
-  "apply": "next_boot",
+  "apply": "immediate",
   "rollout": {
     "percent": 100
   },
