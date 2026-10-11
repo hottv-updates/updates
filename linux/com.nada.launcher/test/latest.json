@@ -20,6 +20,6 @@
       "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.nada.launcher/test/apps-1.18-test.json.sig"
     }
   ],
-  "sira": 3,
-  "sig": "26255424fd4f7b5c2e968da1081a3aa17911783c6d7e5f6554b03921e785af682565cc3bc96363e80ac624f3d81f2797b7d708e14528a448fe6ae55999a6ca01"
+  "sira": 4,
+  "sig": "42d6c0377acef03445d0b492695b09f46279ae34f2f7116754943a3730fe49be37e52b86a046e147fac290d79f255536ed80aa9dc5a7f803e92f6431b4e25902"
 }
