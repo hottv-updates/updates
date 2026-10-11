@@ -1,20 +1,20 @@
 {
-  "tag_name": "1.0.4",
+  "tag_name": "1.0.5",
   "kind": "sistem",
-  "sha256": "73eb096778f953d5645bc69c92b4b190b5facc80799b803f803215b163e6eac8",
+  "sha256": "1d073bc7ea17a3a85fc1f24a79150f5eb16e906588abd8ef6b7b7e16c33b36b0",
   "runtime": ">=1.0.12",
   "apply": "idle",
   "min_bootstrap_version": "0.4.0",
   "assets": [
     {
       "name": "nada-sistem",
-      "browser_download_url": "https://build.nadaiptv.com/updates/linux/sistem/test/nada-sistem-1.0.4.tar.gz"
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/sistem/test/nada-sistem-1.0.5.tar.gz"
     },
     {
       "name": "nada-sistem.sig",
-      "browser_download_url": "https://build.nadaiptv.com/updates/linux/sistem/test/nada-sistem-1.0.4.tar.gz.sig"
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/sistem/test/nada-sistem-1.0.5.tar.gz.sig"
     }
   ],
-  "sira": 5,
-  "sig": "de86bdf8bfa024b60f47e4e3399a9c2f737a745bbb11b1a5227017301756668cd4808f22d7c04d98852eca0e9810f04503b63272d9062acbecd9f233dc8d2109"
+  "sira": 6,
+  "sig": "19d71c0f4bffbac117031554ad2b5747b455eb51824d71ceefe93b8d62010ccf0cea234ca2931d91efb209cd4f30ceebc1bb46d0bbcd486340849893ecb64307"
 }
