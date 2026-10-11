@@ -24,8 +24,12 @@
     {
       "tag_name": "1.0.5",
       "runtime": ">=1.0.12"
+    },
+    {
+      "tag_name": "1.0.6",
+      "runtime": ">=1.0.12"
     }
   ],
-  "sira": 6,
-  "sig": "97f9dd1842e4cc6f4cb728a6f51c9a6a59ca5f0a2025551cc51875fb8277c400dcc2e6aeaa36e23509cf14a211f9330e7f918c17b4fc719043a14ee273337a00"
+  "sira": 7,
+  "sig": "4f6c2c08c74920ab3b08723cd5bb53d367a2ac07ea0d15ec31309a7e43a5ff2fc796b2075b755087b7096d8eb3d4d580b3d6b49dfc0e0d2fb118e41b04c4a508"
 }

@@ -1,0 +1,20 @@
+{
+  "tag_name": "1.0.6",
+  "kind": "sistem",
+  "sha256": "58b1418299979b923ab32da8e900503991b44666b596351dd1ac96626ca99fcd",
+  "runtime": ">=1.0.12",
+  "apply": "idle",
+  "min_bootstrap_version": "0.4.0",
+  "assets": [
+    {
+      "name": "nada-sistem",
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/sistem/test/nada-sistem-1.0.6.tar.gz"
+    },
+    {
+      "name": "nada-sistem.sig",
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/sistem/test/nada-sistem-1.0.6.tar.gz.sig"
+    }
+  ],
+  "sira": 7,
+  "sig": "59deb11a25cf5054bee59c3ec5e49fbcfeb20b004a52f3997b9df62f2b6519baaed6dd92e2fb6b072f0428b386ab7340887087affdc0d4ef34072cbc28569209"
+}
