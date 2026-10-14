@@ -1,18 +1,18 @@
 {
-  "version_code": 118096,
-  "version_name": "1.18.96",
+  "version_code": 118201,
+  "version_name": "1.18.201",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superlive-production.apk",
   "dm_url": "https://build.nadaiptv.com/apks/production/com.superlive-production.dm",
   "force_update": true,
-  "release_notes": "Super apps v1.18.96: OFF AIR gostergesi, EPG cihaz-saati, catchup duration fix",
-  "published_at": "2026-09-22T03:17:22.696Z",
+  "release_notes": "",
+  "published_at": "2026-10-14T13:53:56.594Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "cAsIOx37NloL/zSvlCbOqUGPIpjVBEhogsfO6PUzKpbeYoM3d8neCkyoWkUs9CzkIlAeMxNqBZt/EiU2w6WylefFjSj5/qckd7PQ6mtAAZjbA3VqFZZK3b6QFd2kZevcz6Bm2+QMD1ecJVPOBynig+knSc+kTfezttH1FfgnhN3E0XxI/JfPGReg/a4UbVe1Za4z1nsUoi/YtbqW5THD+DnFldOPAXIflY/P",
-  "enc2": "FYoJtNQQYS+CqQYoJUW8hL0ZuigNHw4m9d+hzNjQbx2uNIEdSxCNADAWSPhK+b8RqQIr8Pwy1NrjQ5OzVVZx6MmPx4Cmm+yb6fGj5QkW7U6FUrkYTFod0tfKkImHztJLmkYOnSj1TNOGx35EBgZvtaHTFsM8wMgeLOqRJ4cUr3pHJCk+Rwyv/Q7v1KITccQkU00FhN+D5uzqGGrojtAQpNi5X5Wr1da76BzVEseM4SanYBVBaNvfNptb2mY4ZIPnGaik8dK37x7dPukc/OzqtHalLePAU8YjR7ACGBXb4bTTH6xdQARRNam7Br9YTU+QyADSUCUxYN6Y+1sg2WhpxrZ2sW2OLYK0yK1n65o0SQc7x6dasqARt1kSKsD1",
-  "sig2": "Fa5tNet6Q5PzrPBG9NiiBi4Wwf517AlMllaOr1gqBy9xbSaHuNBcXQ6v886lVHfZXPqZluGnagUdpzJf0MqyYw=="
+  "enc": "2wbJDoS5Dkv+8PsmLbeo07y4/jFWS2Vq64bghpOJYlGsxYiXOQhtPtypsUNoAURGYNfvTbGClJk7WCm437XgCluaB9Gu1gnFVFlRqhOUsJTB6yRqs2n4Lgsw+f6HmRpoQ0o1KgWBIJ83J3BQWfO9O6e6EIiGgl8jvEWNTeswnSt+M72tUgjErJYQPdeWGB8DtqTatmlkAXlmnBcEATSgQh9rvuIN8rzjcdHY",
+  "enc2": "Omf4Q7f3KW2LisBZowSbp+h+sgk01Lsl3OyfFFrU4eh/KrxXrxW7c5pBxFDg8ZiRhzEToMDo4yzRPLt9e8tHuPOrckQIKXavV6HZdPUiF2OyrJ6cfCYNbYFeXEzasW7X4RqoFeNSerfddf3x/lg1DCXs6UKlgKSNbEsEt+shgBQMAJTJYgXydn5GSpAUcKByeRDlwZG3f3FHkBPwxe18cGrIBtNCc87dCXizxQLjaXJVcHbTuLvPep2dS1ZUhmgYZGe1esrXYUw83jFMBVN2/UYdZlIraSYkDogvE3uEDb0EnE/xymSVgU9yYAhgJv1UADQQxDrW0grOL9DCXacgjycoL++5XY7WS75ffLVHzWICqjXWwO1kG/T8HYKk",
+  "sig2": "dSrfhwx9bo4c/uw89L632ht1fhoGUX3F2F3fM4Oa2OP2dYLfMD1uHVgDZ81VFGxTRbhVcsFvk8/fCevwxLvWmg=="
 }
