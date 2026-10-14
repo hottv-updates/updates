@@ -1,18 +1,18 @@
 {
-  "version_code": 118096,
-  "version_name": "1.18.96",
+  "version_code": 118201,
+  "version_name": "1.18.201",
   "apk_url": "https://build.nadaiptv.com/apks/production/com.superseries-production.apk",
   "dm_url": "https://build.nadaiptv.com/apks/production/com.superseries-production.dm",
   "force_update": true,
-  "release_notes": "Super apps v1.18.96: OFF AIR gostergesi, EPG cihaz-saati, catchup duration fix",
-  "published_at": "2026-09-22T03:17:26.266Z",
+  "release_notes": "",
+  "published_at": "2026-10-14T13:53:54.690Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "7sVYBtLCPswzDh76hAXYU2GpY+lTpxakP6mHCnIkFgjy9qqlQQnIgiaF7O+LGfV2SQNucXuyQUMgT4c1LwVxo+KUIPhPRzwcd4nr4XLKTUzV5XT06tk75Mm8kYnZvR3y4hI36uAsQ2yMk8f71VXszqVhNOls9XzmHwk3xAZA6deIcRXXxQcKkncl0YWvTz7LG6zpz+kjAfe2DoRJ9nljXwKz8dPZrGr/VvSu",
-  "enc2": "ETc6t4icpKAm5jchxW2hvdcGu+wEIRwYiV28lH9y/T+NZ44VT53KW58wiqlQS4yjqShkHcn3HBZxnAaRVqtfgbJ6eL5BoKYFF8yALMEnrK3AQB6pCHjWJTvD4ehOSbbZKa64w+5p5nOsPyi2/ET03iwGNQwv/QP/5uhBYA8BRAYI0TLe/vnlXEKUB00aZidxiMvsI/yDsPPVTJ2/X0ud8HW10aJVfCJqYskLm+uzkXValvHwmoYT4d9mIzLJeKqzHs8V26hmXFtHYl8w3+Oug/ciLYNqsgfG1AKdRG+8y8Ew0v7ozUkAANRiPNCZGnQK1dN86UcETCo3vLvpS91cX3WzcvaumKmTtc4ymcybL/QOYucibpkMQsQopVNZ",
-  "sig2": "i205wVt4zTMnGzbWQOrhfqiWl0Jrizr2VsedhifwF7JhOd1O288Yek092EDZwwjrz25Yw2aJIliotIBs9EG05Q=="
+  "enc": "73719FqI6Q5kOmYoa3lMC8/e7n+QorZoSTKKMqkPGfgqdA0WwCji9EgT0E2vKmKpJn8DSyFGqp9T8JcHdPyPod8abPAMW+3D8KJo4Wz8mQBu2nS8aQkU7hUeJC2nWmKYi5YzTArCm3HSc+HJEKDZ3a3kWpOMdxtZR1IzKAF2w224Afs68Ou9GFshh12ig/OAw4Url3MiX8uzRS4eUEC/BRmBWddjZYUjY8L8",
+  "enc2": "ww+27KQxHl40tpbnQX4MhlAhHVdbu7zj5wpHf85/mm5u8aCwAhJ9AbnHcplGLNPvIRwT2Qk1uRTC3cSRdeFW2x+ZK30/+SvZnfV2/ubcvod2dzpqyZ3U+ZOtms+znVJLFkE6+6n3Xbh1YCYH4WCYtCOF8eUck33lM3MAfNqlmQ8fNg8RWPNkmuO0kY3bgLFftfkLTPaCNYQIay0bhL9Igra+qaYogpTQAnCXDw9unIJfEJq4TLiK0jVA2vP191F9LerhwXYLd9f5NZ9kJGN89hFb+iE9ZD98/iVjLymfyG68iW5WgyJtcKyyqS4AlFQ42UHHq89kM/GcnLE9OXziVntGXzmAsX/rUWrVk/71uBwRUxyqm5//Jnh2ejWM",
+  "sig2": "SBuJn7VZLnI7idA5Pl/LC/f/4jKdD5hI7Z+d12GU8rSsf7NAOSu7et9+Ch9bJG8oL4WJae7tGxtKiYEdQp7KKg=="
 }
