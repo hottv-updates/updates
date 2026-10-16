@@ -14,18 +14,6 @@
       "runtime": ">=1.0.12"
     },
     {
-      "tag_name": "1.0.3",
-      "runtime": ">=1.0.12"
-    },
-    {
-      "tag_name": "1.0.4",
-      "runtime": ">=1.0.12"
-    },
-    {
-      "tag_name": "1.0.5",
-      "runtime": ">=1.0.12"
-    },
-    {
       "tag_name": "1.0.6",
       "runtime": ">=1.0.12"
     },
@@ -54,10 +42,6 @@
       "runtime": ">=1.0.14"
     },
     {
-      "tag_name": "1.0.13",
-      "runtime": ">=1.0.14"
-    },
-    {
       "tag_name": "1.0.14",
       "runtime": ">=1.0.14"
     },
@@ -66,14 +50,10 @@
       "runtime": ">=1.0.14"
     },
     {
-      "tag_name": "1.0.16",
-      "runtime": ">=1.0.14"
-    },
-    {
       "tag_name": "1.0.17",
       "runtime": ">=1.0.14"
     }
   ],
-  "sira": 18,
-  "sig": "a500dc1cdfd6fae367445834ead8bf3a36df2d62c657d3d53115e7cd7e6af51c8300f33bbaeee3ab146257b43df468f9bd49b8e8fb321be54121e6de51805e04"
+  "sira": 19,
+  "sig": "9215be752319a2d52b40a4f87504ac5643bb84f3a5b9b0aa5d33a56522051bd1ea8ae3a013016b1be973d64fa8bc248a18f1e4e6e2ef8fffa61aa43775c8c309"
 }
