@@ -1,0 +1,18 @@
+{
+  "version_code": 118255,
+  "version_name": "1.18.255",
+  "apk_url": "https://build.nadaiptv.com/apks/test/com.catchup.tv-test.apk",
+  "dm_url": "https://build.nadaiptv.com/apks/test/com.catchup.tv-test.dm",
+  "force_update": true,
+  "release_notes": "",
+  "published_at": "2026-10-17T17:34:45.853Z",
+  "pd": [
+    "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
+    "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
+  ],
+  "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
+  "as": "QWNTcE9GdUNQVUpoZjA=",
+  "enc": "u5RNWLisCniW1oezOH7V0sedIiDVlFEq7k23SNoyRId7J5/+3pjJ06rJ7DhbG5q6/DQshxVGw4/ttmZAwN5WJ9RCrQ9oLUV+ZGGoYZwJdC6z/Z5fqwfJnQUOBoYBl5LgNYiSCiHje5OwIGEjxrmZ2ueNdRRaToSloAKJor3zVfpMK1xMY3Z2Skwr/D0Bw86/rAKJ+j5MJuIH1JG7X04f5HIS4VQFzcEtatOZ",
+  "enc2": "vqoef9HdufdVIS1QMvPBTg8ED8nS0EFNOyyij1SsPbzuyYr/AUvJXDdUf2WKa4SnBOwKMMgK9ozlcL5/3d8sUZUlr0/d/Fl7j6G6uxcAsHyyR5CtE0qcucSUlEa2RbcunXyl920HP45SU/FXC3rd8+ckM00XqShQY7G8TBZ2KlcM2VroxEOSugMiFetJcstBj5w5aZzOt+mDLP2KEYm+yLCXXClDX05h6zV+YTTvaw1vSNlE+G0lkInhzxmtUI0oFvTZV3YKWsDc222v/gCtrgnGJnGC4TwXe2I4SlZV1BAv1aqqmxrEBaORM4EqqFwE2GWLNnvypGg25phNb/iy/pWI+YhZ1fU2EDGrnV2NlJ09LdF4QNBpIpgn435b",
+  "sig2": "D7CIiC9NFE2YueDyY0NHQjUUp1QavUMqSi6dW1gP+ac6XE1N9QZjsLcgzYji1H3AMXmKH9t0RjEuDpRJZqxepg=="
+}
