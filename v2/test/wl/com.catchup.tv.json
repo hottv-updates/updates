@@ -1,18 +1,18 @@
 {
-  "version_code": 118261,
-  "version_name": "1.18.261",
+  "version_code": 118263,
+  "version_name": "1.18.263",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.catchup.tv-test.apk",
   "dm_url": "https://build.nadaiptv.com/apks/test/com.catchup.tv-test.dm",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-10-17T21:41:26.622Z",
+  "published_at": "2026-10-17T22:40:46.990Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "BGDALEFviAGsZkTID79g+pJHJNB3iOw8zy6yk4Gi97fdJBjx3IUcT4lMyqkmPY1vW82Km0hh7q8jX+DMJRpN4ZTclxo/X2ny6pefneiRwf5v9e0l296w/x82ogjP8twndxhJ152bv1uJpoWIKLPVMea3SkH1w5t14OElqLX/u32UE4FO16TEVyjzR34KaszUSfBDW6AqqbuWyDJAmutZSnmmv2P671dSfxu8",
-  "enc2": "pFM22vT2QcD+D5Bn8QpwoZWlHhd6gA93wiDjIaYONalSRszanGP7wF8+7mU8F3JtDcnbjO0V1PwF3HFBC00bj+huF3P4EqJHT9JPX4LA8BO9duZZWAUhHrAEbHax2j9/2I7QDzVXaoNzn0T2oJbKT9y22h4SWpF3YlsiXrsuZHj7HrKK+IhrV+LzXkw9XdEs5Bf+bZoqf8NKtPznUBqHT8yu/38VKqbQSbxXjLoGS1zhwkvkhFqdU2EBhZJApf5x55guX5JQiYjbQEfmBoHC1jyPRO7KB9JT34bwGpPvEmf4t/GMo+inpeOEFIEDptmPx4g3ec3YQYaVRUJdQtKMPlnRz42UWKr1uwJEIWCk0LcygDbAMxRBybZ+Bx1E",
-  "sig2": "XNojsQi0Dl3ZxmY0l4Mj7h4PVOveA3LCoVM2bv5eoMeA1eegEgsYVfZm9gRBAftucvKmZTN8GIAimVxtC2mIyg=="
+  "enc": "Ae317htvqxIwVuZ4gPXyerqYZCjdmCkPlgdvR2E4U8l7VWcP8gg8r55ItJJsQ+NiL/feUIXxclFZdJJWGZrf2SN2SuATjGDk/GkXFsGCi/l9t+SSejNmDkDJ1j6StgpAVliuzJin9phit2FSPKFFOHsu7FiL/qz+xY2a4tl4LNWrN7yAqkKjgPSUbnH9+2/bnTeMR2botSE8uBHvSNUB7lwmiVHKsdpLv8TG",
+  "enc2": "v+X0BzTjpQcuVsLD1ys3oj1B6Z15dON3J/ZUXSjxATuib/e8eV03Z0q5LdNmy/6nerZ2HOcuzV21p8EUvQqVW1nPN5b5EnP+FuBO8LfBqR7+SrYgsKAHv7w0oy6rC1ilhuDGlxZs+Aev6xGrs2guVkrwz3igWVuFvpF8N3J9yNBn1zdLw4W3NuYDCwHKzZ/dnt4tsd6azBogPymLlDLlBEAtCDMUazfuQ0NksLvakVZKIR4R14khxxIlNjOiQJuNu1HXsLEYEbgbRDR3TMe9lAUmekz6pf/73mQ+U8T4DH4ydK9cjZsadr6WX+gAx0Iv8JZkk2jeDL0IwMLo55/z26lp0NZxkzFPiKja3DRpcmBHbmR6imzbgjDB5C45",
+  "sig2": "vLhjewk5mUWyu+paE6w4gRIiaqaQkELnocKeiNPLFEMs+Oji98kIOq8CeXXk5WcnN5+BiuQn5lMZJm4EkfoOGg=="
 }
