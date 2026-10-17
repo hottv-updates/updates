@@ -1,18 +1,18 @@
 {
-  "version_code": 118255,
-  "version_name": "1.18.255",
+  "version_code": 118258,
+  "version_name": "1.18.258",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.catchup.tv-test.apk",
   "dm_url": "https://build.nadaiptv.com/apks/test/com.catchup.tv-test.dm",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-10-17T17:34:45.853Z",
+  "published_at": "2026-10-17T20:04:01.666Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "u5RNWLisCniW1oezOH7V0sedIiDVlFEq7k23SNoyRId7J5/+3pjJ06rJ7DhbG5q6/DQshxVGw4/ttmZAwN5WJ9RCrQ9oLUV+ZGGoYZwJdC6z/Z5fqwfJnQUOBoYBl5LgNYiSCiHje5OwIGEjxrmZ2ueNdRRaToSloAKJor3zVfpMK1xMY3Z2Skwr/D0Bw86/rAKJ+j5MJuIH1JG7X04f5HIS4VQFzcEtatOZ",
-  "enc2": "vqoef9HdufdVIS1QMvPBTg8ED8nS0EFNOyyij1SsPbzuyYr/AUvJXDdUf2WKa4SnBOwKMMgK9ozlcL5/3d8sUZUlr0/d/Fl7j6G6uxcAsHyyR5CtE0qcucSUlEa2RbcunXyl920HP45SU/FXC3rd8+ckM00XqShQY7G8TBZ2KlcM2VroxEOSugMiFetJcstBj5w5aZzOt+mDLP2KEYm+yLCXXClDX05h6zV+YTTvaw1vSNlE+G0lkInhzxmtUI0oFvTZV3YKWsDc222v/gCtrgnGJnGC4TwXe2I4SlZV1BAv1aqqmxrEBaORM4EqqFwE2GWLNnvypGg25phNb/iy/pWI+YhZ1fU2EDGrnV2NlJ09LdF4QNBpIpgn435b",
-  "sig2": "D7CIiC9NFE2YueDyY0NHQjUUp1QavUMqSi6dW1gP+ac6XE1N9QZjsLcgzYji1H3AMXmKH9t0RjEuDpRJZqxepg=="
+  "enc": "Xw7oy8Szm8b3UL2XWAJxBtXI63wFBjxZw060xKqGcOoLxYo0B9Zg3kD1BQ8EXf0QrRpU9a9sOr5OmNsxqC765FaBqvTF3k+svlHqYOEJhYQgRyjZEVAqVcwSVTTBlCyv+3H1MKVJEcL/V3OteBpw7UkIb8GgeVAX2boJRi1onNkoOBFPvrbUY4NNc0VwlDUQgUTWFgNYFgZHeXlrWHUCBeG8XKBjx8JUD9KX",
+  "enc2": "e6XiIAax+e6Keg9EYoCX7j1DOV4f4K8E83wAx/LpLVLBb47Ir3g242+3gTd/T4u1Nq4dtIOI21EMz7oPwG0xEVp8kv68pUn1UT1xSWwzZ5YQm3FlOwz13tdcvWJsmb9xWhpnxZd8mdk/xRQbeteYhbsMiY/KbqMzS6podyWIfdFZClqt9vWV8kJe7cEmAXLb40gxL06VQt0kqhsv0lDoZEElAVpl3oJq2BT/wI8VDkagI3iSMR0LDXOUz6EYy0EbxN5TV67LesUi1eAoN7xisYedLJ2vGREpsKI2szfJ4ji8SiLbcfIG318cYTXvuLDJLWwe2zMfjoMou+iwsAMnhNhMEbNwxaLsmcQG3EHNzmUMcjXt8H+Tt9tLv2qs",
+  "sig2": "h4OmIxNJyMg6yIDpK8VCIYMXpsL3H0jioBwOK7dZNOuOZ0vTIXhEL0uNecS7QhDu0CRhM242aczHinTjCzPZ4w=="
 }
