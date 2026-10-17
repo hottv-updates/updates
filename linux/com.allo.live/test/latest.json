@@ -12,6 +12,6 @@
       "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.allo.live/test/nada-agent-1.18-test.sig"
     }
   ],
-  "sira": 12,
-  "sig": "e95b14fbfdef90355ebfaf48bc7a7635107198e5cf32e75ee096e9106fb18bc5f9e7aeefa3bd43d19adfe5ddfa653995f5eb51576e17c4f56b28522eda4efb0c"
+  "sira": 13,
+  "sig": "16c075c698f0226e27e5bc1b23b6da840293552095cca17cb775af48404cdfb154d8a3307d4f6d0bbb75a295072f098eaf7c6393b78c1cb57ac1830dd938ee0f"
 }
