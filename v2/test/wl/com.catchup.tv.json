@@ -1,19 +1,19 @@
 {
-  "version_code": 118266,
-  "version_name": "1.18.266",
+  "version_code": 118267,
+  "version_name": "1.18.267",
   "apk_url": "https://build.nadaiptv.com/apks/test/com.catchup.tv-test.apk",
   "dm_url": "https://build.nadaiptv.com/apks/test/com.catchup.tv-test.dm",
   "force_update": true,
   "release_notes": "",
-  "published_at": "2026-10-18T16:33:34.037Z",
+  "published_at": "2026-10-18T16:51:47.345Z",
   "pd": [
     "aHR0cHM6Ly9hcGkubmFkYWlwdHYuY29t",
     "aHR0cHM6Ly8xMjguMTQwLjEwLjI1NA=="
   ],
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "as": "QWNTcE9GdUNQVUpoZjA=",
-  "enc": "BZV+RsYXqemYskvbVaVG8XamiNu/ZK30qyY1yM4JK9ir1J+c4gKc7rkfyP+OtcSpUQOIslXIIMjfsAPG/wmY8pdkMIMoCWvCzsoZjzW0dAEcz3T/C6TLGCveopxJtz9yWH/4Enwef/zZDz/IP9FDpI5VAyguV8pDwdMTH9ykxBOh+PlkdCmiA3vmhtYgvrzUHMaxUS3sSvXLsTQz3LSvaEz6XPjTsBmIjwBh",
+  "enc": "DLbpCg0dz5u210+tcaT5GR8tzPJo1fdC7HqKLJYAvHFOPJyPW1fw/HVmACpuxeEugmjEFox1+OFu5udEAds25wLPT6dkWuzWc49BYMS5Caf7lqDR5au9wsKy9oLJ/jDG9qpW5RiHqbuFNJepmffhke+KUKltFtbjPAdi3W7vIaZ2EB/zo6rTfRdmyh0CYYCY5YeakBsTJKtWY2nXqyHkkR5smf3td68Ldioi",
   "install_mode": "session_dm",
-  "enc2": "svfWuy1w8cQZFC9fS4QEK3PJEJkmlrWBr2SAQtjXSlLiEboA4kZJq7bGKv067ZUbNdvA0tO6gfGBoAbrLw848JFY+45xb14siEGelzezN4RHcXu/RFbYiTQmltE1VOPNVRcd/3ozN13WLTGns4vZit/CUDHua1tuY1Cvb9yagE+2Y4K2N55rrXhaIt6MC3CK0ygDqR94Ywhlkl26N+Bd1hAcog01P+hbEVjDf++E0+Un/4bvN4CHc+n5ioakdSsg4t4OpAptHpwOL3goQ6ktT45Lgsv02eSRSvo75DcTdA40eSMCm80com1PfkRbG1sZ347QeUl/zagsiDxhlVZJDd8DR9xiFy8U7XEtVJLuSS6+C5HO9KWGeqnvI2Ym",
-  "sig2": "fWdBNqcCAccAz29m2PkiKGJXoXv3PMN6rpG8jfRO113/BeUrJ/HbNT2h2wdcZBuzQGjlcypUxtFoX0H1fFAAlA=="
+  "enc2": "WZr2y3nRRvjcLpZi/T/tRsqhsB4Kt6Np+zrCMJwH04HS/V1//UOpKz6GHdMJXEofq1+qkZLrWPPqed0C87StHNjzran7ZyHXTEVEAlVQqMlnWsF7DdzGXyRq74eqxCojGZKQp6461NtvfGzbcXtnvvpoq2Fvh8nGg2JbB2zXkqJsN8PDT59oxoQ89TXDTnHiMt4r07az7NSaBOVSWUjKY4xulphAqUDorN8RlN/o8SQqM3KbKFQbzidAUPU318WRUMQC/vtrte6QUyUPYmEfU/DOzKAprSKavnH4C6yrlpwnTYNwHcVX1PFVbBlTFQ4c/HA2e/HPF4r1ojcsX/svlmfodJZ0T15rr3U7w+CMC9BlwdTxc+TjbR7rdwmJ",
+  "sig2": "Am9NTbXmESy8FJYSyuWaZbdxsQoYcJCWcFFwy3mWs87aHq1CikQPC6teHqGzxTy4BSSQrcS15Ji+qabic2cHvA=="
 }
