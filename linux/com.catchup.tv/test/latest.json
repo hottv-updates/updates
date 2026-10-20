@@ -12,6 +12,6 @@
       "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.catchup.tv/test/nada-agent-1.18-test.sig"
     }
   ],
-  "sira": 4,
-  "sig": "3008279270f387fd9b691d06c2bec95e5c910e98098a9e4eb33e99e4f85c7067a4e76fe56329333cdc402500e0d3fcb0b784062396795568660a8123cc1cba09"
+  "sira": 5,
+  "sig": "faf4991b1c3bdd5ab3ee1c70dff0cb78edd905843ec8d0f0cee9903711aa83073cb8d33b39855011f2b9b85d2a1452d5bc6ffeb9c28302829f59b339ddb44109"
 }
