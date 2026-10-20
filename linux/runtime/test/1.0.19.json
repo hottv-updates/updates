@@ -1,0 +1,23 @@
+{
+  "tag_name": "1.0.19",
+  "kind": "runtime",
+  "enc": true,
+  "sha256": "0da0b4abd2f02c45f2ce046d6b858733e92a6c0eafd1a33c6d3cc4e5bbeaeec3",
+  "min_bootstrap_version": "0.4.0",
+  "apply": "next_boot",
+  "rollout": {
+    "percent": 100
+  },
+  "assets": [
+    {
+      "name": "nada-runtime",
+      "browser_download_url": "https://github.com/hottv-updates/updates/releases/download/runtime-1.0.19/nada-runtime-1.0.19.tar.gz"
+    },
+    {
+      "name": "nada-runtime.sig",
+      "browser_download_url": "https://github.com/hottv-updates/updates/releases/download/runtime-1.0.19/nada-runtime-1.0.19.tar.gz.sig"
+    }
+  ],
+  "sira": 11,
+  "sig": "37e1a85706c24ed606b1fcb945916254fe40eaf63165cfda441eec703335c66161baa7fe47655b146ed03900c9615f745789f0414c74697e96d47a78ec3f3107"
+}
