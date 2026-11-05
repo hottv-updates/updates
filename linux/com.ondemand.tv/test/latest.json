@@ -12,6 +12,6 @@
       "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.ondemand.tv/test/nada-agent-1.18-test.sig"
     }
   ],
-  "sira": 9,
-  "sig": "a799be2acb0e255e7e1090c079f79c7a9731c198c262b78d522398d34ed276a7423828f9bf181ed0979bec70f252cc6998acdc403725819047ce5758409dc705"
+  "sira": 10,
+  "sig": "eabd07fe06a75a59f5de6929c97cb6e48461fb544034ff000e208b1b2559e19c482c10aa761cecc0e7ce1c6b65a94beb82904d37fc53241f9283faa5b41c8a07"
 }
