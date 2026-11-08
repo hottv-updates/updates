@@ -13,5 +13,19 @@
   "au": "aHR0cDovL2hvdGFwaS5qYWJhLnR2OjgwODkvYXBpL3RoaXJkcGFydHkvYXV0aC1kZXZpY2U=",
   "enc": "b1fwVyEPFBVBv4DTdrS7x1zlD7KWFM1eQnGbZ1S4dVd4DByr5tgbi9D/+M5wN4YfjzD4rC7XlfQDKFRUeLIraPgwhGfj/J00hAeBNsVo4nskk2FFtjptcsh070PO4gBOBV0gHj1tq3nVL3AxoZIDwxs117q4PHn01zzggoVZZqdsS0NW1N3WFbLlvy42g8bS2Rb3YDsNN6ejD3bLxNLx5xHPA2rZkvoCkePs",
   "enc2": "iT7tIzqcitU3+HZGOy7cfhPcC8MqKoMfAottAU+FHdXprMXkCTwYYHkgjAyqagbLnsvXZuMm3TVfAMAR621zagnxqwUsiPJepnJBf8bwCeUSBgKcfu6fBuKYoShhuJaUgVhbm2kQgbKOnkTOPQpUdTNdgzyI+QaSth7Y1o89UMXKXG2TB3rZmZO+ys8UcZmPvGZ3ymnT9z8t2GvDYoY/+/jS7Q4bEmh/CYEYEzieXP1SnJCEXXooa+u4q7a87gjHpCHjWrucGBkxBBN+1Icy/1pB2Zn8onjKwrAFUYMl32IsLDN6/JWLS2Z7o45zn/tqWMMplkmfmAA53fIw6sH09qd+ROLnM4wE8oq3fqSxe69jw/sVDDSAAGCOEO8m",
-  "sig2": "cDBfG+0c+XVTBUyXc7aC51pGk4ZyW2xZ4t65rtlMAQzFfB1PVWgG9/jUQs6+nH1rkTdbYLlweiRzlAtpN8wHyA=="
+  "sig2": "cDBfG+0c+XVTBUyXc7aC51pGk4ZyW2xZ4t65rtlMAQzFfB1PVWgG9/jUQs6+nH1rkTdbYLlweiRzlAtpN8wHyA==",
+  "rollout": {
+    "version_code": 118431,
+    "version_name": "1.18.431",
+    "apk_url": "https://build.nadaiptv.com/apks/test/com.supervod-test-rollout.apk",
+    "dm_url": "https://build.nadaiptv.com/apks/test/com.supervod-test-rollout.dm",
+    "force_update": false,
+    "release_notes": "G3 canary 431",
+    "published_at": "2026-11-08T10:19:05.220Z",
+    "percent": 0,
+    "liste": [],
+    "build_id": 2523,
+    "build_kind": "wl",
+    "apk_size": 16731604
+  }
 }
