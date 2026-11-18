@@ -1,0 +1,17 @@
+{
+  "tag_name": "1.18-test",
+  "prerelease": true,
+  "min_runtime_version": "0.0.0",
+  "assets": [
+    {
+      "name": "nada-agent",
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.seriesplus.tv/test/nada-agent-1.18-test"
+    },
+    {
+      "name": "nada-agent.sig",
+      "browser_download_url": "https://build.nadaiptv.com/updates/linux/com.seriesplus.tv/test/nada-agent-1.18-test.sig"
+    }
+  ],
+  "sira": 1,
+  "sig": "ad4894ff02e8b2b37bd913cab8a089f49a0fa5123ed240c817e08f47d1e8151075e0d58376ba46a9af723602d42835c85afd88da70e1e6b3e975a4f3c79cb50c"
+}
