@@ -1,8 +1,8 @@
 {
-  "tag_name": "1.0.20",
+  "tag_name": "1.0.21",
   "kind": "runtime",
   "enc": true,
-  "sha256": "16891c8d43640d9b5e3b087cfbd50cccf7c51423bab32cd178307382d15f07c6",
+  "sha256": "cb8e86f1fe0204170e1e7845d66d383a7b0ce90fd2cc88feb9d19881ca399dd0",
   "min_bootstrap_version": "0.4.0",
   "apply": "next_boot",
   "rollout": {
@@ -11,13 +11,13 @@
   "assets": [
     {
       "name": "nada-runtime",
-      "browser_download_url": "https://github.com/hottv-updates/updates/releases/download/runtime-1.0.20/nada-runtime-1.0.20.tar.gz"
+      "browser_download_url": "https://github.com/hottv-updates/updates/releases/download/runtime-1.0.21/nada-runtime-1.0.21.tar.gz"
     },
     {
       "name": "nada-runtime.sig",
-      "browser_download_url": "https://github.com/hottv-updates/updates/releases/download/runtime-1.0.20/nada-runtime-1.0.20.tar.gz.sig"
+      "browser_download_url": "https://github.com/hottv-updates/updates/releases/download/runtime-1.0.21/nada-runtime-1.0.21.tar.gz.sig"
     }
   ],
-  "sira": 12,
-  "sig": "ef418010f2b5512a82ed85439b393ca11b0a5d7b180babbd35d8050ae6b0fc183097427e8a7932be293fb5eae435b9db01179ec7972d3dd353dd461b45134c0f"
+  "sira": 13,
+  "sig": "c01d73e3c10ef61d6f46268778c6c752bef8bf78b89bcfc931c2823b313b6eb8f8ef589378ca4683f55c924e1b94b6603bc37a502e2beababf71ae2e5961e808"
 }
